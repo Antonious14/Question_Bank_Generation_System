@@ -1,0 +1,528 @@
+An object with a mass of 3.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 600.00 J
+B) 610.00 J
+C) 620.00 J
+D) 590.00 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 661.50 J
+B) 671.50 J
+C) 681.50 J
+D) 651.50 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 726.00 J
+B) 736.00 J
+C) 746.00 J
+D) 716.00 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 793.50 J
+B) 803.50 J
+C) 813.50 J
+D) 783.50 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 864.00 J
+B) 874.00 J
+C) 884.00 J
+D) 854.00 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 937.50 J
+B) 947.50 J
+C) 957.50 J
+D) 927.50 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 1014.00 J
+B) 1024.00 J
+C) 1034.00 J
+D) 1004.00 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 1093.50 J
+B) 1103.50 J
+C) 1113.50 J
+D) 1083.50 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 1176.00 J
+B) 1186.00 J
+C) 1196.00 J
+D) 1166.00 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 1261.50 J
+B) 1271.50 J
+C) 1281.50 J
+D) 1251.50 J
+
+An object with a mass of 3.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 1350.00 J
+B) 1360.00 J
+C) 1370.00 J
+D) 1340.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 800.00 J
+B) 810.00 J
+C) 820.00 J
+D) 790.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 882.00 J
+B) 892.00 J
+C) 902.00 J
+D) 872.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 968.00 J
+B) 978.00 J
+C) 988.00 J
+D) 958.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 1058.00 J
+B) 1068.00 J
+C) 1078.00 J
+D) 1048.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 1152.00 J
+B) 1162.00 J
+C) 1172.00 J
+D) 1142.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 1250.00 J
+B) 1260.00 J
+C) 1270.00 J
+D) 1240.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 1352.00 J
+B) 1362.00 J
+C) 1372.00 J
+D) 1342.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 1458.00 J
+B) 1468.00 J
+C) 1478.00 J
+D) 1448.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 1568.00 J
+B) 1578.00 J
+C) 1588.00 J
+D) 1558.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 1682.00 J
+B) 1692.00 J
+C) 1702.00 J
+D) 1672.00 J
+
+An object with a mass of 4.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 1800.00 J
+B) 1810.00 J
+C) 1820.00 J
+D) 1790.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 1000.00 J
+B) 1010.00 J
+C) 1020.00 J
+D) 990.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 1102.50 J
+B) 1112.50 J
+C) 1122.50 J
+D) 1092.50 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 1210.00 J
+B) 1220.00 J
+C) 1230.00 J
+D) 1200.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 1322.50 J
+B) 1332.50 J
+C) 1342.50 J
+D) 1312.50 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 1440.00 J
+B) 1450.00 J
+C) 1460.00 J
+D) 1430.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 1562.50 J
+B) 1572.50 J
+C) 1582.50 J
+D) 1552.50 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 1690.00 J
+B) 1700.00 J
+C) 1710.00 J
+D) 1680.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 1822.50 J
+B) 1832.50 J
+C) 1842.50 J
+D) 1812.50 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 1960.00 J
+B) 1970.00 J
+C) 1980.00 J
+D) 1950.00 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 2102.50 J
+B) 2112.50 J
+C) 2122.50 J
+D) 2092.50 J
+
+An object with a mass of 5.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 2250.00 J
+B) 2260.00 J
+C) 2270.00 J
+D) 2240.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 1200.00 J
+B) 1210.00 J
+C) 1220.00 J
+D) 1190.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 1323.00 J
+B) 1333.00 J
+C) 1343.00 J
+D) 1313.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 1452.00 J
+B) 1462.00 J
+C) 1472.00 J
+D) 1442.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 1587.00 J
+B) 1597.00 J
+C) 1607.00 J
+D) 1577.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 1728.00 J
+B) 1738.00 J
+C) 1748.00 J
+D) 1718.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 1875.00 J
+B) 1885.00 J
+C) 1895.00 J
+D) 1865.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 2028.00 J
+B) 2038.00 J
+C) 2048.00 J
+D) 2018.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 2187.00 J
+B) 2197.00 J
+C) 2207.00 J
+D) 2177.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 2352.00 J
+B) 2362.00 J
+C) 2372.00 J
+D) 2342.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 2523.00 J
+B) 2533.00 J
+C) 2543.00 J
+D) 2513.00 J
+
+An object with a mass of 6.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 2700.00 J
+B) 2710.00 J
+C) 2720.00 J
+D) 2690.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 1400.00 J
+B) 1410.00 J
+C) 1420.00 J
+D) 1390.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 1543.50 J
+B) 1553.50 J
+C) 1563.50 J
+D) 1533.50 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 1694.00 J
+B) 1704.00 J
+C) 1714.00 J
+D) 1684.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 1851.50 J
+B) 1861.50 J
+C) 1871.50 J
+D) 1841.50 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 2016.00 J
+B) 2026.00 J
+C) 2036.00 J
+D) 2006.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 2187.50 J
+B) 2197.50 J
+C) 2207.50 J
+D) 2177.50 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 2366.00 J
+B) 2376.00 J
+C) 2386.00 J
+D) 2356.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 2551.50 J
+B) 2561.50 J
+C) 2571.50 J
+D) 2541.50 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 2744.00 J
+B) 2754.00 J
+C) 2764.00 J
+D) 2734.00 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 2943.50 J
+B) 2953.50 J
+C) 2963.50 J
+D) 2933.50 J
+
+An object with a mass of 7.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 3150.00 J
+B) 3160.00 J
+C) 3170.00 J
+D) 3140.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 1600.00 J
+B) 1610.00 J
+C) 1620.00 J
+D) 1590.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 1764.00 J
+B) 1774.00 J
+C) 1784.00 J
+D) 1754.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 1936.00 J
+B) 1946.00 J
+C) 1956.00 J
+D) 1926.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 2116.00 J
+B) 2126.00 J
+C) 2136.00 J
+D) 2106.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 2304.00 J
+B) 2314.00 J
+C) 2324.00 J
+D) 2294.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 2500.00 J
+B) 2510.00 J
+C) 2520.00 J
+D) 2490.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 2704.00 J
+B) 2714.00 J
+C) 2724.00 J
+D) 2694.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 2916.00 J
+B) 2926.00 J
+C) 2936.00 J
+D) 2906.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 3136.00 J
+B) 3146.00 J
+C) 3156.00 J
+D) 3126.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 3364.00 J
+B) 3374.00 J
+C) 3384.00 J
+D) 3354.00 J
+
+An object with a mass of 8.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 3600.00 J
+B) 3610.00 J
+C) 3620.00 J
+D) 3590.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 1800.00 J
+B) 1810.00 J
+C) 1820.00 J
+D) 1790.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 1984.50 J
+B) 1994.50 J
+C) 2004.50 J
+D) 1974.50 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 2178.00 J
+B) 2188.00 J
+C) 2198.00 J
+D) 2168.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 2380.50 J
+B) 2390.50 J
+C) 2400.50 J
+D) 2370.50 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 2592.00 J
+B) 2602.00 J
+C) 2612.00 J
+D) 2582.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 2812.50 J
+B) 2822.50 J
+C) 2832.50 J
+D) 2802.50 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 3042.00 J
+B) 3052.00 J
+C) 3062.00 J
+D) 3032.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 3280.50 J
+B) 3290.50 J
+C) 3300.50 J
+D) 3270.50 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 3528.00 J
+B) 3538.00 J
+C) 3548.00 J
+D) 3518.00 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 3784.50 J
+B) 3794.50 J
+C) 3804.50 J
+D) 3774.50 J
+
+An object with a mass of 9.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 4050.00 J
+B) 4060.00 J
+C) 4070.00 J
+D) 4040.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 20.0 m/s. What is its kinetic energy?
+A) 2000.00 J
+B) 2010.00 J
+C) 2020.00 J
+D) 1990.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 21.0 m/s. What is its kinetic energy?
+A) 2205.00 J
+B) 2215.00 J
+C) 2225.00 J
+D) 2195.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 22.0 m/s. What is its kinetic energy?
+A) 2420.00 J
+B) 2430.00 J
+C) 2440.00 J
+D) 2410.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 23.0 m/s. What is its kinetic energy?
+A) 2645.00 J
+B) 2655.00 J
+C) 2665.00 J
+D) 2635.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 24.0 m/s. What is its kinetic energy?
+A) 2880.00 J
+B) 2890.00 J
+C) 2900.00 J
+D) 2870.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 25.0 m/s. What is its kinetic energy?
+A) 3125.00 J
+B) 3135.00 J
+C) 3145.00 J
+D) 3115.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 26.0 m/s. What is its kinetic energy?
+A) 3380.00 J
+B) 3390.00 J
+C) 3400.00 J
+D) 3370.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 27.0 m/s. What is its kinetic energy?
+A) 3645.00 J
+B) 3655.00 J
+C) 3665.00 J
+D) 3635.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 28.0 m/s. What is its kinetic energy?
+A) 3920.00 J
+B) 3930.00 J
+C) 3940.00 J
+D) 3910.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 29.0 m/s. What is its kinetic energy?
+A) 4205.00 J
+B) 4215.00 J
+C) 4225.00 J
+D) 4195.00 J
+
+An object with a mass of 10.0 kg is moving at a velocity of 30.0 m/s. What is its kinetic energy?
+A) 4500.00 J
+B) 4510.00 J
+C) 4520.00 J
+D) 4490.00 J
+

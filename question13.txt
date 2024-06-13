@@ -1,0 +1,528 @@
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 5.0 m/s?
+A) 15.00 kg m/s
+B) 25.00 kg m/s
+C) 35.00 kg m/s
+D) 5.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 6.0 m/s?
+A) 18.00 kg m/s
+B) 28.00 kg m/s
+C) 38.00 kg m/s
+D) 8.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 7.0 m/s?
+A) 21.00 kg m/s
+B) 31.00 kg m/s
+C) 41.00 kg m/s
+D) 11.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 8.0 m/s?
+A) 24.00 kg m/s
+B) 34.00 kg m/s
+C) 44.00 kg m/s
+D) 14.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 9.0 m/s?
+A) 27.00 kg m/s
+B) 37.00 kg m/s
+C) 47.00 kg m/s
+D) 17.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 10.0 m/s?
+A) 30.00 kg m/s
+B) 40.00 kg m/s
+C) 50.00 kg m/s
+D) 20.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 11.0 m/s?
+A) 33.00 kg m/s
+B) 43.00 kg m/s
+C) 53.00 kg m/s
+D) 23.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 12.0 m/s?
+A) 36.00 kg m/s
+B) 46.00 kg m/s
+C) 56.00 kg m/s
+D) 26.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 13.0 m/s?
+A) 39.00 kg m/s
+B) 49.00 kg m/s
+C) 59.00 kg m/s
+D) 29.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 14.0 m/s?
+A) 42.00 kg m/s
+B) 52.00 kg m/s
+C) 62.00 kg m/s
+D) 32.00 kg m/s
+
+What is the momentum of an object with a mass of 3.0 kg and a velocity of 15.0 m/s?
+A) 45.00 kg m/s
+B) 55.00 kg m/s
+C) 65.00 kg m/s
+D) 35.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 5.0 m/s?
+A) 20.00 kg m/s
+B) 30.00 kg m/s
+C) 40.00 kg m/s
+D) 10.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 6.0 m/s?
+A) 24.00 kg m/s
+B) 34.00 kg m/s
+C) 44.00 kg m/s
+D) 14.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 7.0 m/s?
+A) 28.00 kg m/s
+B) 38.00 kg m/s
+C) 48.00 kg m/s
+D) 18.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 8.0 m/s?
+A) 32.00 kg m/s
+B) 42.00 kg m/s
+C) 52.00 kg m/s
+D) 22.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 9.0 m/s?
+A) 36.00 kg m/s
+B) 46.00 kg m/s
+C) 56.00 kg m/s
+D) 26.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 10.0 m/s?
+A) 40.00 kg m/s
+B) 50.00 kg m/s
+C) 60.00 kg m/s
+D) 30.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 11.0 m/s?
+A) 44.00 kg m/s
+B) 54.00 kg m/s
+C) 64.00 kg m/s
+D) 34.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 12.0 m/s?
+A) 48.00 kg m/s
+B) 58.00 kg m/s
+C) 68.00 kg m/s
+D) 38.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 13.0 m/s?
+A) 52.00 kg m/s
+B) 62.00 kg m/s
+C) 72.00 kg m/s
+D) 42.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 14.0 m/s?
+A) 56.00 kg m/s
+B) 66.00 kg m/s
+C) 76.00 kg m/s
+D) 46.00 kg m/s
+
+What is the momentum of an object with a mass of 4.0 kg and a velocity of 15.0 m/s?
+A) 60.00 kg m/s
+B) 70.00 kg m/s
+C) 80.00 kg m/s
+D) 50.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 5.0 m/s?
+A) 25.00 kg m/s
+B) 35.00 kg m/s
+C) 45.00 kg m/s
+D) 15.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 6.0 m/s?
+A) 30.00 kg m/s
+B) 40.00 kg m/s
+C) 50.00 kg m/s
+D) 20.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 7.0 m/s?
+A) 35.00 kg m/s
+B) 45.00 kg m/s
+C) 55.00 kg m/s
+D) 25.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 8.0 m/s?
+A) 40.00 kg m/s
+B) 50.00 kg m/s
+C) 60.00 kg m/s
+D) 30.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 9.0 m/s?
+A) 45.00 kg m/s
+B) 55.00 kg m/s
+C) 65.00 kg m/s
+D) 35.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 10.0 m/s?
+A) 50.00 kg m/s
+B) 60.00 kg m/s
+C) 70.00 kg m/s
+D) 40.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 11.0 m/s?
+A) 55.00 kg m/s
+B) 65.00 kg m/s
+C) 75.00 kg m/s
+D) 45.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 12.0 m/s?
+A) 60.00 kg m/s
+B) 70.00 kg m/s
+C) 80.00 kg m/s
+D) 50.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 13.0 m/s?
+A) 65.00 kg m/s
+B) 75.00 kg m/s
+C) 85.00 kg m/s
+D) 55.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 14.0 m/s?
+A) 70.00 kg m/s
+B) 80.00 kg m/s
+C) 90.00 kg m/s
+D) 60.00 kg m/s
+
+What is the momentum of an object with a mass of 5.0 kg and a velocity of 15.0 m/s?
+A) 75.00 kg m/s
+B) 85.00 kg m/s
+C) 95.00 kg m/s
+D) 65.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 5.0 m/s?
+A) 30.00 kg m/s
+B) 40.00 kg m/s
+C) 50.00 kg m/s
+D) 20.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 6.0 m/s?
+A) 36.00 kg m/s
+B) 46.00 kg m/s
+C) 56.00 kg m/s
+D) 26.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 7.0 m/s?
+A) 42.00 kg m/s
+B) 52.00 kg m/s
+C) 62.00 kg m/s
+D) 32.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 8.0 m/s?
+A) 48.00 kg m/s
+B) 58.00 kg m/s
+C) 68.00 kg m/s
+D) 38.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 9.0 m/s?
+A) 54.00 kg m/s
+B) 64.00 kg m/s
+C) 74.00 kg m/s
+D) 44.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 10.0 m/s?
+A) 60.00 kg m/s
+B) 70.00 kg m/s
+C) 80.00 kg m/s
+D) 50.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 11.0 m/s?
+A) 66.00 kg m/s
+B) 76.00 kg m/s
+C) 86.00 kg m/s
+D) 56.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 12.0 m/s?
+A) 72.00 kg m/s
+B) 82.00 kg m/s
+C) 92.00 kg m/s
+D) 62.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 13.0 m/s?
+A) 78.00 kg m/s
+B) 88.00 kg m/s
+C) 98.00 kg m/s
+D) 68.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 14.0 m/s?
+A) 84.00 kg m/s
+B) 94.00 kg m/s
+C) 104.00 kg m/s
+D) 74.00 kg m/s
+
+What is the momentum of an object with a mass of 6.0 kg and a velocity of 15.0 m/s?
+A) 90.00 kg m/s
+B) 100.00 kg m/s
+C) 110.00 kg m/s
+D) 80.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 5.0 m/s?
+A) 35.00 kg m/s
+B) 45.00 kg m/s
+C) 55.00 kg m/s
+D) 25.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 6.0 m/s?
+A) 42.00 kg m/s
+B) 52.00 kg m/s
+C) 62.00 kg m/s
+D) 32.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 7.0 m/s?
+A) 49.00 kg m/s
+B) 59.00 kg m/s
+C) 69.00 kg m/s
+D) 39.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 8.0 m/s?
+A) 56.00 kg m/s
+B) 66.00 kg m/s
+C) 76.00 kg m/s
+D) 46.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 9.0 m/s?
+A) 63.00 kg m/s
+B) 73.00 kg m/s
+C) 83.00 kg m/s
+D) 53.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 10.0 m/s?
+A) 70.00 kg m/s
+B) 80.00 kg m/s
+C) 90.00 kg m/s
+D) 60.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 11.0 m/s?
+A) 77.00 kg m/s
+B) 87.00 kg m/s
+C) 97.00 kg m/s
+D) 67.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 12.0 m/s?
+A) 84.00 kg m/s
+B) 94.00 kg m/s
+C) 104.00 kg m/s
+D) 74.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 13.0 m/s?
+A) 91.00 kg m/s
+B) 101.00 kg m/s
+C) 111.00 kg m/s
+D) 81.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 14.0 m/s?
+A) 98.00 kg m/s
+B) 108.00 kg m/s
+C) 118.00 kg m/s
+D) 88.00 kg m/s
+
+What is the momentum of an object with a mass of 7.0 kg and a velocity of 15.0 m/s?
+A) 105.00 kg m/s
+B) 115.00 kg m/s
+C) 125.00 kg m/s
+D) 95.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 5.0 m/s?
+A) 40.00 kg m/s
+B) 50.00 kg m/s
+C) 60.00 kg m/s
+D) 30.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 6.0 m/s?
+A) 48.00 kg m/s
+B) 58.00 kg m/s
+C) 68.00 kg m/s
+D) 38.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 7.0 m/s?
+A) 56.00 kg m/s
+B) 66.00 kg m/s
+C) 76.00 kg m/s
+D) 46.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 8.0 m/s?
+A) 64.00 kg m/s
+B) 74.00 kg m/s
+C) 84.00 kg m/s
+D) 54.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 9.0 m/s?
+A) 72.00 kg m/s
+B) 82.00 kg m/s
+C) 92.00 kg m/s
+D) 62.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 10.0 m/s?
+A) 80.00 kg m/s
+B) 90.00 kg m/s
+C) 100.00 kg m/s
+D) 70.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 11.0 m/s?
+A) 88.00 kg m/s
+B) 98.00 kg m/s
+C) 108.00 kg m/s
+D) 78.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 12.0 m/s?
+A) 96.00 kg m/s
+B) 106.00 kg m/s
+C) 116.00 kg m/s
+D) 86.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 13.0 m/s?
+A) 104.00 kg m/s
+B) 114.00 kg m/s
+C) 124.00 kg m/s
+D) 94.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 14.0 m/s?
+A) 112.00 kg m/s
+B) 122.00 kg m/s
+C) 132.00 kg m/s
+D) 102.00 kg m/s
+
+What is the momentum of an object with a mass of 8.0 kg and a velocity of 15.0 m/s?
+A) 120.00 kg m/s
+B) 130.00 kg m/s
+C) 140.00 kg m/s
+D) 110.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 5.0 m/s?
+A) 45.00 kg m/s
+B) 55.00 kg m/s
+C) 65.00 kg m/s
+D) 35.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 6.0 m/s?
+A) 54.00 kg m/s
+B) 64.00 kg m/s
+C) 74.00 kg m/s
+D) 44.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 7.0 m/s?
+A) 63.00 kg m/s
+B) 73.00 kg m/s
+C) 83.00 kg m/s
+D) 53.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 8.0 m/s?
+A) 72.00 kg m/s
+B) 82.00 kg m/s
+C) 92.00 kg m/s
+D) 62.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 9.0 m/s?
+A) 81.00 kg m/s
+B) 91.00 kg m/s
+C) 101.00 kg m/s
+D) 71.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 10.0 m/s?
+A) 90.00 kg m/s
+B) 100.00 kg m/s
+C) 110.00 kg m/s
+D) 80.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 11.0 m/s?
+A) 99.00 kg m/s
+B) 109.00 kg m/s
+C) 119.00 kg m/s
+D) 89.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 12.0 m/s?
+A) 108.00 kg m/s
+B) 118.00 kg m/s
+C) 128.00 kg m/s
+D) 98.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 13.0 m/s?
+A) 117.00 kg m/s
+B) 127.00 kg m/s
+C) 137.00 kg m/s
+D) 107.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 14.0 m/s?
+A) 126.00 kg m/s
+B) 136.00 kg m/s
+C) 146.00 kg m/s
+D) 116.00 kg m/s
+
+What is the momentum of an object with a mass of 9.0 kg and a velocity of 15.0 m/s?
+A) 135.00 kg m/s
+B) 145.00 kg m/s
+C) 155.00 kg m/s
+D) 125.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 5.0 m/s?
+A) 50.00 kg m/s
+B) 60.00 kg m/s
+C) 70.00 kg m/s
+D) 40.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 6.0 m/s?
+A) 60.00 kg m/s
+B) 70.00 kg m/s
+C) 80.00 kg m/s
+D) 50.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 7.0 m/s?
+A) 70.00 kg m/s
+B) 80.00 kg m/s
+C) 90.00 kg m/s
+D) 60.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 8.0 m/s?
+A) 80.00 kg m/s
+B) 90.00 kg m/s
+C) 100.00 kg m/s
+D) 70.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 9.0 m/s?
+A) 90.00 kg m/s
+B) 100.00 kg m/s
+C) 110.00 kg m/s
+D) 80.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 10.0 m/s?
+A) 100.00 kg m/s
+B) 110.00 kg m/s
+C) 120.00 kg m/s
+D) 90.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 11.0 m/s?
+A) 110.00 kg m/s
+B) 120.00 kg m/s
+C) 130.00 kg m/s
+D) 100.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 12.0 m/s?
+A) 120.00 kg m/s
+B) 130.00 kg m/s
+C) 140.00 kg m/s
+D) 110.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 13.0 m/s?
+A) 130.00 kg m/s
+B) 140.00 kg m/s
+C) 150.00 kg m/s
+D) 120.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 14.0 m/s?
+A) 140.00 kg m/s
+B) 150.00 kg m/s
+C) 160.00 kg m/s
+D) 130.00 kg m/s
+
+What is the momentum of an object with a mass of 10.0 kg and a velocity of 15.0 m/s?
+A) 150.00 kg m/s
+B) 160.00 kg m/s
+C) 170.00 kg m/s
+D) 140.00 kg m/s
+

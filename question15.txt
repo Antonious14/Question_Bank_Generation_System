@@ -1,0 +1,528 @@
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 5.0 m/s?
+A) 37.50 J
+B) 47.50 J
+C) 57.50 J
+D) 27.50 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 6.0 m/s?
+A) 54.00 J
+B) 64.00 J
+C) 74.00 J
+D) 44.00 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 7.0 m/s?
+A) 73.50 J
+B) 83.50 J
+C) 93.50 J
+D) 63.50 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 8.0 m/s?
+A) 96.00 J
+B) 106.00 J
+C) 116.00 J
+D) 86.00 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 9.0 m/s?
+A) 121.50 J
+B) 131.50 J
+C) 141.50 J
+D) 111.50 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 10.0 m/s?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 11.0 m/s?
+A) 181.50 J
+B) 191.50 J
+C) 201.50 J
+D) 171.50 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 12.0 m/s?
+A) 216.00 J
+B) 226.00 J
+C) 236.00 J
+D) 206.00 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 13.0 m/s?
+A) 253.50 J
+B) 263.50 J
+C) 273.50 J
+D) 243.50 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 14.0 m/s?
+A) 294.00 J
+B) 304.00 J
+C) 314.00 J
+D) 284.00 J
+
+What is the kinetic energy of an object with a mass of 3.0 kg and a velocity of 15.0 m/s?
+A) 337.50 J
+B) 347.50 J
+C) 357.50 J
+D) 327.50 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 5.0 m/s?
+A) 50.00 J
+B) 60.00 J
+C) 70.00 J
+D) 40.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 6.0 m/s?
+A) 72.00 J
+B) 82.00 J
+C) 92.00 J
+D) 62.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 7.0 m/s?
+A) 98.00 J
+B) 108.00 J
+C) 118.00 J
+D) 88.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 8.0 m/s?
+A) 128.00 J
+B) 138.00 J
+C) 148.00 J
+D) 118.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 9.0 m/s?
+A) 162.00 J
+B) 172.00 J
+C) 182.00 J
+D) 152.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 10.0 m/s?
+A) 200.00 J
+B) 210.00 J
+C) 220.00 J
+D) 190.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 11.0 m/s?
+A) 242.00 J
+B) 252.00 J
+C) 262.00 J
+D) 232.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 12.0 m/s?
+A) 288.00 J
+B) 298.00 J
+C) 308.00 J
+D) 278.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 13.0 m/s?
+A) 338.00 J
+B) 348.00 J
+C) 358.00 J
+D) 328.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 14.0 m/s?
+A) 392.00 J
+B) 402.00 J
+C) 412.00 J
+D) 382.00 J
+
+What is the kinetic energy of an object with a mass of 4.0 kg and a velocity of 15.0 m/s?
+A) 450.00 J
+B) 460.00 J
+C) 470.00 J
+D) 440.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 5.0 m/s?
+A) 62.50 J
+B) 72.50 J
+C) 82.50 J
+D) 52.50 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 6.0 m/s?
+A) 90.00 J
+B) 100.00 J
+C) 110.00 J
+D) 80.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 7.0 m/s?
+A) 122.50 J
+B) 132.50 J
+C) 142.50 J
+D) 112.50 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 8.0 m/s?
+A) 160.00 J
+B) 170.00 J
+C) 180.00 J
+D) 150.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 9.0 m/s?
+A) 202.50 J
+B) 212.50 J
+C) 222.50 J
+D) 192.50 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 10.0 m/s?
+A) 250.00 J
+B) 260.00 J
+C) 270.00 J
+D) 240.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 11.0 m/s?
+A) 302.50 J
+B) 312.50 J
+C) 322.50 J
+D) 292.50 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 12.0 m/s?
+A) 360.00 J
+B) 370.00 J
+C) 380.00 J
+D) 350.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 13.0 m/s?
+A) 422.50 J
+B) 432.50 J
+C) 442.50 J
+D) 412.50 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 14.0 m/s?
+A) 490.00 J
+B) 500.00 J
+C) 510.00 J
+D) 480.00 J
+
+What is the kinetic energy of an object with a mass of 5.0 kg and a velocity of 15.0 m/s?
+A) 562.50 J
+B) 572.50 J
+C) 582.50 J
+D) 552.50 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 5.0 m/s?
+A) 75.00 J
+B) 85.00 J
+C) 95.00 J
+D) 65.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 6.0 m/s?
+A) 108.00 J
+B) 118.00 J
+C) 128.00 J
+D) 98.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 7.0 m/s?
+A) 147.00 J
+B) 157.00 J
+C) 167.00 J
+D) 137.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 8.0 m/s?
+A) 192.00 J
+B) 202.00 J
+C) 212.00 J
+D) 182.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 9.0 m/s?
+A) 243.00 J
+B) 253.00 J
+C) 263.00 J
+D) 233.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 10.0 m/s?
+A) 300.00 J
+B) 310.00 J
+C) 320.00 J
+D) 290.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 11.0 m/s?
+A) 363.00 J
+B) 373.00 J
+C) 383.00 J
+D) 353.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 12.0 m/s?
+A) 432.00 J
+B) 442.00 J
+C) 452.00 J
+D) 422.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 13.0 m/s?
+A) 507.00 J
+B) 517.00 J
+C) 527.00 J
+D) 497.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 14.0 m/s?
+A) 588.00 J
+B) 598.00 J
+C) 608.00 J
+D) 578.00 J
+
+What is the kinetic energy of an object with a mass of 6.0 kg and a velocity of 15.0 m/s?
+A) 675.00 J
+B) 685.00 J
+C) 695.00 J
+D) 665.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 5.0 m/s?
+A) 87.50 J
+B) 97.50 J
+C) 107.50 J
+D) 77.50 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 6.0 m/s?
+A) 126.00 J
+B) 136.00 J
+C) 146.00 J
+D) 116.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 7.0 m/s?
+A) 171.50 J
+B) 181.50 J
+C) 191.50 J
+D) 161.50 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 8.0 m/s?
+A) 224.00 J
+B) 234.00 J
+C) 244.00 J
+D) 214.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 9.0 m/s?
+A) 283.50 J
+B) 293.50 J
+C) 303.50 J
+D) 273.50 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 10.0 m/s?
+A) 350.00 J
+B) 360.00 J
+C) 370.00 J
+D) 340.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 11.0 m/s?
+A) 423.50 J
+B) 433.50 J
+C) 443.50 J
+D) 413.50 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 12.0 m/s?
+A) 504.00 J
+B) 514.00 J
+C) 524.00 J
+D) 494.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 13.0 m/s?
+A) 591.50 J
+B) 601.50 J
+C) 611.50 J
+D) 581.50 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 14.0 m/s?
+A) 686.00 J
+B) 696.00 J
+C) 706.00 J
+D) 676.00 J
+
+What is the kinetic energy of an object with a mass of 7.0 kg and a velocity of 15.0 m/s?
+A) 787.50 J
+B) 797.50 J
+C) 807.50 J
+D) 777.50 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 5.0 m/s?
+A) 100.00 J
+B) 110.00 J
+C) 120.00 J
+D) 90.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 6.0 m/s?
+A) 144.00 J
+B) 154.00 J
+C) 164.00 J
+D) 134.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 7.0 m/s?
+A) 196.00 J
+B) 206.00 J
+C) 216.00 J
+D) 186.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 8.0 m/s?
+A) 256.00 J
+B) 266.00 J
+C) 276.00 J
+D) 246.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 9.0 m/s?
+A) 324.00 J
+B) 334.00 J
+C) 344.00 J
+D) 314.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 10.0 m/s?
+A) 400.00 J
+B) 410.00 J
+C) 420.00 J
+D) 390.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 11.0 m/s?
+A) 484.00 J
+B) 494.00 J
+C) 504.00 J
+D) 474.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 12.0 m/s?
+A) 576.00 J
+B) 586.00 J
+C) 596.00 J
+D) 566.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 13.0 m/s?
+A) 676.00 J
+B) 686.00 J
+C) 696.00 J
+D) 666.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 14.0 m/s?
+A) 784.00 J
+B) 794.00 J
+C) 804.00 J
+D) 774.00 J
+
+What is the kinetic energy of an object with a mass of 8.0 kg and a velocity of 15.0 m/s?
+A) 900.00 J
+B) 910.00 J
+C) 920.00 J
+D) 890.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 5.0 m/s?
+A) 112.50 J
+B) 122.50 J
+C) 132.50 J
+D) 102.50 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 6.0 m/s?
+A) 162.00 J
+B) 172.00 J
+C) 182.00 J
+D) 152.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 7.0 m/s?
+A) 220.50 J
+B) 230.50 J
+C) 240.50 J
+D) 210.50 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 8.0 m/s?
+A) 288.00 J
+B) 298.00 J
+C) 308.00 J
+D) 278.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 9.0 m/s?
+A) 364.50 J
+B) 374.50 J
+C) 384.50 J
+D) 354.50 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 10.0 m/s?
+A) 450.00 J
+B) 460.00 J
+C) 470.00 J
+D) 440.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 11.0 m/s?
+A) 544.50 J
+B) 554.50 J
+C) 564.50 J
+D) 534.50 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 12.0 m/s?
+A) 648.00 J
+B) 658.00 J
+C) 668.00 J
+D) 638.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 13.0 m/s?
+A) 760.50 J
+B) 770.50 J
+C) 780.50 J
+D) 750.50 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 14.0 m/s?
+A) 882.00 J
+B) 892.00 J
+C) 902.00 J
+D) 872.00 J
+
+What is the kinetic energy of an object with a mass of 9.0 kg and a velocity of 15.0 m/s?
+A) 1012.50 J
+B) 1022.50 J
+C) 1032.50 J
+D) 1002.50 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 5.0 m/s?
+A) 125.00 J
+B) 135.00 J
+C) 145.00 J
+D) 115.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 6.0 m/s?
+A) 180.00 J
+B) 190.00 J
+C) 200.00 J
+D) 170.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 7.0 m/s?
+A) 245.00 J
+B) 255.00 J
+C) 265.00 J
+D) 235.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 8.0 m/s?
+A) 320.00 J
+B) 330.00 J
+C) 340.00 J
+D) 310.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 9.0 m/s?
+A) 405.00 J
+B) 415.00 J
+C) 425.00 J
+D) 395.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 10.0 m/s?
+A) 500.00 J
+B) 510.00 J
+C) 520.00 J
+D) 490.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 11.0 m/s?
+A) 605.00 J
+B) 615.00 J
+C) 625.00 J
+D) 595.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 12.0 m/s?
+A) 720.00 J
+B) 730.00 J
+C) 740.00 J
+D) 710.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 13.0 m/s?
+A) 845.00 J
+B) 855.00 J
+C) 865.00 J
+D) 835.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 14.0 m/s?
+A) 980.00 J
+B) 990.00 J
+C) 1000.00 J
+D) 970.00 J
+
+What is the kinetic energy of an object with a mass of 10.0 kg and a velocity of 15.0 m/s?
+A) 1125.00 J
+B) 1135.00 J
+C) 1145.00 J
+D) 1115.00 J
+

@@ -1,0 +1,144 @@
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 3.0 seconds?
+A) 90.00 m
+B) 91.00 m
+C) 92.00 m
+D) 89.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 4.0 seconds?
+A) 160.00 m
+B) 161.00 m
+C) 162.00 m
+D) 159.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 5.0 seconds?
+A) 250.00 m
+B) 251.00 m
+C) 252.00 m
+D) 249.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 6.0 seconds?
+A) 360.00 m
+B) 361.00 m
+C) 362.00 m
+D) 359.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 7.0 seconds?
+A) 490.00 m
+B) 491.00 m
+C) 492.00 m
+D) 489.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 8.0 seconds?
+A) 640.00 m
+B) 641.00 m
+C) 642.00 m
+D) 639.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 9.0 seconds?
+A) 810.00 m
+B) 811.00 m
+C) 812.00 m
+D) 809.00 m
+
+A car accelerates uniformly from rest at 20.0 m/s². What distance does it cover in 10.0 seconds?
+A) 1000.00 m
+B) 1001.00 m
+C) 1002.00 m
+D) 999.00 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 3.0 seconds?
+A) 112.50 m
+B) 113.50 m
+C) 114.50 m
+D) 111.50 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 4.0 seconds?
+A) 200.00 m
+B) 201.00 m
+C) 202.00 m
+D) 199.00 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 5.0 seconds?
+A) 312.50 m
+B) 313.50 m
+C) 314.50 m
+D) 311.50 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 6.0 seconds?
+A) 450.00 m
+B) 451.00 m
+C) 452.00 m
+D) 449.00 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 7.0 seconds?
+A) 612.50 m
+B) 613.50 m
+C) 614.50 m
+D) 611.50 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 8.0 seconds?
+A) 800.00 m
+B) 801.00 m
+C) 802.00 m
+D) 799.00 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 9.0 seconds?
+A) 1012.50 m
+B) 1013.50 m
+C) 1014.50 m
+D) 1011.50 m
+
+A car accelerates uniformly from rest at 25.0 m/s². What distance does it cover in 10.0 seconds?
+A) 1250.00 m
+B) 1251.00 m
+C) 1252.00 m
+D) 1249.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 3.0 seconds?
+A) 135.00 m
+B) 136.00 m
+C) 137.00 m
+D) 134.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 4.0 seconds?
+A) 240.00 m
+B) 241.00 m
+C) 242.00 m
+D) 239.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 5.0 seconds?
+A) 375.00 m
+B) 376.00 m
+C) 377.00 m
+D) 374.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 6.0 seconds?
+A) 540.00 m
+B) 541.00 m
+C) 542.00 m
+D) 539.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 7.0 seconds?
+A) 735.00 m
+B) 736.00 m
+C) 737.00 m
+D) 734.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 8.0 seconds?
+A) 960.00 m
+B) 961.00 m
+C) 962.00 m
+D) 959.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 9.0 seconds?
+A) 1215.00 m
+B) 1216.00 m
+C) 1217.00 m
+D) 1214.00 m
+
+A car accelerates uniformly from rest at 30.0 m/s². What distance does it cover in 10.0 seconds?
+A) 1500.00 m
+B) 1501.00 m
+C) 1502.00 m
+D) 1499.00 m
+

@@ -1,0 +1,588 @@
+A car starts from rest and accelerates uniformly over a time of 3.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 24.44 m/s^2
+B) 25.44 m/s^2
+C) 26.44 m/s^2
+D) 23.44 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 4.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 13.75 m/s^2
+B) 14.75 m/s^2
+C) 15.75 m/s^2
+D) 12.75 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 5.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 8.80 m/s^2
+B) 9.80 m/s^2
+C) 10.80 m/s^2
+D) 7.80 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 6.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 6.11 m/s^2
+B) 7.11 m/s^2
+C) 8.11 m/s^2
+D) 5.11 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 7.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 4.49 m/s^2
+B) 5.49 m/s^2
+C) 6.49 m/s^2
+D) 3.49 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 8.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 3.44 m/s^2
+B) 4.44 m/s^2
+C) 5.44 m/s^2
+D) 2.44 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 9.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 2.72 m/s^2
+B) 3.72 m/s^2
+C) 4.72 m/s^2
+D) 1.72 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 10.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 2.20 m/s^2
+B) 3.20 m/s^2
+C) 4.20 m/s^2
+D) 1.20 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 11.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 1.82 m/s^2
+B) 2.82 m/s^2
+C) 3.82 m/s^2
+D) 0.82 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 12.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 1.53 m/s^2
+B) 2.53 m/s^2
+C) 3.53 m/s^2
+D) 0.53 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 13.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 1.30 m/s^2
+B) 2.30 m/s^2
+C) 3.30 m/s^2
+D) 0.30 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 14.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 1.12 m/s^2
+B) 2.12 m/s^2
+C) 3.12 m/s^2
+D) 0.12 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 15.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.98 m/s^2
+B) 1.98 m/s^2
+C) 2.98 m/s^2
+D) -0.02 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 16.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.86 m/s^2
+B) 1.86 m/s^2
+C) 2.86 m/s^2
+D) -0.14 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 17.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.76 m/s^2
+B) 1.76 m/s^2
+C) 2.76 m/s^2
+D) -0.24 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 18.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.68 m/s^2
+B) 1.68 m/s^2
+C) 2.68 m/s^2
+D) -0.32 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 19.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.61 m/s^2
+B) 1.61 m/s^2
+C) 2.61 m/s^2
+D) -0.39 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 20.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.55 m/s^2
+B) 1.55 m/s^2
+C) 2.55 m/s^2
+D) -0.45 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 21.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.50 m/s^2
+B) 1.50 m/s^2
+C) 2.50 m/s^2
+D) -0.50 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 22.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.45 m/s^2
+B) 1.45 m/s^2
+C) 2.45 m/s^2
+D) -0.55 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 23.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.42 m/s^2
+B) 1.42 m/s^2
+C) 2.42 m/s^2
+D) -0.58 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 24.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.38 m/s^2
+B) 1.38 m/s^2
+C) 2.38 m/s^2
+D) -0.62 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 25.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.35 m/s^2
+B) 1.35 m/s^2
+C) 2.35 m/s^2
+D) -0.65 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 26.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.33 m/s^2
+B) 1.33 m/s^2
+C) 2.33 m/s^2
+D) -0.67 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 27.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.30 m/s^2
+B) 1.30 m/s^2
+C) 2.30 m/s^2
+D) -0.70 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 28.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.28 m/s^2
+B) 1.28 m/s^2
+C) 2.28 m/s^2
+D) -0.72 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 29.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.26 m/s^2
+B) 1.26 m/s^2
+C) 2.26 m/s^2
+D) -0.74 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 30.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.24 m/s^2
+B) 1.24 m/s^2
+C) 2.24 m/s^2
+D) -0.76 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 31.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.23 m/s^2
+B) 1.23 m/s^2
+C) 2.23 m/s^2
+D) -0.77 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 32.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.21 m/s^2
+B) 1.21 m/s^2
+C) 2.21 m/s^2
+D) -0.79 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 33.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.20 m/s^2
+B) 1.20 m/s^2
+C) 2.20 m/s^2
+D) -0.80 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 34.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.19 m/s^2
+B) 1.19 m/s^2
+C) 2.19 m/s^2
+D) -0.81 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 35.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.18 m/s^2
+B) 1.18 m/s^2
+C) 2.18 m/s^2
+D) -0.82 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 36.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.17 m/s^2
+B) 1.17 m/s^2
+C) 2.17 m/s^2
+D) -0.83 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 37.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.16 m/s^2
+B) 1.16 m/s^2
+C) 2.16 m/s^2
+D) -0.84 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 38.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.15 m/s^2
+B) 1.15 m/s^2
+C) 2.15 m/s^2
+D) -0.85 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 39.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.14 m/s^2
+B) 1.14 m/s^2
+C) 2.14 m/s^2
+D) -0.86 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 40.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.14 m/s^2
+B) 1.14 m/s^2
+C) 2.14 m/s^2
+D) -0.86 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 41.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.13 m/s^2
+B) 1.13 m/s^2
+C) 2.13 m/s^2
+D) -0.87 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 42.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.12 m/s^2
+B) 1.12 m/s^2
+C) 2.12 m/s^2
+D) -0.88 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 43.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.12 m/s^2
+B) 1.12 m/s^2
+C) 2.12 m/s^2
+D) -0.88 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 44.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.11 m/s^2
+B) 1.11 m/s^2
+C) 2.11 m/s^2
+D) -0.89 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 45.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.11 m/s^2
+B) 1.11 m/s^2
+C) 2.11 m/s^2
+D) -0.89 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 46.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.10 m/s^2
+B) 1.10 m/s^2
+C) 2.10 m/s^2
+D) -0.90 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 47.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.10 m/s^2
+B) 1.10 m/s^2
+C) 2.10 m/s^2
+D) -0.90 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 48.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.10 m/s^2
+B) 1.10 m/s^2
+C) 2.10 m/s^2
+D) -0.90 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 49.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.09 m/s^2
+B) 1.09 m/s^2
+C) 2.09 m/s^2
+D) -0.91 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 50.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.09 m/s^2
+B) 1.09 m/s^2
+C) 2.09 m/s^2
+D) -0.91 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 51.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.08 m/s^2
+B) 1.08 m/s^2
+C) 2.08 m/s^2
+D) -0.92 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 52.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.08 m/s^2
+B) 1.08 m/s^2
+C) 2.08 m/s^2
+D) -0.92 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 53.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.08 m/s^2
+B) 1.08 m/s^2
+C) 2.08 m/s^2
+D) -0.92 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 54.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.08 m/s^2
+B) 1.08 m/s^2
+C) 2.08 m/s^2
+D) -0.92 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 55.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.07 m/s^2
+B) 1.07 m/s^2
+C) 2.07 m/s^2
+D) -0.93 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 56.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.07 m/s^2
+B) 1.07 m/s^2
+C) 2.07 m/s^2
+D) -0.93 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 57.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.07 m/s^2
+B) 1.07 m/s^2
+C) 2.07 m/s^2
+D) -0.93 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 58.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.07 m/s^2
+B) 1.07 m/s^2
+C) 2.07 m/s^2
+D) -0.93 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 59.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.06 m/s^2
+B) 1.06 m/s^2
+C) 2.06 m/s^2
+D) -0.94 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 60.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.06 m/s^2
+B) 1.06 m/s^2
+C) 2.06 m/s^2
+D) -0.94 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 61.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.06 m/s^2
+B) 1.06 m/s^2
+C) 2.06 m/s^2
+D) -0.94 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 62.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.06 m/s^2
+B) 1.06 m/s^2
+C) 2.06 m/s^2
+D) -0.94 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 63.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.06 m/s^2
+B) 1.06 m/s^2
+C) 2.06 m/s^2
+D) -0.94 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 64.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 65.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 66.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 67.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 68.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 69.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.05 m/s^2
+B) 1.05 m/s^2
+C) 2.05 m/s^2
+D) -0.95 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 70.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 71.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 72.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 73.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 74.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 75.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 76.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 77.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 78.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 79.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.04 m/s^2
+B) 1.04 m/s^2
+C) 2.04 m/s^2
+D) -0.96 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 80.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 81.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 82.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 83.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 84.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 85.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 86.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 87.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 88.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 89.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 90.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 91.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 92.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 93.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.03 m/s^2
+B) 1.03 m/s^2
+C) 2.03 m/s^2
+D) -0.97 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 94.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 95.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 96.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 97.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 98.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 99.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+
+A car starts from rest and accelerates uniformly over a time of 100.0 seconds for a distance of 110.0 meters. Determine the acceleration of the car.
+A) 0.02 m/s^2
+B) 1.02 m/s^2
+C) 2.02 m/s^2
+D) -0.98 m/s^2
+

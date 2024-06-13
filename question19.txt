@@ -1,0 +1,396 @@
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 5.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 6.0 ohms?
+A) 8.33 A
+B) 8.83 A
+C) 9.33 A
+D) 7.83 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 7.0 ohms?
+A) 7.14 A
+B) 7.64 A
+C) 8.14 A
+D) 6.64 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 8.0 ohms?
+A) 6.25 A
+B) 6.75 A
+C) 7.25 A
+D) 5.75 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 9.0 ohms?
+A) 5.56 A
+B) 6.06 A
+C) 6.56 A
+D) 5.06 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 10.0 ohms?
+A) 5.00 A
+B) 5.50 A
+C) 6.00 A
+D) 4.50 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 11.0 ohms?
+A) 4.55 A
+B) 5.05 A
+C) 5.55 A
+D) 4.05 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 12.0 ohms?
+A) 4.17 A
+B) 4.67 A
+C) 5.17 A
+D) 3.67 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 13.0 ohms?
+A) 3.85 A
+B) 4.35 A
+C) 4.85 A
+D) 3.35 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 14.0 ohms?
+A) 3.57 A
+B) 4.07 A
+C) 4.57 A
+D) 3.07 A
+
+What is the electric current flowing through a resistor with a voltage of 50.0 V and a resistance of 15.0 ohms?
+A) 3.33 A
+B) 3.83 A
+C) 4.33 A
+D) 2.83 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 5.0 ohms?
+A) 12.00 A
+B) 12.50 A
+C) 13.00 A
+D) 11.50 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 6.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 7.0 ohms?
+A) 8.57 A
+B) 9.07 A
+C) 9.57 A
+D) 8.07 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 8.0 ohms?
+A) 7.50 A
+B) 8.00 A
+C) 8.50 A
+D) 7.00 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 9.0 ohms?
+A) 6.67 A
+B) 7.17 A
+C) 7.67 A
+D) 6.17 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 10.0 ohms?
+A) 6.00 A
+B) 6.50 A
+C) 7.00 A
+D) 5.50 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 11.0 ohms?
+A) 5.45 A
+B) 5.95 A
+C) 6.45 A
+D) 4.95 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 12.0 ohms?
+A) 5.00 A
+B) 5.50 A
+C) 6.00 A
+D) 4.50 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 13.0 ohms?
+A) 4.62 A
+B) 5.12 A
+C) 5.62 A
+D) 4.12 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 14.0 ohms?
+A) 4.29 A
+B) 4.79 A
+C) 5.29 A
+D) 3.79 A
+
+What is the electric current flowing through a resistor with a voltage of 60.0 V and a resistance of 15.0 ohms?
+A) 4.00 A
+B) 4.50 A
+C) 5.00 A
+D) 3.50 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 5.0 ohms?
+A) 14.00 A
+B) 14.50 A
+C) 15.00 A
+D) 13.50 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 6.0 ohms?
+A) 11.67 A
+B) 12.17 A
+C) 12.67 A
+D) 11.17 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 7.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 8.0 ohms?
+A) 8.75 A
+B) 9.25 A
+C) 9.75 A
+D) 8.25 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 9.0 ohms?
+A) 7.78 A
+B) 8.28 A
+C) 8.78 A
+D) 7.28 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 10.0 ohms?
+A) 7.00 A
+B) 7.50 A
+C) 8.00 A
+D) 6.50 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 11.0 ohms?
+A) 6.36 A
+B) 6.86 A
+C) 7.36 A
+D) 5.86 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 12.0 ohms?
+A) 5.83 A
+B) 6.33 A
+C) 6.83 A
+D) 5.33 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 13.0 ohms?
+A) 5.38 A
+B) 5.88 A
+C) 6.38 A
+D) 4.88 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 14.0 ohms?
+A) 5.00 A
+B) 5.50 A
+C) 6.00 A
+D) 4.50 A
+
+What is the electric current flowing through a resistor with a voltage of 70.0 V and a resistance of 15.0 ohms?
+A) 4.67 A
+B) 5.17 A
+C) 5.67 A
+D) 4.17 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 5.0 ohms?
+A) 16.00 A
+B) 16.50 A
+C) 17.00 A
+D) 15.50 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 6.0 ohms?
+A) 13.33 A
+B) 13.83 A
+C) 14.33 A
+D) 12.83 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 7.0 ohms?
+A) 11.43 A
+B) 11.93 A
+C) 12.43 A
+D) 10.93 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 8.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 9.0 ohms?
+A) 8.89 A
+B) 9.39 A
+C) 9.89 A
+D) 8.39 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 10.0 ohms?
+A) 8.00 A
+B) 8.50 A
+C) 9.00 A
+D) 7.50 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 11.0 ohms?
+A) 7.27 A
+B) 7.77 A
+C) 8.27 A
+D) 6.77 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 12.0 ohms?
+A) 6.67 A
+B) 7.17 A
+C) 7.67 A
+D) 6.17 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 13.0 ohms?
+A) 6.15 A
+B) 6.65 A
+C) 7.15 A
+D) 5.65 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 14.0 ohms?
+A) 5.71 A
+B) 6.21 A
+C) 6.71 A
+D) 5.21 A
+
+What is the electric current flowing through a resistor with a voltage of 80.0 V and a resistance of 15.0 ohms?
+A) 5.33 A
+B) 5.83 A
+C) 6.33 A
+D) 4.83 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 5.0 ohms?
+A) 18.00 A
+B) 18.50 A
+C) 19.00 A
+D) 17.50 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 6.0 ohms?
+A) 15.00 A
+B) 15.50 A
+C) 16.00 A
+D) 14.50 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 7.0 ohms?
+A) 12.86 A
+B) 13.36 A
+C) 13.86 A
+D) 12.36 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 8.0 ohms?
+A) 11.25 A
+B) 11.75 A
+C) 12.25 A
+D) 10.75 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 9.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 10.0 ohms?
+A) 9.00 A
+B) 9.50 A
+C) 10.00 A
+D) 8.50 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 11.0 ohms?
+A) 8.18 A
+B) 8.68 A
+C) 9.18 A
+D) 7.68 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 12.0 ohms?
+A) 7.50 A
+B) 8.00 A
+C) 8.50 A
+D) 7.00 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 13.0 ohms?
+A) 6.92 A
+B) 7.42 A
+C) 7.92 A
+D) 6.42 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 14.0 ohms?
+A) 6.43 A
+B) 6.93 A
+C) 7.43 A
+D) 5.93 A
+
+What is the electric current flowing through a resistor with a voltage of 90.0 V and a resistance of 15.0 ohms?
+A) 6.00 A
+B) 6.50 A
+C) 7.00 A
+D) 5.50 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 5.0 ohms?
+A) 20.00 A
+B) 20.50 A
+C) 21.00 A
+D) 19.50 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 6.0 ohms?
+A) 16.67 A
+B) 17.17 A
+C) 17.67 A
+D) 16.17 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 7.0 ohms?
+A) 14.29 A
+B) 14.79 A
+C) 15.29 A
+D) 13.79 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 8.0 ohms?
+A) 12.50 A
+B) 13.00 A
+C) 13.50 A
+D) 12.00 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 9.0 ohms?
+A) 11.11 A
+B) 11.61 A
+C) 12.11 A
+D) 10.61 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 10.0 ohms?
+A) 10.00 A
+B) 10.50 A
+C) 11.00 A
+D) 9.50 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 11.0 ohms?
+A) 9.09 A
+B) 9.59 A
+C) 10.09 A
+D) 8.59 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 12.0 ohms?
+A) 8.33 A
+B) 8.83 A
+C) 9.33 A
+D) 7.83 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 13.0 ohms?
+A) 7.69 A
+B) 8.19 A
+C) 8.69 A
+D) 7.19 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 14.0 ohms?
+A) 7.14 A
+B) 7.64 A
+C) 8.14 A
+D) 6.64 A
+
+What is the electric current flowing through a resistor with a voltage of 100.0 V and a resistance of 15.0 ohms?
+A) 6.67 A
+B) 7.17 A
+C) 7.67 A
+D) 6.17 A
+

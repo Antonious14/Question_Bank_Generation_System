@@ -1,0 +1,528 @@
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 3.0 seconds?
+A) -9.40 m/s
+B) -8.40 m/s
+C) -7.40 m/s
+D) -10.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 4.0 seconds?
+A) -19.20 m/s
+B) -18.20 m/s
+C) -17.20 m/s
+D) -20.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 5.0 seconds?
+A) -29.00 m/s
+B) -28.00 m/s
+C) -27.00 m/s
+D) -30.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 6.0 seconds?
+A) -38.80 m/s
+B) -37.80 m/s
+C) -36.80 m/s
+D) -39.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 7.0 seconds?
+A) -48.60 m/s
+B) -47.60 m/s
+C) -46.60 m/s
+D) -49.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 8.0 seconds?
+A) -58.40 m/s
+B) -57.40 m/s
+C) -56.40 m/s
+D) -59.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 9.0 seconds?
+A) -68.20 m/s
+B) -67.20 m/s
+C) -66.20 m/s
+D) -69.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 20.0 m/s. What is its velocity after 10.0 seconds?
+A) -78.00 m/s
+B) -77.00 m/s
+C) -76.00 m/s
+D) -79.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 3.0 seconds?
+A) -8.40 m/s
+B) -7.40 m/s
+C) -6.40 m/s
+D) -9.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 4.0 seconds?
+A) -18.20 m/s
+B) -17.20 m/s
+C) -16.20 m/s
+D) -19.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 5.0 seconds?
+A) -28.00 m/s
+B) -27.00 m/s
+C) -26.00 m/s
+D) -29.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 6.0 seconds?
+A) -37.80 m/s
+B) -36.80 m/s
+C) -35.80 m/s
+D) -38.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 7.0 seconds?
+A) -47.60 m/s
+B) -46.60 m/s
+C) -45.60 m/s
+D) -48.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 8.0 seconds?
+A) -57.40 m/s
+B) -56.40 m/s
+C) -55.40 m/s
+D) -58.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 9.0 seconds?
+A) -67.20 m/s
+B) -66.20 m/s
+C) -65.20 m/s
+D) -68.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 21.0 m/s. What is its velocity after 10.0 seconds?
+A) -77.00 m/s
+B) -76.00 m/s
+C) -75.00 m/s
+D) -78.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 3.0 seconds?
+A) -7.40 m/s
+B) -6.40 m/s
+C) -5.40 m/s
+D) -8.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 4.0 seconds?
+A) -17.20 m/s
+B) -16.20 m/s
+C) -15.20 m/s
+D) -18.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 5.0 seconds?
+A) -27.00 m/s
+B) -26.00 m/s
+C) -25.00 m/s
+D) -28.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 6.0 seconds?
+A) -36.80 m/s
+B) -35.80 m/s
+C) -34.80 m/s
+D) -37.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 7.0 seconds?
+A) -46.60 m/s
+B) -45.60 m/s
+C) -44.60 m/s
+D) -47.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 8.0 seconds?
+A) -56.40 m/s
+B) -55.40 m/s
+C) -54.40 m/s
+D) -57.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 9.0 seconds?
+A) -66.20 m/s
+B) -65.20 m/s
+C) -64.20 m/s
+D) -67.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 22.0 m/s. What is its velocity after 10.0 seconds?
+A) -76.00 m/s
+B) -75.00 m/s
+C) -74.00 m/s
+D) -77.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 3.0 seconds?
+A) -6.40 m/s
+B) -5.40 m/s
+C) -4.40 m/s
+D) -7.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 4.0 seconds?
+A) -16.20 m/s
+B) -15.20 m/s
+C) -14.20 m/s
+D) -17.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 5.0 seconds?
+A) -26.00 m/s
+B) -25.00 m/s
+C) -24.00 m/s
+D) -27.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 6.0 seconds?
+A) -35.80 m/s
+B) -34.80 m/s
+C) -33.80 m/s
+D) -36.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 7.0 seconds?
+A) -45.60 m/s
+B) -44.60 m/s
+C) -43.60 m/s
+D) -46.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 8.0 seconds?
+A) -55.40 m/s
+B) -54.40 m/s
+C) -53.40 m/s
+D) -56.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 9.0 seconds?
+A) -65.20 m/s
+B) -64.20 m/s
+C) -63.20 m/s
+D) -66.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 23.0 m/s. What is its velocity after 10.0 seconds?
+A) -75.00 m/s
+B) -74.00 m/s
+C) -73.00 m/s
+D) -76.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 3.0 seconds?
+A) -5.40 m/s
+B) -4.40 m/s
+C) -3.40 m/s
+D) -6.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 4.0 seconds?
+A) -15.20 m/s
+B) -14.20 m/s
+C) -13.20 m/s
+D) -16.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 5.0 seconds?
+A) -25.00 m/s
+B) -24.00 m/s
+C) -23.00 m/s
+D) -26.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 6.0 seconds?
+A) -34.80 m/s
+B) -33.80 m/s
+C) -32.80 m/s
+D) -35.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 7.0 seconds?
+A) -44.60 m/s
+B) -43.60 m/s
+C) -42.60 m/s
+D) -45.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 8.0 seconds?
+A) -54.40 m/s
+B) -53.40 m/s
+C) -52.40 m/s
+D) -55.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 9.0 seconds?
+A) -64.20 m/s
+B) -63.20 m/s
+C) -62.20 m/s
+D) -65.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 24.0 m/s. What is its velocity after 10.0 seconds?
+A) -74.00 m/s
+B) -73.00 m/s
+C) -72.00 m/s
+D) -75.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 3.0 seconds?
+A) -4.40 m/s
+B) -3.40 m/s
+C) -2.40 m/s
+D) -5.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 4.0 seconds?
+A) -14.20 m/s
+B) -13.20 m/s
+C) -12.20 m/s
+D) -15.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 5.0 seconds?
+A) -24.00 m/s
+B) -23.00 m/s
+C) -22.00 m/s
+D) -25.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 6.0 seconds?
+A) -33.80 m/s
+B) -32.80 m/s
+C) -31.80 m/s
+D) -34.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 7.0 seconds?
+A) -43.60 m/s
+B) -42.60 m/s
+C) -41.60 m/s
+D) -44.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 8.0 seconds?
+A) -53.40 m/s
+B) -52.40 m/s
+C) -51.40 m/s
+D) -54.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 9.0 seconds?
+A) -63.20 m/s
+B) -62.20 m/s
+C) -61.20 m/s
+D) -64.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 25.0 m/s. What is its velocity after 10.0 seconds?
+A) -73.00 m/s
+B) -72.00 m/s
+C) -71.00 m/s
+D) -74.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 3.0 seconds?
+A) -3.40 m/s
+B) -2.40 m/s
+C) -1.40 m/s
+D) -4.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 4.0 seconds?
+A) -13.20 m/s
+B) -12.20 m/s
+C) -11.20 m/s
+D) -14.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 5.0 seconds?
+A) -23.00 m/s
+B) -22.00 m/s
+C) -21.00 m/s
+D) -24.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 6.0 seconds?
+A) -32.80 m/s
+B) -31.80 m/s
+C) -30.80 m/s
+D) -33.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 7.0 seconds?
+A) -42.60 m/s
+B) -41.60 m/s
+C) -40.60 m/s
+D) -43.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 8.0 seconds?
+A) -52.40 m/s
+B) -51.40 m/s
+C) -50.40 m/s
+D) -53.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 9.0 seconds?
+A) -62.20 m/s
+B) -61.20 m/s
+C) -60.20 m/s
+D) -63.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 26.0 m/s. What is its velocity after 10.0 seconds?
+A) -72.00 m/s
+B) -71.00 m/s
+C) -70.00 m/s
+D) -73.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 3.0 seconds?
+A) -2.40 m/s
+B) -1.40 m/s
+C) -0.40 m/s
+D) -3.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 4.0 seconds?
+A) -12.20 m/s
+B) -11.20 m/s
+C) -10.20 m/s
+D) -13.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 5.0 seconds?
+A) -22.00 m/s
+B) -21.00 m/s
+C) -20.00 m/s
+D) -23.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 6.0 seconds?
+A) -31.80 m/s
+B) -30.80 m/s
+C) -29.80 m/s
+D) -32.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 7.0 seconds?
+A) -41.60 m/s
+B) -40.60 m/s
+C) -39.60 m/s
+D) -42.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 8.0 seconds?
+A) -51.40 m/s
+B) -50.40 m/s
+C) -49.40 m/s
+D) -52.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 9.0 seconds?
+A) -61.20 m/s
+B) -60.20 m/s
+C) -59.20 m/s
+D) -62.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 27.0 m/s. What is its velocity after 10.0 seconds?
+A) -71.00 m/s
+B) -70.00 m/s
+C) -69.00 m/s
+D) -72.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 3.0 seconds?
+A) -1.40 m/s
+B) -0.40 m/s
+C) 0.60 m/s
+D) -2.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 4.0 seconds?
+A) -11.20 m/s
+B) -10.20 m/s
+C) -9.20 m/s
+D) -12.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 5.0 seconds?
+A) -21.00 m/s
+B) -20.00 m/s
+C) -19.00 m/s
+D) -22.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 6.0 seconds?
+A) -30.80 m/s
+B) -29.80 m/s
+C) -28.80 m/s
+D) -31.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 7.0 seconds?
+A) -40.60 m/s
+B) -39.60 m/s
+C) -38.60 m/s
+D) -41.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 8.0 seconds?
+A) -50.40 m/s
+B) -49.40 m/s
+C) -48.40 m/s
+D) -51.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 9.0 seconds?
+A) -60.20 m/s
+B) -59.20 m/s
+C) -58.20 m/s
+D) -61.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 28.0 m/s. What is its velocity after 10.0 seconds?
+A) -70.00 m/s
+B) -69.00 m/s
+C) -68.00 m/s
+D) -71.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 3.0 seconds?
+A) -0.40 m/s
+B) 0.60 m/s
+C) 1.60 m/s
+D) -1.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 4.0 seconds?
+A) -10.20 m/s
+B) -9.20 m/s
+C) -8.20 m/s
+D) -11.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 5.0 seconds?
+A) -20.00 m/s
+B) -19.00 m/s
+C) -18.00 m/s
+D) -21.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 6.0 seconds?
+A) -29.80 m/s
+B) -28.80 m/s
+C) -27.80 m/s
+D) -30.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 7.0 seconds?
+A) -39.60 m/s
+B) -38.60 m/s
+C) -37.60 m/s
+D) -40.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 8.0 seconds?
+A) -49.40 m/s
+B) -48.40 m/s
+C) -47.40 m/s
+D) -50.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 9.0 seconds?
+A) -59.20 m/s
+B) -58.20 m/s
+C) -57.20 m/s
+D) -60.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 29.0 m/s. What is its velocity after 10.0 seconds?
+A) -69.00 m/s
+B) -68.00 m/s
+C) -67.00 m/s
+D) -70.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 3.0 seconds?
+A) 0.60 m/s
+B) 1.60 m/s
+C) 2.60 m/s
+D) -0.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 4.0 seconds?
+A) -9.20 m/s
+B) -8.20 m/s
+C) -7.20 m/s
+D) -10.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 5.0 seconds?
+A) -19.00 m/s
+B) -18.00 m/s
+C) -17.00 m/s
+D) -20.00 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 6.0 seconds?
+A) -28.80 m/s
+B) -27.80 m/s
+C) -26.80 m/s
+D) -29.80 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 7.0 seconds?
+A) -38.60 m/s
+B) -37.60 m/s
+C) -36.60 m/s
+D) -39.60 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 8.0 seconds?
+A) -48.40 m/s
+B) -47.40 m/s
+C) -46.40 m/s
+D) -49.40 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 9.0 seconds?
+A) -58.20 m/s
+B) -57.20 m/s
+C) -56.20 m/s
+D) -59.20 m/s
+
+A ball is thrown vertically upwards with an initial velocity of 30.0 m/s. What is its velocity after 10.0 seconds?
+A) -68.00 m/s
+B) -67.00 m/s
+C) -66.00 m/s
+D) -69.00 m/s
+

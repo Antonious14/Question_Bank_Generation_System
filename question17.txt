@@ -1,0 +1,216 @@
+What is the pressure exerted by a force of 500.0 N over an area of 10.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+
+What is the pressure exerted by a force of 500.0 N over an area of 12.0 m^2?
+A) 41.67 Pa
+B) 51.67 Pa
+C) 61.67 Pa
+D) 31.67 Pa
+
+What is the pressure exerted by a force of 500.0 N over an area of 14.0 m^2?
+A) 35.71 Pa
+B) 45.71 Pa
+C) 55.71 Pa
+D) 25.71 Pa
+
+What is the pressure exerted by a force of 500.0 N over an area of 16.0 m^2?
+A) 31.25 Pa
+B) 41.25 Pa
+C) 51.25 Pa
+D) 21.25 Pa
+
+What is the pressure exerted by a force of 500.0 N over an area of 18.0 m^2?
+A) 27.78 Pa
+B) 37.78 Pa
+C) 47.78 Pa
+D) 17.78 Pa
+
+What is the pressure exerted by a force of 500.0 N over an area of 20.0 m^2?
+A) 25.00 Pa
+B) 35.00 Pa
+C) 45.00 Pa
+D) 15.00 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 10.0 m^2?
+A) 60.00 Pa
+B) 70.00 Pa
+C) 80.00 Pa
+D) 50.00 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 12.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 14.0 m^2?
+A) 42.86 Pa
+B) 52.86 Pa
+C) 62.86 Pa
+D) 32.86 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 16.0 m^2?
+A) 37.50 Pa
+B) 47.50 Pa
+C) 57.50 Pa
+D) 27.50 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 18.0 m^2?
+A) 33.33 Pa
+B) 43.33 Pa
+C) 53.33 Pa
+D) 23.33 Pa
+
+What is the pressure exerted by a force of 600.0 N over an area of 20.0 m^2?
+A) 30.00 Pa
+B) 40.00 Pa
+C) 50.00 Pa
+D) 20.00 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 10.0 m^2?
+A) 70.00 Pa
+B) 80.00 Pa
+C) 90.00 Pa
+D) 60.00 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 12.0 m^2?
+A) 58.33 Pa
+B) 68.33 Pa
+C) 78.33 Pa
+D) 48.33 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 14.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 16.0 m^2?
+A) 43.75 Pa
+B) 53.75 Pa
+C) 63.75 Pa
+D) 33.75 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 18.0 m^2?
+A) 38.89 Pa
+B) 48.89 Pa
+C) 58.89 Pa
+D) 28.89 Pa
+
+What is the pressure exerted by a force of 700.0 N over an area of 20.0 m^2?
+A) 35.00 Pa
+B) 45.00 Pa
+C) 55.00 Pa
+D) 25.00 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 10.0 m^2?
+A) 80.00 Pa
+B) 90.00 Pa
+C) 100.00 Pa
+D) 70.00 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 12.0 m^2?
+A) 66.67 Pa
+B) 76.67 Pa
+C) 86.67 Pa
+D) 56.67 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 14.0 m^2?
+A) 57.14 Pa
+B) 67.14 Pa
+C) 77.14 Pa
+D) 47.14 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 16.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 18.0 m^2?
+A) 44.44 Pa
+B) 54.44 Pa
+C) 64.44 Pa
+D) 34.44 Pa
+
+What is the pressure exerted by a force of 800.0 N over an area of 20.0 m^2?
+A) 40.00 Pa
+B) 50.00 Pa
+C) 60.00 Pa
+D) 30.00 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 10.0 m^2?
+A) 90.00 Pa
+B) 100.00 Pa
+C) 110.00 Pa
+D) 80.00 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 12.0 m^2?
+A) 75.00 Pa
+B) 85.00 Pa
+C) 95.00 Pa
+D) 65.00 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 14.0 m^2?
+A) 64.29 Pa
+B) 74.29 Pa
+C) 84.29 Pa
+D) 54.29 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 16.0 m^2?
+A) 56.25 Pa
+B) 66.25 Pa
+C) 76.25 Pa
+D) 46.25 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 18.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+
+What is the pressure exerted by a force of 900.0 N over an area of 20.0 m^2?
+A) 45.00 Pa
+B) 55.00 Pa
+C) 65.00 Pa
+D) 35.00 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 10.0 m^2?
+A) 100.00 Pa
+B) 110.00 Pa
+C) 120.00 Pa
+D) 90.00 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 12.0 m^2?
+A) 83.33 Pa
+B) 93.33 Pa
+C) 103.33 Pa
+D) 73.33 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 14.0 m^2?
+A) 71.43 Pa
+B) 81.43 Pa
+C) 91.43 Pa
+D) 61.43 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 16.0 m^2?
+A) 62.50 Pa
+B) 72.50 Pa
+C) 82.50 Pa
+D) 52.50 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 18.0 m^2?
+A) 55.56 Pa
+B) 65.56 Pa
+C) 75.56 Pa
+D) 45.56 Pa
+
+What is the pressure exerted by a force of 1000.0 N over an area of 20.0 m^2?
+A) 50.00 Pa
+B) 60.00 Pa
+C) 70.00 Pa
+D) 40.00 Pa
+

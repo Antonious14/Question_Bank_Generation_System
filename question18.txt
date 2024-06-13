@@ -1,0 +1,216 @@
+What is the work done by a force of 500.0 N over a distance of 10.0 m?
+A) 5000.00 J
+B) 6000.00 J
+C) 7000.00 J
+D) 4000.00 J
+
+What is the work done by a force of 500.0 N over a distance of 12.0 m?
+A) 6000.00 J
+B) 7000.00 J
+C) 8000.00 J
+D) 5000.00 J
+
+What is the work done by a force of 500.0 N over a distance of 14.0 m?
+A) 7000.00 J
+B) 8000.00 J
+C) 9000.00 J
+D) 6000.00 J
+
+What is the work done by a force of 500.0 N over a distance of 16.0 m?
+A) 8000.00 J
+B) 9000.00 J
+C) 10000.00 J
+D) 7000.00 J
+
+What is the work done by a force of 500.0 N over a distance of 18.0 m?
+A) 9000.00 J
+B) 10000.00 J
+C) 11000.00 J
+D) 8000.00 J
+
+What is the work done by a force of 500.0 N over a distance of 20.0 m?
+A) 10000.00 J
+B) 11000.00 J
+C) 12000.00 J
+D) 9000.00 J
+
+What is the work done by a force of 600.0 N over a distance of 10.0 m?
+A) 6000.00 J
+B) 7000.00 J
+C) 8000.00 J
+D) 5000.00 J
+
+What is the work done by a force of 600.0 N over a distance of 12.0 m?
+A) 7200.00 J
+B) 8200.00 J
+C) 9200.00 J
+D) 6200.00 J
+
+What is the work done by a force of 600.0 N over a distance of 14.0 m?
+A) 8400.00 J
+B) 9400.00 J
+C) 10400.00 J
+D) 7400.00 J
+
+What is the work done by a force of 600.0 N over a distance of 16.0 m?
+A) 9600.00 J
+B) 10600.00 J
+C) 11600.00 J
+D) 8600.00 J
+
+What is the work done by a force of 600.0 N over a distance of 18.0 m?
+A) 10800.00 J
+B) 11800.00 J
+C) 12800.00 J
+D) 9800.00 J
+
+What is the work done by a force of 600.0 N over a distance of 20.0 m?
+A) 12000.00 J
+B) 13000.00 J
+C) 14000.00 J
+D) 11000.00 J
+
+What is the work done by a force of 700.0 N over a distance of 10.0 m?
+A) 7000.00 J
+B) 8000.00 J
+C) 9000.00 J
+D) 6000.00 J
+
+What is the work done by a force of 700.0 N over a distance of 12.0 m?
+A) 8400.00 J
+B) 9400.00 J
+C) 10400.00 J
+D) 7400.00 J
+
+What is the work done by a force of 700.0 N over a distance of 14.0 m?
+A) 9800.00 J
+B) 10800.00 J
+C) 11800.00 J
+D) 8800.00 J
+
+What is the work done by a force of 700.0 N over a distance of 16.0 m?
+A) 11200.00 J
+B) 12200.00 J
+C) 13200.00 J
+D) 10200.00 J
+
+What is the work done by a force of 700.0 N over a distance of 18.0 m?
+A) 12600.00 J
+B) 13600.00 J
+C) 14600.00 J
+D) 11600.00 J
+
+What is the work done by a force of 700.0 N over a distance of 20.0 m?
+A) 14000.00 J
+B) 15000.00 J
+C) 16000.00 J
+D) 13000.00 J
+
+What is the work done by a force of 800.0 N over a distance of 10.0 m?
+A) 8000.00 J
+B) 9000.00 J
+C) 10000.00 J
+D) 7000.00 J
+
+What is the work done by a force of 800.0 N over a distance of 12.0 m?
+A) 9600.00 J
+B) 10600.00 J
+C) 11600.00 J
+D) 8600.00 J
+
+What is the work done by a force of 800.0 N over a distance of 14.0 m?
+A) 11200.00 J
+B) 12200.00 J
+C) 13200.00 J
+D) 10200.00 J
+
+What is the work done by a force of 800.0 N over a distance of 16.0 m?
+A) 12800.00 J
+B) 13800.00 J
+C) 14800.00 J
+D) 11800.00 J
+
+What is the work done by a force of 800.0 N over a distance of 18.0 m?
+A) 14400.00 J
+B) 15400.00 J
+C) 16400.00 J
+D) 13400.00 J
+
+What is the work done by a force of 800.0 N over a distance of 20.0 m?
+A) 16000.00 J
+B) 17000.00 J
+C) 18000.00 J
+D) 15000.00 J
+
+What is the work done by a force of 900.0 N over a distance of 10.0 m?
+A) 9000.00 J
+B) 10000.00 J
+C) 11000.00 J
+D) 8000.00 J
+
+What is the work done by a force of 900.0 N over a distance of 12.0 m?
+A) 10800.00 J
+B) 11800.00 J
+C) 12800.00 J
+D) 9800.00 J
+
+What is the work done by a force of 900.0 N over a distance of 14.0 m?
+A) 12600.00 J
+B) 13600.00 J
+C) 14600.00 J
+D) 11600.00 J
+
+What is the work done by a force of 900.0 N over a distance of 16.0 m?
+A) 14400.00 J
+B) 15400.00 J
+C) 16400.00 J
+D) 13400.00 J
+
+What is the work done by a force of 900.0 N over a distance of 18.0 m?
+A) 16200.00 J
+B) 17200.00 J
+C) 18200.00 J
+D) 15200.00 J
+
+What is the work done by a force of 900.0 N over a distance of 20.0 m?
+A) 18000.00 J
+B) 19000.00 J
+C) 20000.00 J
+D) 17000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 10.0 m?
+A) 10000.00 J
+B) 11000.00 J
+C) 12000.00 J
+D) 9000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 12.0 m?
+A) 12000.00 J
+B) 13000.00 J
+C) 14000.00 J
+D) 11000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 14.0 m?
+A) 14000.00 J
+B) 15000.00 J
+C) 16000.00 J
+D) 13000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 16.0 m?
+A) 16000.00 J
+B) 17000.00 J
+C) 18000.00 J
+D) 15000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 18.0 m?
+A) 18000.00 J
+B) 19000.00 J
+C) 20000.00 J
+D) 17000.00 J
+
+What is the work done by a force of 1000.0 N over a distance of 20.0 m?
+A) 20000.00 J
+B) 21000.00 J
+C) 22000.00 J
+D) 19000.00 J
+

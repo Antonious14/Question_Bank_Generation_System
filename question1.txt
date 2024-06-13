@@ -1,0 +1,240 @@
+What is the average velocity of a car that moved 60.0 km in 3.0 hours?
+A) 20.00 km/h
+B) 21.00 km/h
+C) 22.00 km/h
+D) 19.00 km/h
+
+What is the average velocity of a car that moved 60.0 km in 4.0 hours?
+A) 15.00 km/h
+B) 16.00 km/h
+C) 17.00 km/h
+D) 14.00 km/h
+
+What is the average velocity of a car that moved 60.0 km in 5.0 hours?
+A) 12.00 km/h
+B) 13.00 km/h
+C) 14.00 km/h
+D) 11.00 km/h
+
+What is the average velocity of a car that moved 60.0 km in 6.0 hours?
+A) 10.00 km/h
+B) 11.00 km/h
+C) 12.00 km/h
+D) 9.00 km/h
+
+What is the average velocity of a car that moved 60.0 km in 7.0 hours?
+A) 8.57 km/h
+B) 9.57 km/h
+C) 10.57 km/h
+D) 7.57 km/h
+
+What is the average velocity of a car that moved 60.0 km in 8.0 hours?
+A) 7.50 km/h
+B) 8.50 km/h
+C) 9.50 km/h
+D) 6.50 km/h
+
+What is the average velocity of a car that moved 60.0 km in 9.0 hours?
+A) 6.67 km/h
+B) 7.67 km/h
+C) 8.67 km/h
+D) 5.67 km/h
+
+What is the average velocity of a car that moved 60.0 km in 10.0 hours?
+A) 6.00 km/h
+B) 7.00 km/h
+C) 8.00 km/h
+D) 5.00 km/h
+
+What is the average velocity of a car that moved 65.0 km in 3.0 hours?
+A) 21.67 km/h
+B) 22.67 km/h
+C) 23.67 km/h
+D) 20.67 km/h
+
+What is the average velocity of a car that moved 65.0 km in 4.0 hours?
+A) 16.25 km/h
+B) 17.25 km/h
+C) 18.25 km/h
+D) 15.25 km/h
+
+What is the average velocity of a car that moved 65.0 km in 5.0 hours?
+A) 13.00 km/h
+B) 14.00 km/h
+C) 15.00 km/h
+D) 12.00 km/h
+
+What is the average velocity of a car that moved 65.0 km in 6.0 hours?
+A) 10.83 km/h
+B) 11.83 km/h
+C) 12.83 km/h
+D) 9.83 km/h
+
+What is the average velocity of a car that moved 65.0 km in 7.0 hours?
+A) 9.29 km/h
+B) 10.29 km/h
+C) 11.29 km/h
+D) 8.29 km/h
+
+What is the average velocity of a car that moved 65.0 km in 8.0 hours?
+A) 8.13 km/h
+B) 9.13 km/h
+C) 10.13 km/h
+D) 7.13 km/h
+
+What is the average velocity of a car that moved 65.0 km in 9.0 hours?
+A) 7.22 km/h
+B) 8.22 km/h
+C) 9.22 km/h
+D) 6.22 km/h
+
+What is the average velocity of a car that moved 65.0 km in 10.0 hours?
+A) 6.50 km/h
+B) 7.50 km/h
+C) 8.50 km/h
+D) 5.50 km/h
+
+What is the average velocity of a car that moved 70.0 km in 3.0 hours?
+A) 23.33 km/h
+B) 24.33 km/h
+C) 25.33 km/h
+D) 22.33 km/h
+
+What is the average velocity of a car that moved 70.0 km in 4.0 hours?
+A) 17.50 km/h
+B) 18.50 km/h
+C) 19.50 km/h
+D) 16.50 km/h
+
+What is the average velocity of a car that moved 70.0 km in 5.0 hours?
+A) 14.00 km/h
+B) 15.00 km/h
+C) 16.00 km/h
+D) 13.00 km/h
+
+What is the average velocity of a car that moved 70.0 km in 6.0 hours?
+A) 11.67 km/h
+B) 12.67 km/h
+C) 13.67 km/h
+D) 10.67 km/h
+
+What is the average velocity of a car that moved 70.0 km in 7.0 hours?
+A) 10.00 km/h
+B) 11.00 km/h
+C) 12.00 km/h
+D) 9.00 km/h
+
+What is the average velocity of a car that moved 70.0 km in 8.0 hours?
+A) 8.75 km/h
+B) 9.75 km/h
+C) 10.75 km/h
+D) 7.75 km/h
+
+What is the average velocity of a car that moved 70.0 km in 9.0 hours?
+A) 7.78 km/h
+B) 8.78 km/h
+C) 9.78 km/h
+D) 6.78 km/h
+
+What is the average velocity of a car that moved 70.0 km in 10.0 hours?
+A) 7.00 km/h
+B) 8.00 km/h
+C) 9.00 km/h
+D) 6.00 km/h
+
+What is the average velocity of a car that moved 75.0 km in 3.0 hours?
+A) 25.00 km/h
+B) 26.00 km/h
+C) 27.00 km/h
+D) 24.00 km/h
+
+What is the average velocity of a car that moved 75.0 km in 4.0 hours?
+A) 18.75 km/h
+B) 19.75 km/h
+C) 20.75 km/h
+D) 17.75 km/h
+
+What is the average velocity of a car that moved 75.0 km in 5.0 hours?
+A) 15.00 km/h
+B) 16.00 km/h
+C) 17.00 km/h
+D) 14.00 km/h
+
+What is the average velocity of a car that moved 75.0 km in 6.0 hours?
+A) 12.50 km/h
+B) 13.50 km/h
+C) 14.50 km/h
+D) 11.50 km/h
+
+What is the average velocity of a car that moved 75.0 km in 7.0 hours?
+A) 10.71 km/h
+B) 11.71 km/h
+C) 12.71 km/h
+D) 9.71 km/h
+
+What is the average velocity of a car that moved 75.0 km in 8.0 hours?
+A) 9.38 km/h
+B) 10.38 km/h
+C) 11.38 km/h
+D) 8.38 km/h
+
+What is the average velocity of a car that moved 75.0 km in 9.0 hours?
+A) 8.33 km/h
+B) 9.33 km/h
+C) 10.33 km/h
+D) 7.33 km/h
+
+What is the average velocity of a car that moved 75.0 km in 10.0 hours?
+A) 7.50 km/h
+B) 8.50 km/h
+C) 9.50 km/h
+D) 6.50 km/h
+
+What is the average velocity of a car that moved 80.0 km in 3.0 hours?
+A) 26.67 km/h
+B) 27.67 km/h
+C) 28.67 km/h
+D) 25.67 km/h
+
+What is the average velocity of a car that moved 80.0 km in 4.0 hours?
+A) 20.00 km/h
+B) 21.00 km/h
+C) 22.00 km/h
+D) 19.00 km/h
+
+What is the average velocity of a car that moved 80.0 km in 5.0 hours?
+A) 16.00 km/h
+B) 17.00 km/h
+C) 18.00 km/h
+D) 15.00 km/h
+
+What is the average velocity of a car that moved 80.0 km in 6.0 hours?
+A) 13.33 km/h
+B) 14.33 km/h
+C) 15.33 km/h
+D) 12.33 km/h
+
+What is the average velocity of a car that moved 80.0 km in 7.0 hours?
+A) 11.43 km/h
+B) 12.43 km/h
+C) 13.43 km/h
+D) 10.43 km/h
+
+What is the average velocity of a car that moved 80.0 km in 8.0 hours?
+A) 10.00 km/h
+B) 11.00 km/h
+C) 12.00 km/h
+D) 9.00 km/h
+
+What is the average velocity of a car that moved 80.0 km in 9.0 hours?
+A) 8.89 km/h
+B) 9.89 km/h
+C) 10.89 km/h
+D) 7.89 km/h
+
+What is the average velocity of a car that moved 80.0 km in 10.0 hours?
+A) 8.00 km/h
+B) 9.00 km/h
+C) 10.00 km/h
+D) 7.00 km/h
+

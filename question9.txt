@@ -1,0 +1,528 @@
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 104.10 meters
+B) 114.10 meters
+C) 124.10 meters
+D) 94.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 158.40 meters
+B) 168.40 meters
+C) 178.40 meters
+D) 148.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 222.50 meters
+B) 232.50 meters
+C) 242.50 meters
+D) 212.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 296.40 meters
+B) 306.40 meters
+C) 316.40 meters
+D) 286.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 380.10 meters
+B) 390.10 meters
+C) 400.10 meters
+D) 370.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 473.60 meters
+B) 483.60 meters
+C) 493.60 meters
+D) 463.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 576.90 meters
+B) 586.90 meters
+C) 596.90 meters
+D) 566.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 20.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 690.00 meters
+B) 700.00 meters
+C) 710.00 meters
+D) 680.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 107.10 meters
+B) 117.10 meters
+C) 127.10 meters
+D) 97.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 162.40 meters
+B) 172.40 meters
+C) 182.40 meters
+D) 152.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 227.50 meters
+B) 237.50 meters
+C) 247.50 meters
+D) 217.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 302.40 meters
+B) 312.40 meters
+C) 322.40 meters
+D) 292.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 387.10 meters
+B) 397.10 meters
+C) 407.10 meters
+D) 377.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 481.60 meters
+B) 491.60 meters
+C) 501.60 meters
+D) 471.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 585.90 meters
+B) 595.90 meters
+C) 605.90 meters
+D) 575.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 21.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 700.00 meters
+B) 710.00 meters
+C) 720.00 meters
+D) 690.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 110.10 meters
+B) 120.10 meters
+C) 130.10 meters
+D) 100.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 166.40 meters
+B) 176.40 meters
+C) 186.40 meters
+D) 156.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 232.50 meters
+B) 242.50 meters
+C) 252.50 meters
+D) 222.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 308.40 meters
+B) 318.40 meters
+C) 328.40 meters
+D) 298.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 394.10 meters
+B) 404.10 meters
+C) 414.10 meters
+D) 384.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 489.60 meters
+B) 499.60 meters
+C) 509.60 meters
+D) 479.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 594.90 meters
+B) 604.90 meters
+C) 614.90 meters
+D) 584.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 22.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 710.00 meters
+B) 720.00 meters
+C) 730.00 meters
+D) 700.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 113.10 meters
+B) 123.10 meters
+C) 133.10 meters
+D) 103.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 170.40 meters
+B) 180.40 meters
+C) 190.40 meters
+D) 160.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 237.50 meters
+B) 247.50 meters
+C) 257.50 meters
+D) 227.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 314.40 meters
+B) 324.40 meters
+C) 334.40 meters
+D) 304.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 401.10 meters
+B) 411.10 meters
+C) 421.10 meters
+D) 391.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 497.60 meters
+B) 507.60 meters
+C) 517.60 meters
+D) 487.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 603.90 meters
+B) 613.90 meters
+C) 623.90 meters
+D) 593.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 23.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 720.00 meters
+B) 730.00 meters
+C) 740.00 meters
+D) 710.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 116.10 meters
+B) 126.10 meters
+C) 136.10 meters
+D) 106.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 174.40 meters
+B) 184.40 meters
+C) 194.40 meters
+D) 164.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 242.50 meters
+B) 252.50 meters
+C) 262.50 meters
+D) 232.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 320.40 meters
+B) 330.40 meters
+C) 340.40 meters
+D) 310.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 408.10 meters
+B) 418.10 meters
+C) 428.10 meters
+D) 398.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 505.60 meters
+B) 515.60 meters
+C) 525.60 meters
+D) 495.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 612.90 meters
+B) 622.90 meters
+C) 632.90 meters
+D) 602.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 24.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 730.00 meters
+B) 740.00 meters
+C) 750.00 meters
+D) 720.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 119.10 meters
+B) 129.10 meters
+C) 139.10 meters
+D) 109.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 178.40 meters
+B) 188.40 meters
+C) 198.40 meters
+D) 168.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 247.50 meters
+B) 257.50 meters
+C) 267.50 meters
+D) 237.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 326.40 meters
+B) 336.40 meters
+C) 346.40 meters
+D) 316.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 415.10 meters
+B) 425.10 meters
+C) 435.10 meters
+D) 405.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 513.60 meters
+B) 523.60 meters
+C) 533.60 meters
+D) 503.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 621.90 meters
+B) 631.90 meters
+C) 641.90 meters
+D) 611.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 25.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 740.00 meters
+B) 750.00 meters
+C) 760.00 meters
+D) 730.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 122.10 meters
+B) 132.10 meters
+C) 142.10 meters
+D) 112.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 182.40 meters
+B) 192.40 meters
+C) 202.40 meters
+D) 172.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 252.50 meters
+B) 262.50 meters
+C) 272.50 meters
+D) 242.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 332.40 meters
+B) 342.40 meters
+C) 352.40 meters
+D) 322.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 422.10 meters
+B) 432.10 meters
+C) 442.10 meters
+D) 412.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 521.60 meters
+B) 531.60 meters
+C) 541.60 meters
+D) 511.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 630.90 meters
+B) 640.90 meters
+C) 650.90 meters
+D) 620.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 26.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 750.00 meters
+B) 760.00 meters
+C) 770.00 meters
+D) 740.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 125.10 meters
+B) 135.10 meters
+C) 145.10 meters
+D) 115.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 186.40 meters
+B) 196.40 meters
+C) 206.40 meters
+D) 176.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 257.50 meters
+B) 267.50 meters
+C) 277.50 meters
+D) 247.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 338.40 meters
+B) 348.40 meters
+C) 358.40 meters
+D) 328.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 429.10 meters
+B) 439.10 meters
+C) 449.10 meters
+D) 419.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 529.60 meters
+B) 539.60 meters
+C) 549.60 meters
+D) 519.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 639.90 meters
+B) 649.90 meters
+C) 659.90 meters
+D) 629.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 27.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 760.00 meters
+B) 770.00 meters
+C) 780.00 meters
+D) 750.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 128.10 meters
+B) 138.10 meters
+C) 148.10 meters
+D) 118.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 190.40 meters
+B) 200.40 meters
+C) 210.40 meters
+D) 180.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 262.50 meters
+B) 272.50 meters
+C) 282.50 meters
+D) 252.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 344.40 meters
+B) 354.40 meters
+C) 364.40 meters
+D) 334.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 436.10 meters
+B) 446.10 meters
+C) 456.10 meters
+D) 426.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 537.60 meters
+B) 547.60 meters
+C) 557.60 meters
+D) 527.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 648.90 meters
+B) 658.90 meters
+C) 668.90 meters
+D) 638.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 28.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 770.00 meters
+B) 780.00 meters
+C) 790.00 meters
+D) 760.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 131.10 meters
+B) 141.10 meters
+C) 151.10 meters
+D) 121.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 194.40 meters
+B) 204.40 meters
+C) 214.40 meters
+D) 184.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 267.50 meters
+B) 277.50 meters
+C) 287.50 meters
+D) 257.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 350.40 meters
+B) 360.40 meters
+C) 370.40 meters
+D) 340.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 443.10 meters
+B) 453.10 meters
+C) 463.10 meters
+D) 433.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 545.60 meters
+B) 555.60 meters
+C) 565.60 meters
+D) 535.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 657.90 meters
+B) 667.90 meters
+C) 677.90 meters
+D) 647.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 29.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 780.00 meters
+B) 790.00 meters
+C) 800.00 meters
+D) 770.00 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 3.0 seconds?
+A) 134.10 meters
+B) 144.10 meters
+C) 154.10 meters
+D) 124.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 4.0 seconds?
+A) 198.40 meters
+B) 208.40 meters
+C) 218.40 meters
+D) 188.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 5.0 seconds?
+A) 272.50 meters
+B) 282.50 meters
+C) 292.50 meters
+D) 262.50 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 6.0 seconds?
+A) 356.40 meters
+B) 366.40 meters
+C) 376.40 meters
+D) 346.40 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 7.0 seconds?
+A) 450.10 meters
+B) 460.10 meters
+C) 470.10 meters
+D) 440.10 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 8.0 seconds?
+A) 553.60 meters
+B) 563.60 meters
+C) 573.60 meters
+D) 543.60 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 9.0 seconds?
+A) 666.90 meters
+B) 676.90 meters
+C) 686.90 meters
+D) 656.90 meters
+
+An object is thrown vertically upwards with an initial velocity of 30.0 m/s. How far will it have traveled after 10.0 seconds?
+A) 790.00 meters
+B) 800.00 meters
+C) 810.00 meters
+D) 780.00 meters
+

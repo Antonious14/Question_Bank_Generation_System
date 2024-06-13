@@ -1,0 +1,1200 @@
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 1.0 m?
+A) 9.80 J
+B) 109.80 J
+C) 209.80 J
+D) -40.20 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 2.0 m?
+A) 19.60 J
+B) 119.60 J
+C) 219.60 J
+D) -30.40 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 3.0 m?
+A) 29.40 J
+B) 129.40 J
+C) 229.40 J
+D) -20.60 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 4.0 m?
+A) 39.20 J
+B) 139.20 J
+C) 239.20 J
+D) -10.80 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 5.0 m?
+A) 49.00 J
+B) 149.00 J
+C) 249.00 J
+D) -1.00 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 6.0 m?
+A) 58.80 J
+B) 158.80 J
+C) 258.80 J
+D) 8.80 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 7.0 m?
+A) 68.60 J
+B) 168.60 J
+C) 268.60 J
+D) 18.60 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 8.0 m?
+A) 78.40 J
+B) 178.40 J
+C) 278.40 J
+D) 28.40 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 9.0 m?
+A) 88.20 J
+B) 188.20 J
+C) 288.20 J
+D) 38.20 J
+
+What is the potential energy of an object with mass 1.0 kg lifted to a height of 10.0 m?
+A) 98.00 J
+B) 198.00 J
+C) 298.00 J
+D) 48.00 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 1.0 m?
+A) 19.60 J
+B) 119.60 J
+C) 219.60 J
+D) -30.40 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 2.0 m?
+A) 39.20 J
+B) 139.20 J
+C) 239.20 J
+D) -10.80 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 3.0 m?
+A) 58.80 J
+B) 158.80 J
+C) 258.80 J
+D) 8.80 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 4.0 m?
+A) 78.40 J
+B) 178.40 J
+C) 278.40 J
+D) 28.40 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 5.0 m?
+A) 98.00 J
+B) 198.00 J
+C) 298.00 J
+D) 48.00 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 6.0 m?
+A) 117.60 J
+B) 217.60 J
+C) 317.60 J
+D) 67.60 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 7.0 m?
+A) 137.20 J
+B) 237.20 J
+C) 337.20 J
+D) 87.20 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 8.0 m?
+A) 156.80 J
+B) 256.80 J
+C) 356.80 J
+D) 106.80 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 9.0 m?
+A) 176.40 J
+B) 276.40 J
+C) 376.40 J
+D) 126.40 J
+
+What is the potential energy of an object with mass 2.0 kg lifted to a height of 10.0 m?
+A) 196.00 J
+B) 296.00 J
+C) 396.00 J
+D) 146.00 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 1.0 m?
+A) 29.40 J
+B) 129.40 J
+C) 229.40 J
+D) -20.60 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 2.0 m?
+A) 58.80 J
+B) 158.80 J
+C) 258.80 J
+D) 8.80 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 3.0 m?
+A) 88.20 J
+B) 188.20 J
+C) 288.20 J
+D) 38.20 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 4.0 m?
+A) 117.60 J
+B) 217.60 J
+C) 317.60 J
+D) 67.60 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 5.0 m?
+A) 147.00 J
+B) 247.00 J
+C) 347.00 J
+D) 97.00 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 6.0 m?
+A) 176.40 J
+B) 276.40 J
+C) 376.40 J
+D) 126.40 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 7.0 m?
+A) 205.80 J
+B) 305.80 J
+C) 405.80 J
+D) 155.80 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 8.0 m?
+A) 235.20 J
+B) 335.20 J
+C) 435.20 J
+D) 185.20 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 9.0 m?
+A) 264.60 J
+B) 364.60 J
+C) 464.60 J
+D) 214.60 J
+
+What is the potential energy of an object with mass 3.0 kg lifted to a height of 10.0 m?
+A) 294.00 J
+B) 394.00 J
+C) 494.00 J
+D) 244.00 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 1.0 m?
+A) 39.20 J
+B) 139.20 J
+C) 239.20 J
+D) -10.80 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 2.0 m?
+A) 78.40 J
+B) 178.40 J
+C) 278.40 J
+D) 28.40 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 3.0 m?
+A) 117.60 J
+B) 217.60 J
+C) 317.60 J
+D) 67.60 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 4.0 m?
+A) 156.80 J
+B) 256.80 J
+C) 356.80 J
+D) 106.80 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 5.0 m?
+A) 196.00 J
+B) 296.00 J
+C) 396.00 J
+D) 146.00 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 6.0 m?
+A) 235.20 J
+B) 335.20 J
+C) 435.20 J
+D) 185.20 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 7.0 m?
+A) 274.40 J
+B) 374.40 J
+C) 474.40 J
+D) 224.40 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 8.0 m?
+A) 313.60 J
+B) 413.60 J
+C) 513.60 J
+D) 263.60 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 9.0 m?
+A) 352.80 J
+B) 452.80 J
+C) 552.80 J
+D) 302.80 J
+
+What is the potential energy of an object with mass 4.0 kg lifted to a height of 10.0 m?
+A) 392.00 J
+B) 492.00 J
+C) 592.00 J
+D) 342.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 1.0 m?
+A) 49.00 J
+B) 149.00 J
+C) 249.00 J
+D) -1.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 2.0 m?
+A) 98.00 J
+B) 198.00 J
+C) 298.00 J
+D) 48.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 3.0 m?
+A) 147.00 J
+B) 247.00 J
+C) 347.00 J
+D) 97.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 4.0 m?
+A) 196.00 J
+B) 296.00 J
+C) 396.00 J
+D) 146.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 5.0 m?
+A) 245.00 J
+B) 345.00 J
+C) 445.00 J
+D) 195.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 6.0 m?
+A) 294.00 J
+B) 394.00 J
+C) 494.00 J
+D) 244.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 7.0 m?
+A) 343.00 J
+B) 443.00 J
+C) 543.00 J
+D) 293.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 8.0 m?
+A) 392.00 J
+B) 492.00 J
+C) 592.00 J
+D) 342.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 9.0 m?
+A) 441.00 J
+B) 541.00 J
+C) 641.00 J
+D) 391.00 J
+
+What is the potential energy of an object with mass 5.0 kg lifted to a height of 10.0 m?
+A) 490.00 J
+B) 590.00 J
+C) 690.00 J
+D) 440.00 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 1.0 m?
+A) 58.80 J
+B) 158.80 J
+C) 258.80 J
+D) 8.80 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 2.0 m?
+A) 117.60 J
+B) 217.60 J
+C) 317.60 J
+D) 67.60 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 3.0 m?
+A) 176.40 J
+B) 276.40 J
+C) 376.40 J
+D) 126.40 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 4.0 m?
+A) 235.20 J
+B) 335.20 J
+C) 435.20 J
+D) 185.20 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 5.0 m?
+A) 294.00 J
+B) 394.00 J
+C) 494.00 J
+D) 244.00 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 6.0 m?
+A) 352.80 J
+B) 452.80 J
+C) 552.80 J
+D) 302.80 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 7.0 m?
+A) 411.60 J
+B) 511.60 J
+C) 611.60 J
+D) 361.60 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 8.0 m?
+A) 470.40 J
+B) 570.40 J
+C) 670.40 J
+D) 420.40 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 9.0 m?
+A) 529.20 J
+B) 629.20 J
+C) 729.20 J
+D) 479.20 J
+
+What is the potential energy of an object with mass 6.0 kg lifted to a height of 10.0 m?
+A) 588.00 J
+B) 688.00 J
+C) 788.00 J
+D) 538.00 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 1.0 m?
+A) 68.60 J
+B) 168.60 J
+C) 268.60 J
+D) 18.60 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 2.0 m?
+A) 137.20 J
+B) 237.20 J
+C) 337.20 J
+D) 87.20 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 3.0 m?
+A) 205.80 J
+B) 305.80 J
+C) 405.80 J
+D) 155.80 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 4.0 m?
+A) 274.40 J
+B) 374.40 J
+C) 474.40 J
+D) 224.40 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 5.0 m?
+A) 343.00 J
+B) 443.00 J
+C) 543.00 J
+D) 293.00 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 6.0 m?
+A) 411.60 J
+B) 511.60 J
+C) 611.60 J
+D) 361.60 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 7.0 m?
+A) 480.20 J
+B) 580.20 J
+C) 680.20 J
+D) 430.20 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 8.0 m?
+A) 548.80 J
+B) 648.80 J
+C) 748.80 J
+D) 498.80 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 9.0 m?
+A) 617.40 J
+B) 717.40 J
+C) 817.40 J
+D) 567.40 J
+
+What is the potential energy of an object with mass 7.0 kg lifted to a height of 10.0 m?
+A) 686.00 J
+B) 786.00 J
+C) 886.00 J
+D) 636.00 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 1.0 m?
+A) 78.40 J
+B) 178.40 J
+C) 278.40 J
+D) 28.40 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 2.0 m?
+A) 156.80 J
+B) 256.80 J
+C) 356.80 J
+D) 106.80 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 3.0 m?
+A) 235.20 J
+B) 335.20 J
+C) 435.20 J
+D) 185.20 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 4.0 m?
+A) 313.60 J
+B) 413.60 J
+C) 513.60 J
+D) 263.60 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 5.0 m?
+A) 392.00 J
+B) 492.00 J
+C) 592.00 J
+D) 342.00 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 6.0 m?
+A) 470.40 J
+B) 570.40 J
+C) 670.40 J
+D) 420.40 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 7.0 m?
+A) 548.80 J
+B) 648.80 J
+C) 748.80 J
+D) 498.80 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 8.0 m?
+A) 627.20 J
+B) 727.20 J
+C) 827.20 J
+D) 577.20 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 9.0 m?
+A) 705.60 J
+B) 805.60 J
+C) 905.60 J
+D) 655.60 J
+
+What is the potential energy of an object with mass 8.0 kg lifted to a height of 10.0 m?
+A) 784.00 J
+B) 884.00 J
+C) 984.00 J
+D) 734.00 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 1.0 m?
+A) 88.20 J
+B) 188.20 J
+C) 288.20 J
+D) 38.20 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 2.0 m?
+A) 176.40 J
+B) 276.40 J
+C) 376.40 J
+D) 126.40 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 3.0 m?
+A) 264.60 J
+B) 364.60 J
+C) 464.60 J
+D) 214.60 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 4.0 m?
+A) 352.80 J
+B) 452.80 J
+C) 552.80 J
+D) 302.80 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 5.0 m?
+A) 441.00 J
+B) 541.00 J
+C) 641.00 J
+D) 391.00 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 6.0 m?
+A) 529.20 J
+B) 629.20 J
+C) 729.20 J
+D) 479.20 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 7.0 m?
+A) 617.40 J
+B) 717.40 J
+C) 817.40 J
+D) 567.40 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 8.0 m?
+A) 705.60 J
+B) 805.60 J
+C) 905.60 J
+D) 655.60 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 9.0 m?
+A) 793.80 J
+B) 893.80 J
+C) 993.80 J
+D) 743.80 J
+
+What is the potential energy of an object with mass 9.0 kg lifted to a height of 10.0 m?
+A) 882.00 J
+B) 982.00 J
+C) 1082.00 J
+D) 832.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 1.0 m?
+A) 98.00 J
+B) 198.00 J
+C) 298.00 J
+D) 48.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 2.0 m?
+A) 196.00 J
+B) 296.00 J
+C) 396.00 J
+D) 146.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 3.0 m?
+A) 294.00 J
+B) 394.00 J
+C) 494.00 J
+D) 244.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 4.0 m?
+A) 392.00 J
+B) 492.00 J
+C) 592.00 J
+D) 342.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 5.0 m?
+A) 490.00 J
+B) 590.00 J
+C) 690.00 J
+D) 440.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 6.0 m?
+A) 588.00 J
+B) 688.00 J
+C) 788.00 J
+D) 538.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 7.0 m?
+A) 686.00 J
+B) 786.00 J
+C) 886.00 J
+D) 636.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 8.0 m?
+A) 784.00 J
+B) 884.00 J
+C) 984.00 J
+D) 734.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 9.0 m?
+A) 882.00 J
+B) 982.00 J
+C) 1082.00 J
+D) 832.00 J
+
+What is the potential energy of an object with mass 10.0 kg lifted to a height of 10.0 m?
+A) 980.00 J
+B) 1080.00 J
+C) 1180.00 J
+D) 930.00 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 1.0 m?
+A) 107.80 J
+B) 207.80 J
+C) 307.80 J
+D) 57.80 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 2.0 m?
+A) 215.60 J
+B) 315.60 J
+C) 415.60 J
+D) 165.60 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 3.0 m?
+A) 323.40 J
+B) 423.40 J
+C) 523.40 J
+D) 273.40 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 4.0 m?
+A) 431.20 J
+B) 531.20 J
+C) 631.20 J
+D) 381.20 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 5.0 m?
+A) 539.00 J
+B) 639.00 J
+C) 739.00 J
+D) 489.00 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 6.0 m?
+A) 646.80 J
+B) 746.80 J
+C) 846.80 J
+D) 596.80 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 7.0 m?
+A) 754.60 J
+B) 854.60 J
+C) 954.60 J
+D) 704.60 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 8.0 m?
+A) 862.40 J
+B) 962.40 J
+C) 1062.40 J
+D) 812.40 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 9.0 m?
+A) 970.20 J
+B) 1070.20 J
+C) 1170.20 J
+D) 920.20 J
+
+What is the potential energy of an object with mass 11.0 kg lifted to a height of 10.0 m?
+A) 1078.00 J
+B) 1178.00 J
+C) 1278.00 J
+D) 1028.00 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 1.0 m?
+A) 117.60 J
+B) 217.60 J
+C) 317.60 J
+D) 67.60 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 2.0 m?
+A) 235.20 J
+B) 335.20 J
+C) 435.20 J
+D) 185.20 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 3.0 m?
+A) 352.80 J
+B) 452.80 J
+C) 552.80 J
+D) 302.80 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 4.0 m?
+A) 470.40 J
+B) 570.40 J
+C) 670.40 J
+D) 420.40 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 5.0 m?
+A) 588.00 J
+B) 688.00 J
+C) 788.00 J
+D) 538.00 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 6.0 m?
+A) 705.60 J
+B) 805.60 J
+C) 905.60 J
+D) 655.60 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 7.0 m?
+A) 823.20 J
+B) 923.20 J
+C) 1023.20 J
+D) 773.20 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 8.0 m?
+A) 940.80 J
+B) 1040.80 J
+C) 1140.80 J
+D) 890.80 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 9.0 m?
+A) 1058.40 J
+B) 1158.40 J
+C) 1258.40 J
+D) 1008.40 J
+
+What is the potential energy of an object with mass 12.0 kg lifted to a height of 10.0 m?
+A) 1176.00 J
+B) 1276.00 J
+C) 1376.00 J
+D) 1126.00 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 1.0 m?
+A) 127.40 J
+B) 227.40 J
+C) 327.40 J
+D) 77.40 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 2.0 m?
+A) 254.80 J
+B) 354.80 J
+C) 454.80 J
+D) 204.80 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 3.0 m?
+A) 382.20 J
+B) 482.20 J
+C) 582.20 J
+D) 332.20 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 4.0 m?
+A) 509.60 J
+B) 609.60 J
+C) 709.60 J
+D) 459.60 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 5.0 m?
+A) 637.00 J
+B) 737.00 J
+C) 837.00 J
+D) 587.00 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 6.0 m?
+A) 764.40 J
+B) 864.40 J
+C) 964.40 J
+D) 714.40 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 7.0 m?
+A) 891.80 J
+B) 991.80 J
+C) 1091.80 J
+D) 841.80 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 8.0 m?
+A) 1019.20 J
+B) 1119.20 J
+C) 1219.20 J
+D) 969.20 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 9.0 m?
+A) 1146.60 J
+B) 1246.60 J
+C) 1346.60 J
+D) 1096.60 J
+
+What is the potential energy of an object with mass 13.0 kg lifted to a height of 10.0 m?
+A) 1274.00 J
+B) 1374.00 J
+C) 1474.00 J
+D) 1224.00 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 1.0 m?
+A) 137.20 J
+B) 237.20 J
+C) 337.20 J
+D) 87.20 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 2.0 m?
+A) 274.40 J
+B) 374.40 J
+C) 474.40 J
+D) 224.40 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 3.0 m?
+A) 411.60 J
+B) 511.60 J
+C) 611.60 J
+D) 361.60 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 4.0 m?
+A) 548.80 J
+B) 648.80 J
+C) 748.80 J
+D) 498.80 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 5.0 m?
+A) 686.00 J
+B) 786.00 J
+C) 886.00 J
+D) 636.00 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 6.0 m?
+A) 823.20 J
+B) 923.20 J
+C) 1023.20 J
+D) 773.20 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 7.0 m?
+A) 960.40 J
+B) 1060.40 J
+C) 1160.40 J
+D) 910.40 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 8.0 m?
+A) 1097.60 J
+B) 1197.60 J
+C) 1297.60 J
+D) 1047.60 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 9.0 m?
+A) 1234.80 J
+B) 1334.80 J
+C) 1434.80 J
+D) 1184.80 J
+
+What is the potential energy of an object with mass 14.0 kg lifted to a height of 10.0 m?
+A) 1372.00 J
+B) 1472.00 J
+C) 1572.00 J
+D) 1322.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 1.0 m?
+A) 147.00 J
+B) 247.00 J
+C) 347.00 J
+D) 97.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 2.0 m?
+A) 294.00 J
+B) 394.00 J
+C) 494.00 J
+D) 244.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 3.0 m?
+A) 441.00 J
+B) 541.00 J
+C) 641.00 J
+D) 391.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 4.0 m?
+A) 588.00 J
+B) 688.00 J
+C) 788.00 J
+D) 538.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 5.0 m?
+A) 735.00 J
+B) 835.00 J
+C) 935.00 J
+D) 685.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 6.0 m?
+A) 882.00 J
+B) 982.00 J
+C) 1082.00 J
+D) 832.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 7.0 m?
+A) 1029.00 J
+B) 1129.00 J
+C) 1229.00 J
+D) 979.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 8.0 m?
+A) 1176.00 J
+B) 1276.00 J
+C) 1376.00 J
+D) 1126.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 9.0 m?
+A) 1323.00 J
+B) 1423.00 J
+C) 1523.00 J
+D) 1273.00 J
+
+What is the potential energy of an object with mass 15.0 kg lifted to a height of 10.0 m?
+A) 1470.00 J
+B) 1570.00 J
+C) 1670.00 J
+D) 1420.00 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 1.0 m?
+A) 156.80 J
+B) 256.80 J
+C) 356.80 J
+D) 106.80 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 2.0 m?
+A) 313.60 J
+B) 413.60 J
+C) 513.60 J
+D) 263.60 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 3.0 m?
+A) 470.40 J
+B) 570.40 J
+C) 670.40 J
+D) 420.40 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 4.0 m?
+A) 627.20 J
+B) 727.20 J
+C) 827.20 J
+D) 577.20 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 5.0 m?
+A) 784.00 J
+B) 884.00 J
+C) 984.00 J
+D) 734.00 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 6.0 m?
+A) 940.80 J
+B) 1040.80 J
+C) 1140.80 J
+D) 890.80 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 7.0 m?
+A) 1097.60 J
+B) 1197.60 J
+C) 1297.60 J
+D) 1047.60 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 8.0 m?
+A) 1254.40 J
+B) 1354.40 J
+C) 1454.40 J
+D) 1204.40 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 9.0 m?
+A) 1411.20 J
+B) 1511.20 J
+C) 1611.20 J
+D) 1361.20 J
+
+What is the potential energy of an object with mass 16.0 kg lifted to a height of 10.0 m?
+A) 1568.00 J
+B) 1668.00 J
+C) 1768.00 J
+D) 1518.00 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 1.0 m?
+A) 166.60 J
+B) 266.60 J
+C) 366.60 J
+D) 116.60 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 2.0 m?
+A) 333.20 J
+B) 433.20 J
+C) 533.20 J
+D) 283.20 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 3.0 m?
+A) 499.80 J
+B) 599.80 J
+C) 699.80 J
+D) 449.80 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 4.0 m?
+A) 666.40 J
+B) 766.40 J
+C) 866.40 J
+D) 616.40 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 5.0 m?
+A) 833.00 J
+B) 933.00 J
+C) 1033.00 J
+D) 783.00 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 6.0 m?
+A) 999.60 J
+B) 1099.60 J
+C) 1199.60 J
+D) 949.60 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 7.0 m?
+A) 1166.20 J
+B) 1266.20 J
+C) 1366.20 J
+D) 1116.20 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 8.0 m?
+A) 1332.80 J
+B) 1432.80 J
+C) 1532.80 J
+D) 1282.80 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 9.0 m?
+A) 1499.40 J
+B) 1599.40 J
+C) 1699.40 J
+D) 1449.40 J
+
+What is the potential energy of an object with mass 17.0 kg lifted to a height of 10.0 m?
+A) 1666.00 J
+B) 1766.00 J
+C) 1866.00 J
+D) 1616.00 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 1.0 m?
+A) 176.40 J
+B) 276.40 J
+C) 376.40 J
+D) 126.40 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 2.0 m?
+A) 352.80 J
+B) 452.80 J
+C) 552.80 J
+D) 302.80 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 3.0 m?
+A) 529.20 J
+B) 629.20 J
+C) 729.20 J
+D) 479.20 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 4.0 m?
+A) 705.60 J
+B) 805.60 J
+C) 905.60 J
+D) 655.60 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 5.0 m?
+A) 882.00 J
+B) 982.00 J
+C) 1082.00 J
+D) 832.00 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 6.0 m?
+A) 1058.40 J
+B) 1158.40 J
+C) 1258.40 J
+D) 1008.40 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 7.0 m?
+A) 1234.80 J
+B) 1334.80 J
+C) 1434.80 J
+D) 1184.80 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 8.0 m?
+A) 1411.20 J
+B) 1511.20 J
+C) 1611.20 J
+D) 1361.20 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 9.0 m?
+A) 1587.60 J
+B) 1687.60 J
+C) 1787.60 J
+D) 1537.60 J
+
+What is the potential energy of an object with mass 18.0 kg lifted to a height of 10.0 m?
+A) 1764.00 J
+B) 1864.00 J
+C) 1964.00 J
+D) 1714.00 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 1.0 m?
+A) 186.20 J
+B) 286.20 J
+C) 386.20 J
+D) 136.20 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 2.0 m?
+A) 372.40 J
+B) 472.40 J
+C) 572.40 J
+D) 322.40 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 3.0 m?
+A) 558.60 J
+B) 658.60 J
+C) 758.60 J
+D) 508.60 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 4.0 m?
+A) 744.80 J
+B) 844.80 J
+C) 944.80 J
+D) 694.80 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 5.0 m?
+A) 931.00 J
+B) 1031.00 J
+C) 1131.00 J
+D) 881.00 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 6.0 m?
+A) 1117.20 J
+B) 1217.20 J
+C) 1317.20 J
+D) 1067.20 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 7.0 m?
+A) 1303.40 J
+B) 1403.40 J
+C) 1503.40 J
+D) 1253.40 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 8.0 m?
+A) 1489.60 J
+B) 1589.60 J
+C) 1689.60 J
+D) 1439.60 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 9.0 m?
+A) 1675.80 J
+B) 1775.80 J
+C) 1875.80 J
+D) 1625.80 J
+
+What is the potential energy of an object with mass 19.0 kg lifted to a height of 10.0 m?
+A) 1862.00 J
+B) 1962.00 J
+C) 2062.00 J
+D) 1812.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 1.0 m?
+A) 196.00 J
+B) 296.00 J
+C) 396.00 J
+D) 146.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 2.0 m?
+A) 392.00 J
+B) 492.00 J
+C) 592.00 J
+D) 342.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 3.0 m?
+A) 588.00 J
+B) 688.00 J
+C) 788.00 J
+D) 538.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 4.0 m?
+A) 784.00 J
+B) 884.00 J
+C) 984.00 J
+D) 734.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 5.0 m?
+A) 980.00 J
+B) 1080.00 J
+C) 1180.00 J
+D) 930.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 6.0 m?
+A) 1176.00 J
+B) 1276.00 J
+C) 1376.00 J
+D) 1126.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 7.0 m?
+A) 1372.00 J
+B) 1472.00 J
+C) 1572.00 J
+D) 1322.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 8.0 m?
+A) 1568.00 J
+B) 1668.00 J
+C) 1768.00 J
+D) 1518.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 9.0 m?
+A) 1764.00 J
+B) 1864.00 J
+C) 1964.00 J
+D) 1714.00 J
+
+What is the potential energy of an object with mass 20.0 kg lifted to a height of 10.0 m?
+A) 1960.00 J
+B) 2060.00 J
+C) 2160.00 J
+D) 1910.00 J
+

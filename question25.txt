@@ -1,0 +1,1320 @@
+What is the frequency of a wave with speed 300.0 m/s and wavelength 0.5 m?
+A) 600.00 Hz
+B) 610.00 Hz
+C) 620.00 Hz
+D) 595.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 1.0 m?
+A) 300.00 Hz
+B) 310.00 Hz
+C) 320.00 Hz
+D) 295.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 1.5 m?
+A) 200.00 Hz
+B) 210.00 Hz
+C) 220.00 Hz
+D) 195.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 2.0 m?
+A) 150.00 Hz
+B) 160.00 Hz
+C) 170.00 Hz
+D) 145.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 2.5 m?
+A) 120.00 Hz
+B) 130.00 Hz
+C) 140.00 Hz
+D) 115.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 3.0 m?
+A) 100.00 Hz
+B) 110.00 Hz
+C) 120.00 Hz
+D) 95.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 3.5 m?
+A) 85.71 Hz
+B) 95.71 Hz
+C) 105.71 Hz
+D) 80.71 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 4.0 m?
+A) 75.00 Hz
+B) 85.00 Hz
+C) 95.00 Hz
+D) 70.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 4.5 m?
+A) 66.67 Hz
+B) 76.67 Hz
+C) 86.67 Hz
+D) 61.67 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 5.0 m?
+A) 60.00 Hz
+B) 70.00 Hz
+C) 80.00 Hz
+D) 55.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 5.5 m?
+A) 54.55 Hz
+B) 64.55 Hz
+C) 74.55 Hz
+D) 49.55 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 6.0 m?
+A) 50.00 Hz
+B) 60.00 Hz
+C) 70.00 Hz
+D) 45.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 6.5 m?
+A) 46.15 Hz
+B) 56.15 Hz
+C) 66.15 Hz
+D) 41.15 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 7.0 m?
+A) 42.86 Hz
+B) 52.86 Hz
+C) 62.86 Hz
+D) 37.86 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 7.5 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 8.0 m?
+A) 37.50 Hz
+B) 47.50 Hz
+C) 57.50 Hz
+D) 32.50 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 8.5 m?
+A) 35.29 Hz
+B) 45.29 Hz
+C) 55.29 Hz
+D) 30.29 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 9.0 m?
+A) 33.33 Hz
+B) 43.33 Hz
+C) 53.33 Hz
+D) 28.33 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 9.5 m?
+A) 31.58 Hz
+B) 41.58 Hz
+C) 51.58 Hz
+D) 26.58 Hz
+
+What is the frequency of a wave with speed 300.0 m/s and wavelength 10.0 m?
+A) 30.00 Hz
+B) 40.00 Hz
+C) 50.00 Hz
+D) 25.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 0.5 m?
+A) 640.00 Hz
+B) 650.00 Hz
+C) 660.00 Hz
+D) 635.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 1.0 m?
+A) 320.00 Hz
+B) 330.00 Hz
+C) 340.00 Hz
+D) 315.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 1.5 m?
+A) 213.33 Hz
+B) 223.33 Hz
+C) 233.33 Hz
+D) 208.33 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 2.0 m?
+A) 160.00 Hz
+B) 170.00 Hz
+C) 180.00 Hz
+D) 155.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 2.5 m?
+A) 128.00 Hz
+B) 138.00 Hz
+C) 148.00 Hz
+D) 123.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 3.0 m?
+A) 106.67 Hz
+B) 116.67 Hz
+C) 126.67 Hz
+D) 101.67 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 3.5 m?
+A) 91.43 Hz
+B) 101.43 Hz
+C) 111.43 Hz
+D) 86.43 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 4.0 m?
+A) 80.00 Hz
+B) 90.00 Hz
+C) 100.00 Hz
+D) 75.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 4.5 m?
+A) 71.11 Hz
+B) 81.11 Hz
+C) 91.11 Hz
+D) 66.11 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 5.0 m?
+A) 64.00 Hz
+B) 74.00 Hz
+C) 84.00 Hz
+D) 59.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 5.5 m?
+A) 58.18 Hz
+B) 68.18 Hz
+C) 78.18 Hz
+D) 53.18 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 6.0 m?
+A) 53.33 Hz
+B) 63.33 Hz
+C) 73.33 Hz
+D) 48.33 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 6.5 m?
+A) 49.23 Hz
+B) 59.23 Hz
+C) 69.23 Hz
+D) 44.23 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 7.0 m?
+A) 45.71 Hz
+B) 55.71 Hz
+C) 65.71 Hz
+D) 40.71 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 7.5 m?
+A) 42.67 Hz
+B) 52.67 Hz
+C) 62.67 Hz
+D) 37.67 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 8.0 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 8.5 m?
+A) 37.65 Hz
+B) 47.65 Hz
+C) 57.65 Hz
+D) 32.65 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 9.0 m?
+A) 35.56 Hz
+B) 45.56 Hz
+C) 55.56 Hz
+D) 30.56 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 9.5 m?
+A) 33.68 Hz
+B) 43.68 Hz
+C) 53.68 Hz
+D) 28.68 Hz
+
+What is the frequency of a wave with speed 320.0 m/s and wavelength 10.0 m?
+A) 32.00 Hz
+B) 42.00 Hz
+C) 52.00 Hz
+D) 27.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 0.5 m?
+A) 680.00 Hz
+B) 690.00 Hz
+C) 700.00 Hz
+D) 675.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 1.0 m?
+A) 340.00 Hz
+B) 350.00 Hz
+C) 360.00 Hz
+D) 335.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 1.5 m?
+A) 226.67 Hz
+B) 236.67 Hz
+C) 246.67 Hz
+D) 221.67 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 2.0 m?
+A) 170.00 Hz
+B) 180.00 Hz
+C) 190.00 Hz
+D) 165.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 2.5 m?
+A) 136.00 Hz
+B) 146.00 Hz
+C) 156.00 Hz
+D) 131.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 3.0 m?
+A) 113.33 Hz
+B) 123.33 Hz
+C) 133.33 Hz
+D) 108.33 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 3.5 m?
+A) 97.14 Hz
+B) 107.14 Hz
+C) 117.14 Hz
+D) 92.14 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 4.0 m?
+A) 85.00 Hz
+B) 95.00 Hz
+C) 105.00 Hz
+D) 80.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 4.5 m?
+A) 75.56 Hz
+B) 85.56 Hz
+C) 95.56 Hz
+D) 70.56 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 5.0 m?
+A) 68.00 Hz
+B) 78.00 Hz
+C) 88.00 Hz
+D) 63.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 5.5 m?
+A) 61.82 Hz
+B) 71.82 Hz
+C) 81.82 Hz
+D) 56.82 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 6.0 m?
+A) 56.67 Hz
+B) 66.67 Hz
+C) 76.67 Hz
+D) 51.67 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 6.5 m?
+A) 52.31 Hz
+B) 62.31 Hz
+C) 72.31 Hz
+D) 47.31 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 7.0 m?
+A) 48.57 Hz
+B) 58.57 Hz
+C) 68.57 Hz
+D) 43.57 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 7.5 m?
+A) 45.33 Hz
+B) 55.33 Hz
+C) 65.33 Hz
+D) 40.33 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 8.0 m?
+A) 42.50 Hz
+B) 52.50 Hz
+C) 62.50 Hz
+D) 37.50 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 8.5 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 9.0 m?
+A) 37.78 Hz
+B) 47.78 Hz
+C) 57.78 Hz
+D) 32.78 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 9.5 m?
+A) 35.79 Hz
+B) 45.79 Hz
+C) 55.79 Hz
+D) 30.79 Hz
+
+What is the frequency of a wave with speed 340.0 m/s and wavelength 10.0 m?
+A) 34.00 Hz
+B) 44.00 Hz
+C) 54.00 Hz
+D) 29.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 0.5 m?
+A) 720.00 Hz
+B) 730.00 Hz
+C) 740.00 Hz
+D) 715.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 1.0 m?
+A) 360.00 Hz
+B) 370.00 Hz
+C) 380.00 Hz
+D) 355.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 1.5 m?
+A) 240.00 Hz
+B) 250.00 Hz
+C) 260.00 Hz
+D) 235.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 2.0 m?
+A) 180.00 Hz
+B) 190.00 Hz
+C) 200.00 Hz
+D) 175.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 2.5 m?
+A) 144.00 Hz
+B) 154.00 Hz
+C) 164.00 Hz
+D) 139.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 3.0 m?
+A) 120.00 Hz
+B) 130.00 Hz
+C) 140.00 Hz
+D) 115.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 3.5 m?
+A) 102.86 Hz
+B) 112.86 Hz
+C) 122.86 Hz
+D) 97.86 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 4.0 m?
+A) 90.00 Hz
+B) 100.00 Hz
+C) 110.00 Hz
+D) 85.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 4.5 m?
+A) 80.00 Hz
+B) 90.00 Hz
+C) 100.00 Hz
+D) 75.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 5.0 m?
+A) 72.00 Hz
+B) 82.00 Hz
+C) 92.00 Hz
+D) 67.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 5.5 m?
+A) 65.45 Hz
+B) 75.45 Hz
+C) 85.45 Hz
+D) 60.45 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 6.0 m?
+A) 60.00 Hz
+B) 70.00 Hz
+C) 80.00 Hz
+D) 55.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 6.5 m?
+A) 55.38 Hz
+B) 65.38 Hz
+C) 75.38 Hz
+D) 50.38 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 7.0 m?
+A) 51.43 Hz
+B) 61.43 Hz
+C) 71.43 Hz
+D) 46.43 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 7.5 m?
+A) 48.00 Hz
+B) 58.00 Hz
+C) 68.00 Hz
+D) 43.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 8.0 m?
+A) 45.00 Hz
+B) 55.00 Hz
+C) 65.00 Hz
+D) 40.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 8.5 m?
+A) 42.35 Hz
+B) 52.35 Hz
+C) 62.35 Hz
+D) 37.35 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 9.0 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 9.5 m?
+A) 37.89 Hz
+B) 47.89 Hz
+C) 57.89 Hz
+D) 32.89 Hz
+
+What is the frequency of a wave with speed 360.0 m/s and wavelength 10.0 m?
+A) 36.00 Hz
+B) 46.00 Hz
+C) 56.00 Hz
+D) 31.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 0.5 m?
+A) 760.00 Hz
+B) 770.00 Hz
+C) 780.00 Hz
+D) 755.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 1.0 m?
+A) 380.00 Hz
+B) 390.00 Hz
+C) 400.00 Hz
+D) 375.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 1.5 m?
+A) 253.33 Hz
+B) 263.33 Hz
+C) 273.33 Hz
+D) 248.33 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 2.0 m?
+A) 190.00 Hz
+B) 200.00 Hz
+C) 210.00 Hz
+D) 185.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 2.5 m?
+A) 152.00 Hz
+B) 162.00 Hz
+C) 172.00 Hz
+D) 147.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 3.0 m?
+A) 126.67 Hz
+B) 136.67 Hz
+C) 146.67 Hz
+D) 121.67 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 3.5 m?
+A) 108.57 Hz
+B) 118.57 Hz
+C) 128.57 Hz
+D) 103.57 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 4.0 m?
+A) 95.00 Hz
+B) 105.00 Hz
+C) 115.00 Hz
+D) 90.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 4.5 m?
+A) 84.44 Hz
+B) 94.44 Hz
+C) 104.44 Hz
+D) 79.44 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 5.0 m?
+A) 76.00 Hz
+B) 86.00 Hz
+C) 96.00 Hz
+D) 71.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 5.5 m?
+A) 69.09 Hz
+B) 79.09 Hz
+C) 89.09 Hz
+D) 64.09 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 6.0 m?
+A) 63.33 Hz
+B) 73.33 Hz
+C) 83.33 Hz
+D) 58.33 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 6.5 m?
+A) 58.46 Hz
+B) 68.46 Hz
+C) 78.46 Hz
+D) 53.46 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 7.0 m?
+A) 54.29 Hz
+B) 64.29 Hz
+C) 74.29 Hz
+D) 49.29 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 7.5 m?
+A) 50.67 Hz
+B) 60.67 Hz
+C) 70.67 Hz
+D) 45.67 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 8.0 m?
+A) 47.50 Hz
+B) 57.50 Hz
+C) 67.50 Hz
+D) 42.50 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 8.5 m?
+A) 44.71 Hz
+B) 54.71 Hz
+C) 64.71 Hz
+D) 39.71 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 9.0 m?
+A) 42.22 Hz
+B) 52.22 Hz
+C) 62.22 Hz
+D) 37.22 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 9.5 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 380.0 m/s and wavelength 10.0 m?
+A) 38.00 Hz
+B) 48.00 Hz
+C) 58.00 Hz
+D) 33.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 0.5 m?
+A) 800.00 Hz
+B) 810.00 Hz
+C) 820.00 Hz
+D) 795.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 1.0 m?
+A) 400.00 Hz
+B) 410.00 Hz
+C) 420.00 Hz
+D) 395.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 1.5 m?
+A) 266.67 Hz
+B) 276.67 Hz
+C) 286.67 Hz
+D) 261.67 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 2.0 m?
+A) 200.00 Hz
+B) 210.00 Hz
+C) 220.00 Hz
+D) 195.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 2.5 m?
+A) 160.00 Hz
+B) 170.00 Hz
+C) 180.00 Hz
+D) 155.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 3.0 m?
+A) 133.33 Hz
+B) 143.33 Hz
+C) 153.33 Hz
+D) 128.33 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 3.5 m?
+A) 114.29 Hz
+B) 124.29 Hz
+C) 134.29 Hz
+D) 109.29 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 4.0 m?
+A) 100.00 Hz
+B) 110.00 Hz
+C) 120.00 Hz
+D) 95.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 4.5 m?
+A) 88.89 Hz
+B) 98.89 Hz
+C) 108.89 Hz
+D) 83.89 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 5.0 m?
+A) 80.00 Hz
+B) 90.00 Hz
+C) 100.00 Hz
+D) 75.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 5.5 m?
+A) 72.73 Hz
+B) 82.73 Hz
+C) 92.73 Hz
+D) 67.73 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 6.0 m?
+A) 66.67 Hz
+B) 76.67 Hz
+C) 86.67 Hz
+D) 61.67 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 6.5 m?
+A) 61.54 Hz
+B) 71.54 Hz
+C) 81.54 Hz
+D) 56.54 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 7.0 m?
+A) 57.14 Hz
+B) 67.14 Hz
+C) 77.14 Hz
+D) 52.14 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 7.5 m?
+A) 53.33 Hz
+B) 63.33 Hz
+C) 73.33 Hz
+D) 48.33 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 8.0 m?
+A) 50.00 Hz
+B) 60.00 Hz
+C) 70.00 Hz
+D) 45.00 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 8.5 m?
+A) 47.06 Hz
+B) 57.06 Hz
+C) 67.06 Hz
+D) 42.06 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 9.0 m?
+A) 44.44 Hz
+B) 54.44 Hz
+C) 64.44 Hz
+D) 39.44 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 9.5 m?
+A) 42.11 Hz
+B) 52.11 Hz
+C) 62.11 Hz
+D) 37.11 Hz
+
+What is the frequency of a wave with speed 400.0 m/s and wavelength 10.0 m?
+A) 40.00 Hz
+B) 50.00 Hz
+C) 60.00 Hz
+D) 35.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 0.5 m?
+A) 840.00 Hz
+B) 850.00 Hz
+C) 860.00 Hz
+D) 835.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 1.0 m?
+A) 420.00 Hz
+B) 430.00 Hz
+C) 440.00 Hz
+D) 415.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 1.5 m?
+A) 280.00 Hz
+B) 290.00 Hz
+C) 300.00 Hz
+D) 275.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 2.0 m?
+A) 210.00 Hz
+B) 220.00 Hz
+C) 230.00 Hz
+D) 205.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 2.5 m?
+A) 168.00 Hz
+B) 178.00 Hz
+C) 188.00 Hz
+D) 163.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 3.0 m?
+A) 140.00 Hz
+B) 150.00 Hz
+C) 160.00 Hz
+D) 135.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 3.5 m?
+A) 120.00 Hz
+B) 130.00 Hz
+C) 140.00 Hz
+D) 115.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 4.0 m?
+A) 105.00 Hz
+B) 115.00 Hz
+C) 125.00 Hz
+D) 100.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 4.5 m?
+A) 93.33 Hz
+B) 103.33 Hz
+C) 113.33 Hz
+D) 88.33 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 5.0 m?
+A) 84.00 Hz
+B) 94.00 Hz
+C) 104.00 Hz
+D) 79.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 5.5 m?
+A) 76.36 Hz
+B) 86.36 Hz
+C) 96.36 Hz
+D) 71.36 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 6.0 m?
+A) 70.00 Hz
+B) 80.00 Hz
+C) 90.00 Hz
+D) 65.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 6.5 m?
+A) 64.62 Hz
+B) 74.62 Hz
+C) 84.62 Hz
+D) 59.62 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 7.0 m?
+A) 60.00 Hz
+B) 70.00 Hz
+C) 80.00 Hz
+D) 55.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 7.5 m?
+A) 56.00 Hz
+B) 66.00 Hz
+C) 76.00 Hz
+D) 51.00 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 8.0 m?
+A) 52.50 Hz
+B) 62.50 Hz
+C) 72.50 Hz
+D) 47.50 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 8.5 m?
+A) 49.41 Hz
+B) 59.41 Hz
+C) 69.41 Hz
+D) 44.41 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 9.0 m?
+A) 46.67 Hz
+B) 56.67 Hz
+C) 66.67 Hz
+D) 41.67 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 9.5 m?
+A) 44.21 Hz
+B) 54.21 Hz
+C) 64.21 Hz
+D) 39.21 Hz
+
+What is the frequency of a wave with speed 420.0 m/s and wavelength 10.0 m?
+A) 42.00 Hz
+B) 52.00 Hz
+C) 62.00 Hz
+D) 37.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 0.5 m?
+A) 880.00 Hz
+B) 890.00 Hz
+C) 900.00 Hz
+D) 875.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 1.0 m?
+A) 440.00 Hz
+B) 450.00 Hz
+C) 460.00 Hz
+D) 435.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 1.5 m?
+A) 293.33 Hz
+B) 303.33 Hz
+C) 313.33 Hz
+D) 288.33 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 2.0 m?
+A) 220.00 Hz
+B) 230.00 Hz
+C) 240.00 Hz
+D) 215.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 2.5 m?
+A) 176.00 Hz
+B) 186.00 Hz
+C) 196.00 Hz
+D) 171.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 3.0 m?
+A) 146.67 Hz
+B) 156.67 Hz
+C) 166.67 Hz
+D) 141.67 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 3.5 m?
+A) 125.71 Hz
+B) 135.71 Hz
+C) 145.71 Hz
+D) 120.71 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 4.0 m?
+A) 110.00 Hz
+B) 120.00 Hz
+C) 130.00 Hz
+D) 105.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 4.5 m?
+A) 97.78 Hz
+B) 107.78 Hz
+C) 117.78 Hz
+D) 92.78 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 5.0 m?
+A) 88.00 Hz
+B) 98.00 Hz
+C) 108.00 Hz
+D) 83.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 5.5 m?
+A) 80.00 Hz
+B) 90.00 Hz
+C) 100.00 Hz
+D) 75.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 6.0 m?
+A) 73.33 Hz
+B) 83.33 Hz
+C) 93.33 Hz
+D) 68.33 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 6.5 m?
+A) 67.69 Hz
+B) 77.69 Hz
+C) 87.69 Hz
+D) 62.69 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 7.0 m?
+A) 62.86 Hz
+B) 72.86 Hz
+C) 82.86 Hz
+D) 57.86 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 7.5 m?
+A) 58.67 Hz
+B) 68.67 Hz
+C) 78.67 Hz
+D) 53.67 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 8.0 m?
+A) 55.00 Hz
+B) 65.00 Hz
+C) 75.00 Hz
+D) 50.00 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 8.5 m?
+A) 51.76 Hz
+B) 61.76 Hz
+C) 71.76 Hz
+D) 46.76 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 9.0 m?
+A) 48.89 Hz
+B) 58.89 Hz
+C) 68.89 Hz
+D) 43.89 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 9.5 m?
+A) 46.32 Hz
+B) 56.32 Hz
+C) 66.32 Hz
+D) 41.32 Hz
+
+What is the frequency of a wave with speed 440.0 m/s and wavelength 10.0 m?
+A) 44.00 Hz
+B) 54.00 Hz
+C) 64.00 Hz
+D) 39.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 0.5 m?
+A) 920.00 Hz
+B) 930.00 Hz
+C) 940.00 Hz
+D) 915.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 1.0 m?
+A) 460.00 Hz
+B) 470.00 Hz
+C) 480.00 Hz
+D) 455.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 1.5 m?
+A) 306.67 Hz
+B) 316.67 Hz
+C) 326.67 Hz
+D) 301.67 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 2.0 m?
+A) 230.00 Hz
+B) 240.00 Hz
+C) 250.00 Hz
+D) 225.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 2.5 m?
+A) 184.00 Hz
+B) 194.00 Hz
+C) 204.00 Hz
+D) 179.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 3.0 m?
+A) 153.33 Hz
+B) 163.33 Hz
+C) 173.33 Hz
+D) 148.33 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 3.5 m?
+A) 131.43 Hz
+B) 141.43 Hz
+C) 151.43 Hz
+D) 126.43 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 4.0 m?
+A) 115.00 Hz
+B) 125.00 Hz
+C) 135.00 Hz
+D) 110.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 4.5 m?
+A) 102.22 Hz
+B) 112.22 Hz
+C) 122.22 Hz
+D) 97.22 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 5.0 m?
+A) 92.00 Hz
+B) 102.00 Hz
+C) 112.00 Hz
+D) 87.00 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 5.5 m?
+A) 83.64 Hz
+B) 93.64 Hz
+C) 103.64 Hz
+D) 78.64 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 6.0 m?
+A) 76.67 Hz
+B) 86.67 Hz
+C) 96.67 Hz
+D) 71.67 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 6.5 m?
+A) 70.77 Hz
+B) 80.77 Hz
+C) 90.77 Hz
+D) 65.77 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 7.0 m?
+A) 65.71 Hz
+B) 75.71 Hz
+C) 85.71 Hz
+D) 60.71 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 7.5 m?
+A) 61.33 Hz
+B) 71.33 Hz
+C) 81.33 Hz
+D) 56.33 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 8.0 m?
+A) 57.50 Hz
+B) 67.50 Hz
+C) 77.50 Hz
+D) 52.50 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 8.5 m?
+A) 54.12 Hz
+B) 64.12 Hz
+C) 74.12 Hz
+D) 49.12 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 9.0 m?
+A) 51.11 Hz
+B) 61.11 Hz
+C) 71.11 Hz
+D) 46.11 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 9.5 m?
+A) 48.42 Hz
+B) 58.42 Hz
+C) 68.42 Hz
+D) 43.42 Hz
+
+What is the frequency of a wave with speed 460.0 m/s and wavelength 10.0 m?
+A) 46.00 Hz
+B) 56.00 Hz
+C) 66.00 Hz
+D) 41.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 0.5 m?
+A) 960.00 Hz
+B) 970.00 Hz
+C) 980.00 Hz
+D) 955.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 1.0 m?
+A) 480.00 Hz
+B) 490.00 Hz
+C) 500.00 Hz
+D) 475.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 1.5 m?
+A) 320.00 Hz
+B) 330.00 Hz
+C) 340.00 Hz
+D) 315.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 2.0 m?
+A) 240.00 Hz
+B) 250.00 Hz
+C) 260.00 Hz
+D) 235.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 2.5 m?
+A) 192.00 Hz
+B) 202.00 Hz
+C) 212.00 Hz
+D) 187.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 3.0 m?
+A) 160.00 Hz
+B) 170.00 Hz
+C) 180.00 Hz
+D) 155.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 3.5 m?
+A) 137.14 Hz
+B) 147.14 Hz
+C) 157.14 Hz
+D) 132.14 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 4.0 m?
+A) 120.00 Hz
+B) 130.00 Hz
+C) 140.00 Hz
+D) 115.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 4.5 m?
+A) 106.67 Hz
+B) 116.67 Hz
+C) 126.67 Hz
+D) 101.67 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 5.0 m?
+A) 96.00 Hz
+B) 106.00 Hz
+C) 116.00 Hz
+D) 91.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 5.5 m?
+A) 87.27 Hz
+B) 97.27 Hz
+C) 107.27 Hz
+D) 82.27 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 6.0 m?
+A) 80.00 Hz
+B) 90.00 Hz
+C) 100.00 Hz
+D) 75.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 6.5 m?
+A) 73.85 Hz
+B) 83.85 Hz
+C) 93.85 Hz
+D) 68.85 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 7.0 m?
+A) 68.57 Hz
+B) 78.57 Hz
+C) 88.57 Hz
+D) 63.57 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 7.5 m?
+A) 64.00 Hz
+B) 74.00 Hz
+C) 84.00 Hz
+D) 59.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 8.0 m?
+A) 60.00 Hz
+B) 70.00 Hz
+C) 80.00 Hz
+D) 55.00 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 8.5 m?
+A) 56.47 Hz
+B) 66.47 Hz
+C) 76.47 Hz
+D) 51.47 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 9.0 m?
+A) 53.33 Hz
+B) 63.33 Hz
+C) 73.33 Hz
+D) 48.33 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 9.5 m?
+A) 50.53 Hz
+B) 60.53 Hz
+C) 70.53 Hz
+D) 45.53 Hz
+
+What is the frequency of a wave with speed 480.0 m/s and wavelength 10.0 m?
+A) 48.00 Hz
+B) 58.00 Hz
+C) 68.00 Hz
+D) 43.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 0.5 m?
+A) 1000.00 Hz
+B) 1010.00 Hz
+C) 1020.00 Hz
+D) 995.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 1.0 m?
+A) 500.00 Hz
+B) 510.00 Hz
+C) 520.00 Hz
+D) 495.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 1.5 m?
+A) 333.33 Hz
+B) 343.33 Hz
+C) 353.33 Hz
+D) 328.33 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 2.0 m?
+A) 250.00 Hz
+B) 260.00 Hz
+C) 270.00 Hz
+D) 245.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 2.5 m?
+A) 200.00 Hz
+B) 210.00 Hz
+C) 220.00 Hz
+D) 195.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 3.0 m?
+A) 166.67 Hz
+B) 176.67 Hz
+C) 186.67 Hz
+D) 161.67 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 3.5 m?
+A) 142.86 Hz
+B) 152.86 Hz
+C) 162.86 Hz
+D) 137.86 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 4.0 m?
+A) 125.00 Hz
+B) 135.00 Hz
+C) 145.00 Hz
+D) 120.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 4.5 m?
+A) 111.11 Hz
+B) 121.11 Hz
+C) 131.11 Hz
+D) 106.11 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 5.0 m?
+A) 100.00 Hz
+B) 110.00 Hz
+C) 120.00 Hz
+D) 95.00 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 5.5 m?
+A) 90.91 Hz
+B) 100.91 Hz
+C) 110.91 Hz
+D) 85.91 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 6.0 m?
+A) 83.33 Hz
+B) 93.33 Hz
+C) 103.33 Hz
+D) 78.33 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 6.5 m?
+A) 76.92 Hz
+B) 86.92 Hz
+C) 96.92 Hz
+D) 71.92 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 7.0 m?
+A) 71.43 Hz
+B) 81.43 Hz
+C) 91.43 Hz
+D) 66.43 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 7.5 m?
+A) 66.67 Hz
+B) 76.67 Hz
+C) 86.67 Hz
+D) 61.67 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 8.0 m?
+A) 62.50 Hz
+B) 72.50 Hz
+C) 82.50 Hz
+D) 57.50 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 8.5 m?
+A) 58.82 Hz
+B) 68.82 Hz
+C) 78.82 Hz
+D) 53.82 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 9.0 m?
+A) 55.56 Hz
+B) 65.56 Hz
+C) 75.56 Hz
+D) 50.56 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 9.5 m?
+A) 52.63 Hz
+B) 62.63 Hz
+C) 72.63 Hz
+D) 47.63 Hz
+
+What is the frequency of a wave with speed 500.0 m/s and wavelength 10.0 m?
+A) 50.00 Hz
+B) 60.00 Hz
+C) 70.00 Hz
+D) 45.00 Hz
+

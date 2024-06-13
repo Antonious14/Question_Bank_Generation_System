@@ -1,0 +1,726 @@
+What is the power required to do 200.0 J of work in 5.0 s?
+A) 40.00 W
+B) 50.00 W
+C) 60.00 W
+D) 30.00 W
+
+What is the power required to do 200.0 J of work in 6.0 s?
+A) 33.33 W
+B) 43.33 W
+C) 53.33 W
+D) 23.33 W
+
+What is the power required to do 200.0 J of work in 7.0 s?
+A) 28.57 W
+B) 38.57 W
+C) 48.57 W
+D) 18.57 W
+
+What is the power required to do 200.0 J of work in 8.0 s?
+A) 25.00 W
+B) 35.00 W
+C) 45.00 W
+D) 15.00 W
+
+What is the power required to do 200.0 J of work in 9.0 s?
+A) 22.22 W
+B) 32.22 W
+C) 42.22 W
+D) 12.22 W
+
+What is the power required to do 200.0 J of work in 10.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+
+What is the power required to do 200.0 J of work in 11.0 s?
+A) 18.18 W
+B) 28.18 W
+C) 38.18 W
+D) 8.18 W
+
+What is the power required to do 200.0 J of work in 12.0 s?
+A) 16.67 W
+B) 26.67 W
+C) 36.67 W
+D) 6.67 W
+
+What is the power required to do 200.0 J of work in 13.0 s?
+A) 15.38 W
+B) 25.38 W
+C) 35.38 W
+D) 5.38 W
+
+What is the power required to do 200.0 J of work in 14.0 s?
+A) 14.29 W
+B) 24.29 W
+C) 34.29 W
+D) 4.29 W
+
+What is the power required to do 200.0 J of work in 15.0 s?
+A) 13.33 W
+B) 23.33 W
+C) 33.33 W
+D) 3.33 W
+
+What is the power required to do 210.0 J of work in 5.0 s?
+A) 42.00 W
+B) 52.00 W
+C) 62.00 W
+D) 32.00 W
+
+What is the power required to do 210.0 J of work in 6.0 s?
+A) 35.00 W
+B) 45.00 W
+C) 55.00 W
+D) 25.00 W
+
+What is the power required to do 210.0 J of work in 7.0 s?
+A) 30.00 W
+B) 40.00 W
+C) 50.00 W
+D) 20.00 W
+
+What is the power required to do 210.0 J of work in 8.0 s?
+A) 26.25 W
+B) 36.25 W
+C) 46.25 W
+D) 16.25 W
+
+What is the power required to do 210.0 J of work in 9.0 s?
+A) 23.33 W
+B) 33.33 W
+C) 43.33 W
+D) 13.33 W
+
+What is the power required to do 210.0 J of work in 10.0 s?
+A) 21.00 W
+B) 31.00 W
+C) 41.00 W
+D) 11.00 W
+
+What is the power required to do 210.0 J of work in 11.0 s?
+A) 19.09 W
+B) 29.09 W
+C) 39.09 W
+D) 9.09 W
+
+What is the power required to do 210.0 J of work in 12.0 s?
+A) 17.50 W
+B) 27.50 W
+C) 37.50 W
+D) 7.50 W
+
+What is the power required to do 210.0 J of work in 13.0 s?
+A) 16.15 W
+B) 26.15 W
+C) 36.15 W
+D) 6.15 W
+
+What is the power required to do 210.0 J of work in 14.0 s?
+A) 15.00 W
+B) 25.00 W
+C) 35.00 W
+D) 5.00 W
+
+What is the power required to do 210.0 J of work in 15.0 s?
+A) 14.00 W
+B) 24.00 W
+C) 34.00 W
+D) 4.00 W
+
+What is the power required to do 220.0 J of work in 5.0 s?
+A) 44.00 W
+B) 54.00 W
+C) 64.00 W
+D) 34.00 W
+
+What is the power required to do 220.0 J of work in 6.0 s?
+A) 36.67 W
+B) 46.67 W
+C) 56.67 W
+D) 26.67 W
+
+What is the power required to do 220.0 J of work in 7.0 s?
+A) 31.43 W
+B) 41.43 W
+C) 51.43 W
+D) 21.43 W
+
+What is the power required to do 220.0 J of work in 8.0 s?
+A) 27.50 W
+B) 37.50 W
+C) 47.50 W
+D) 17.50 W
+
+What is the power required to do 220.0 J of work in 9.0 s?
+A) 24.44 W
+B) 34.44 W
+C) 44.44 W
+D) 14.44 W
+
+What is the power required to do 220.0 J of work in 10.0 s?
+A) 22.00 W
+B) 32.00 W
+C) 42.00 W
+D) 12.00 W
+
+What is the power required to do 220.0 J of work in 11.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+
+What is the power required to do 220.0 J of work in 12.0 s?
+A) 18.33 W
+B) 28.33 W
+C) 38.33 W
+D) 8.33 W
+
+What is the power required to do 220.0 J of work in 13.0 s?
+A) 16.92 W
+B) 26.92 W
+C) 36.92 W
+D) 6.92 W
+
+What is the power required to do 220.0 J of work in 14.0 s?
+A) 15.71 W
+B) 25.71 W
+C) 35.71 W
+D) 5.71 W
+
+What is the power required to do 220.0 J of work in 15.0 s?
+A) 14.67 W
+B) 24.67 W
+C) 34.67 W
+D) 4.67 W
+
+What is the power required to do 230.0 J of work in 5.0 s?
+A) 46.00 W
+B) 56.00 W
+C) 66.00 W
+D) 36.00 W
+
+What is the power required to do 230.0 J of work in 6.0 s?
+A) 38.33 W
+B) 48.33 W
+C) 58.33 W
+D) 28.33 W
+
+What is the power required to do 230.0 J of work in 7.0 s?
+A) 32.86 W
+B) 42.86 W
+C) 52.86 W
+D) 22.86 W
+
+What is the power required to do 230.0 J of work in 8.0 s?
+A) 28.75 W
+B) 38.75 W
+C) 48.75 W
+D) 18.75 W
+
+What is the power required to do 230.0 J of work in 9.0 s?
+A) 25.56 W
+B) 35.56 W
+C) 45.56 W
+D) 15.56 W
+
+What is the power required to do 230.0 J of work in 10.0 s?
+A) 23.00 W
+B) 33.00 W
+C) 43.00 W
+D) 13.00 W
+
+What is the power required to do 230.0 J of work in 11.0 s?
+A) 20.91 W
+B) 30.91 W
+C) 40.91 W
+D) 10.91 W
+
+What is the power required to do 230.0 J of work in 12.0 s?
+A) 19.17 W
+B) 29.17 W
+C) 39.17 W
+D) 9.17 W
+
+What is the power required to do 230.0 J of work in 13.0 s?
+A) 17.69 W
+B) 27.69 W
+C) 37.69 W
+D) 7.69 W
+
+What is the power required to do 230.0 J of work in 14.0 s?
+A) 16.43 W
+B) 26.43 W
+C) 36.43 W
+D) 6.43 W
+
+What is the power required to do 230.0 J of work in 15.0 s?
+A) 15.33 W
+B) 25.33 W
+C) 35.33 W
+D) 5.33 W
+
+What is the power required to do 240.0 J of work in 5.0 s?
+A) 48.00 W
+B) 58.00 W
+C) 68.00 W
+D) 38.00 W
+
+What is the power required to do 240.0 J of work in 6.0 s?
+A) 40.00 W
+B) 50.00 W
+C) 60.00 W
+D) 30.00 W
+
+What is the power required to do 240.0 J of work in 7.0 s?
+A) 34.29 W
+B) 44.29 W
+C) 54.29 W
+D) 24.29 W
+
+What is the power required to do 240.0 J of work in 8.0 s?
+A) 30.00 W
+B) 40.00 W
+C) 50.00 W
+D) 20.00 W
+
+What is the power required to do 240.0 J of work in 9.0 s?
+A) 26.67 W
+B) 36.67 W
+C) 46.67 W
+D) 16.67 W
+
+What is the power required to do 240.0 J of work in 10.0 s?
+A) 24.00 W
+B) 34.00 W
+C) 44.00 W
+D) 14.00 W
+
+What is the power required to do 240.0 J of work in 11.0 s?
+A) 21.82 W
+B) 31.82 W
+C) 41.82 W
+D) 11.82 W
+
+What is the power required to do 240.0 J of work in 12.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+
+What is the power required to do 240.0 J of work in 13.0 s?
+A) 18.46 W
+B) 28.46 W
+C) 38.46 W
+D) 8.46 W
+
+What is the power required to do 240.0 J of work in 14.0 s?
+A) 17.14 W
+B) 27.14 W
+C) 37.14 W
+D) 7.14 W
+
+What is the power required to do 240.0 J of work in 15.0 s?
+A) 16.00 W
+B) 26.00 W
+C) 36.00 W
+D) 6.00 W
+
+What is the power required to do 250.0 J of work in 5.0 s?
+A) 50.00 W
+B) 60.00 W
+C) 70.00 W
+D) 40.00 W
+
+What is the power required to do 250.0 J of work in 6.0 s?
+A) 41.67 W
+B) 51.67 W
+C) 61.67 W
+D) 31.67 W
+
+What is the power required to do 250.0 J of work in 7.0 s?
+A) 35.71 W
+B) 45.71 W
+C) 55.71 W
+D) 25.71 W
+
+What is the power required to do 250.0 J of work in 8.0 s?
+A) 31.25 W
+B) 41.25 W
+C) 51.25 W
+D) 21.25 W
+
+What is the power required to do 250.0 J of work in 9.0 s?
+A) 27.78 W
+B) 37.78 W
+C) 47.78 W
+D) 17.78 W
+
+What is the power required to do 250.0 J of work in 10.0 s?
+A) 25.00 W
+B) 35.00 W
+C) 45.00 W
+D) 15.00 W
+
+What is the power required to do 250.0 J of work in 11.0 s?
+A) 22.73 W
+B) 32.73 W
+C) 42.73 W
+D) 12.73 W
+
+What is the power required to do 250.0 J of work in 12.0 s?
+A) 20.83 W
+B) 30.83 W
+C) 40.83 W
+D) 10.83 W
+
+What is the power required to do 250.0 J of work in 13.0 s?
+A) 19.23 W
+B) 29.23 W
+C) 39.23 W
+D) 9.23 W
+
+What is the power required to do 250.0 J of work in 14.0 s?
+A) 17.86 W
+B) 27.86 W
+C) 37.86 W
+D) 7.86 W
+
+What is the power required to do 250.0 J of work in 15.0 s?
+A) 16.67 W
+B) 26.67 W
+C) 36.67 W
+D) 6.67 W
+
+What is the power required to do 260.0 J of work in 5.0 s?
+A) 52.00 W
+B) 62.00 W
+C) 72.00 W
+D) 42.00 W
+
+What is the power required to do 260.0 J of work in 6.0 s?
+A) 43.33 W
+B) 53.33 W
+C) 63.33 W
+D) 33.33 W
+
+What is the power required to do 260.0 J of work in 7.0 s?
+A) 37.14 W
+B) 47.14 W
+C) 57.14 W
+D) 27.14 W
+
+What is the power required to do 260.0 J of work in 8.0 s?
+A) 32.50 W
+B) 42.50 W
+C) 52.50 W
+D) 22.50 W
+
+What is the power required to do 260.0 J of work in 9.0 s?
+A) 28.89 W
+B) 38.89 W
+C) 48.89 W
+D) 18.89 W
+
+What is the power required to do 260.0 J of work in 10.0 s?
+A) 26.00 W
+B) 36.00 W
+C) 46.00 W
+D) 16.00 W
+
+What is the power required to do 260.0 J of work in 11.0 s?
+A) 23.64 W
+B) 33.64 W
+C) 43.64 W
+D) 13.64 W
+
+What is the power required to do 260.0 J of work in 12.0 s?
+A) 21.67 W
+B) 31.67 W
+C) 41.67 W
+D) 11.67 W
+
+What is the power required to do 260.0 J of work in 13.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+
+What is the power required to do 260.0 J of work in 14.0 s?
+A) 18.57 W
+B) 28.57 W
+C) 38.57 W
+D) 8.57 W
+
+What is the power required to do 260.0 J of work in 15.0 s?
+A) 17.33 W
+B) 27.33 W
+C) 37.33 W
+D) 7.33 W
+
+What is the power required to do 270.0 J of work in 5.0 s?
+A) 54.00 W
+B) 64.00 W
+C) 74.00 W
+D) 44.00 W
+
+What is the power required to do 270.0 J of work in 6.0 s?
+A) 45.00 W
+B) 55.00 W
+C) 65.00 W
+D) 35.00 W
+
+What is the power required to do 270.0 J of work in 7.0 s?
+A) 38.57 W
+B) 48.57 W
+C) 58.57 W
+D) 28.57 W
+
+What is the power required to do 270.0 J of work in 8.0 s?
+A) 33.75 W
+B) 43.75 W
+C) 53.75 W
+D) 23.75 W
+
+What is the power required to do 270.0 J of work in 9.0 s?
+A) 30.00 W
+B) 40.00 W
+C) 50.00 W
+D) 20.00 W
+
+What is the power required to do 270.0 J of work in 10.0 s?
+A) 27.00 W
+B) 37.00 W
+C) 47.00 W
+D) 17.00 W
+
+What is the power required to do 270.0 J of work in 11.0 s?
+A) 24.55 W
+B) 34.55 W
+C) 44.55 W
+D) 14.55 W
+
+What is the power required to do 270.0 J of work in 12.0 s?
+A) 22.50 W
+B) 32.50 W
+C) 42.50 W
+D) 12.50 W
+
+What is the power required to do 270.0 J of work in 13.0 s?
+A) 20.77 W
+B) 30.77 W
+C) 40.77 W
+D) 10.77 W
+
+What is the power required to do 270.0 J of work in 14.0 s?
+A) 19.29 W
+B) 29.29 W
+C) 39.29 W
+D) 9.29 W
+
+What is the power required to do 270.0 J of work in 15.0 s?
+A) 18.00 W
+B) 28.00 W
+C) 38.00 W
+D) 8.00 W
+
+What is the power required to do 280.0 J of work in 5.0 s?
+A) 56.00 W
+B) 66.00 W
+C) 76.00 W
+D) 46.00 W
+
+What is the power required to do 280.0 J of work in 6.0 s?
+A) 46.67 W
+B) 56.67 W
+C) 66.67 W
+D) 36.67 W
+
+What is the power required to do 280.0 J of work in 7.0 s?
+A) 40.00 W
+B) 50.00 W
+C) 60.00 W
+D) 30.00 W
+
+What is the power required to do 280.0 J of work in 8.0 s?
+A) 35.00 W
+B) 45.00 W
+C) 55.00 W
+D) 25.00 W
+
+What is the power required to do 280.0 J of work in 9.0 s?
+A) 31.11 W
+B) 41.11 W
+C) 51.11 W
+D) 21.11 W
+
+What is the power required to do 280.0 J of work in 10.0 s?
+A) 28.00 W
+B) 38.00 W
+C) 48.00 W
+D) 18.00 W
+
+What is the power required to do 280.0 J of work in 11.0 s?
+A) 25.45 W
+B) 35.45 W
+C) 45.45 W
+D) 15.45 W
+
+What is the power required to do 280.0 J of work in 12.0 s?
+A) 23.33 W
+B) 33.33 W
+C) 43.33 W
+D) 13.33 W
+
+What is the power required to do 280.0 J of work in 13.0 s?
+A) 21.54 W
+B) 31.54 W
+C) 41.54 W
+D) 11.54 W
+
+What is the power required to do 280.0 J of work in 14.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+
+What is the power required to do 280.0 J of work in 15.0 s?
+A) 18.67 W
+B) 28.67 W
+C) 38.67 W
+D) 8.67 W
+
+What is the power required to do 290.0 J of work in 5.0 s?
+A) 58.00 W
+B) 68.00 W
+C) 78.00 W
+D) 48.00 W
+
+What is the power required to do 290.0 J of work in 6.0 s?
+A) 48.33 W
+B) 58.33 W
+C) 68.33 W
+D) 38.33 W
+
+What is the power required to do 290.0 J of work in 7.0 s?
+A) 41.43 W
+B) 51.43 W
+C) 61.43 W
+D) 31.43 W
+
+What is the power required to do 290.0 J of work in 8.0 s?
+A) 36.25 W
+B) 46.25 W
+C) 56.25 W
+D) 26.25 W
+
+What is the power required to do 290.0 J of work in 9.0 s?
+A) 32.22 W
+B) 42.22 W
+C) 52.22 W
+D) 22.22 W
+
+What is the power required to do 290.0 J of work in 10.0 s?
+A) 29.00 W
+B) 39.00 W
+C) 49.00 W
+D) 19.00 W
+
+What is the power required to do 290.0 J of work in 11.0 s?
+A) 26.36 W
+B) 36.36 W
+C) 46.36 W
+D) 16.36 W
+
+What is the power required to do 290.0 J of work in 12.0 s?
+A) 24.17 W
+B) 34.17 W
+C) 44.17 W
+D) 14.17 W
+
+What is the power required to do 290.0 J of work in 13.0 s?
+A) 22.31 W
+B) 32.31 W
+C) 42.31 W
+D) 12.31 W
+
+What is the power required to do 290.0 J of work in 14.0 s?
+A) 20.71 W
+B) 30.71 W
+C) 40.71 W
+D) 10.71 W
+
+What is the power required to do 290.0 J of work in 15.0 s?
+A) 19.33 W
+B) 29.33 W
+C) 39.33 W
+D) 9.33 W
+
+What is the power required to do 300.0 J of work in 5.0 s?
+A) 60.00 W
+B) 70.00 W
+C) 80.00 W
+D) 50.00 W
+
+What is the power required to do 300.0 J of work in 6.0 s?
+A) 50.00 W
+B) 60.00 W
+C) 70.00 W
+D) 40.00 W
+
+What is the power required to do 300.0 J of work in 7.0 s?
+A) 42.86 W
+B) 52.86 W
+C) 62.86 W
+D) 32.86 W
+
+What is the power required to do 300.0 J of work in 8.0 s?
+A) 37.50 W
+B) 47.50 W
+C) 57.50 W
+D) 27.50 W
+
+What is the power required to do 300.0 J of work in 9.0 s?
+A) 33.33 W
+B) 43.33 W
+C) 53.33 W
+D) 23.33 W
+
+What is the power required to do 300.0 J of work in 10.0 s?
+A) 30.00 W
+B) 40.00 W
+C) 50.00 W
+D) 20.00 W
+
+What is the power required to do 300.0 J of work in 11.0 s?
+A) 27.27 W
+B) 37.27 W
+C) 47.27 W
+D) 17.27 W
+
+What is the power required to do 300.0 J of work in 12.0 s?
+A) 25.00 W
+B) 35.00 W
+C) 45.00 W
+D) 15.00 W
+
+What is the power required to do 300.0 J of work in 13.0 s?
+A) 23.08 W
+B) 33.08 W
+C) 43.08 W
+D) 13.08 W
+
+What is the power required to do 300.0 J of work in 14.0 s?
+A) 21.43 W
+B) 31.43 W
+C) 41.43 W
+D) 11.43 W
+
+What is the power required to do 300.0 J of work in 15.0 s?
+A) 20.00 W
+B) 30.00 W
+C) 40.00 W
+D) 10.00 W
+

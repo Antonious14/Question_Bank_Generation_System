@@ -1,0 +1,144 @@
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 3.0 seconds?
+A) 60.00 m/s
+B) 61.00 m/s
+C) 62.00 m/s
+D) 59.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 4.0 seconds?
+A) 80.00 m/s
+B) 81.00 m/s
+C) 82.00 m/s
+D) 79.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 5.0 seconds?
+A) 100.00 m/s
+B) 101.00 m/s
+C) 102.00 m/s
+D) 99.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 6.0 seconds?
+A) 120.00 m/s
+B) 121.00 m/s
+C) 122.00 m/s
+D) 119.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 7.0 seconds?
+A) 140.00 m/s
+B) 141.00 m/s
+C) 142.00 m/s
+D) 139.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 8.0 seconds?
+A) 160.00 m/s
+B) 161.00 m/s
+C) 162.00 m/s
+D) 159.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 9.0 seconds?
+A) 180.00 m/s
+B) 181.00 m/s
+C) 182.00 m/s
+D) 179.00 m/s
+
+An object starts from rest and accelerates uniformly at 20.0 m/s². What is its velocity after 10.0 seconds?
+A) 200.00 m/s
+B) 201.00 m/s
+C) 202.00 m/s
+D) 199.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 3.0 seconds?
+A) 75.00 m/s
+B) 76.00 m/s
+C) 77.00 m/s
+D) 74.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 4.0 seconds?
+A) 100.00 m/s
+B) 101.00 m/s
+C) 102.00 m/s
+D) 99.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 5.0 seconds?
+A) 125.00 m/s
+B) 126.00 m/s
+C) 127.00 m/s
+D) 124.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 6.0 seconds?
+A) 150.00 m/s
+B) 151.00 m/s
+C) 152.00 m/s
+D) 149.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 7.0 seconds?
+A) 175.00 m/s
+B) 176.00 m/s
+C) 177.00 m/s
+D) 174.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 8.0 seconds?
+A) 200.00 m/s
+B) 201.00 m/s
+C) 202.00 m/s
+D) 199.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 9.0 seconds?
+A) 225.00 m/s
+B) 226.00 m/s
+C) 227.00 m/s
+D) 224.00 m/s
+
+An object starts from rest and accelerates uniformly at 25.0 m/s². What is its velocity after 10.0 seconds?
+A) 250.00 m/s
+B) 251.00 m/s
+C) 252.00 m/s
+D) 249.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 3.0 seconds?
+A) 90.00 m/s
+B) 91.00 m/s
+C) 92.00 m/s
+D) 89.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 4.0 seconds?
+A) 120.00 m/s
+B) 121.00 m/s
+C) 122.00 m/s
+D) 119.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 5.0 seconds?
+A) 150.00 m/s
+B) 151.00 m/s
+C) 152.00 m/s
+D) 149.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 6.0 seconds?
+A) 180.00 m/s
+B) 181.00 m/s
+C) 182.00 m/s
+D) 179.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 7.0 seconds?
+A) 210.00 m/s
+B) 211.00 m/s
+C) 212.00 m/s
+D) 209.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 8.0 seconds?
+A) 240.00 m/s
+B) 241.00 m/s
+C) 242.00 m/s
+D) 239.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 9.0 seconds?
+A) 270.00 m/s
+B) 271.00 m/s
+C) 272.00 m/s
+D) 269.00 m/s
+
+An object starts from rest and accelerates uniformly at 30.0 m/s². What is its velocity after 10.0 seconds?
+A) 300.00 m/s
+B) 301.00 m/s
+C) 302.00 m/s
+D) 299.00 m/s
+

@@ -1,0 +1,528 @@
+An object with a mass of 3.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 147.00 J
+B) 157.00 J
+C) 167.00 J
+D) 137.00 J
+
+An object with a mass of 3.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 176.40 J
+B) 186.40 J
+C) 196.40 J
+D) 166.40 J
+
+An object with a mass of 3.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 205.80 J
+B) 215.80 J
+C) 225.80 J
+D) 195.80 J
+
+An object with a mass of 3.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 235.20 J
+B) 245.20 J
+C) 255.20 J
+D) 225.20 J
+
+An object with a mass of 3.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 264.60 J
+B) 274.60 J
+C) 284.60 J
+D) 254.60 J
+
+An object with a mass of 3.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 294.00 J
+B) 304.00 J
+C) 314.00 J
+D) 284.00 J
+
+An object with a mass of 3.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 323.40 J
+B) 333.40 J
+C) 343.40 J
+D) 313.40 J
+
+An object with a mass of 3.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 352.80 J
+B) 362.80 J
+C) 372.80 J
+D) 342.80 J
+
+An object with a mass of 3.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 382.20 J
+B) 392.20 J
+C) 402.20 J
+D) 372.20 J
+
+An object with a mass of 3.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 411.60 J
+B) 421.60 J
+C) 431.60 J
+D) 401.60 J
+
+An object with a mass of 3.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 441.00 J
+B) 451.00 J
+C) 461.00 J
+D) 431.00 J
+
+An object with a mass of 4.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 196.00 J
+B) 206.00 J
+C) 216.00 J
+D) 186.00 J
+
+An object with a mass of 4.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 235.20 J
+B) 245.20 J
+C) 255.20 J
+D) 225.20 J
+
+An object with a mass of 4.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 274.40 J
+B) 284.40 J
+C) 294.40 J
+D) 264.40 J
+
+An object with a mass of 4.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 313.60 J
+B) 323.60 J
+C) 333.60 J
+D) 303.60 J
+
+An object with a mass of 4.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 352.80 J
+B) 362.80 J
+C) 372.80 J
+D) 342.80 J
+
+An object with a mass of 4.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 392.00 J
+B) 402.00 J
+C) 412.00 J
+D) 382.00 J
+
+An object with a mass of 4.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 431.20 J
+B) 441.20 J
+C) 451.20 J
+D) 421.20 J
+
+An object with a mass of 4.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 470.40 J
+B) 480.40 J
+C) 490.40 J
+D) 460.40 J
+
+An object with a mass of 4.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 509.60 J
+B) 519.60 J
+C) 529.60 J
+D) 499.60 J
+
+An object with a mass of 4.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 548.80 J
+B) 558.80 J
+C) 568.80 J
+D) 538.80 J
+
+An object with a mass of 4.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 588.00 J
+B) 598.00 J
+C) 608.00 J
+D) 578.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 245.00 J
+B) 255.00 J
+C) 265.00 J
+D) 235.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 294.00 J
+B) 304.00 J
+C) 314.00 J
+D) 284.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 343.00 J
+B) 353.00 J
+C) 363.00 J
+D) 333.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 392.00 J
+B) 402.00 J
+C) 412.00 J
+D) 382.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 441.00 J
+B) 451.00 J
+C) 461.00 J
+D) 431.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 490.00 J
+B) 500.00 J
+C) 510.00 J
+D) 480.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 539.00 J
+B) 549.00 J
+C) 559.00 J
+D) 529.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 588.00 J
+B) 598.00 J
+C) 608.00 J
+D) 578.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 637.00 J
+B) 647.00 J
+C) 657.00 J
+D) 627.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 686.00 J
+B) 696.00 J
+C) 706.00 J
+D) 676.00 J
+
+An object with a mass of 5.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 735.00 J
+B) 745.00 J
+C) 755.00 J
+D) 725.00 J
+
+An object with a mass of 6.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 294.00 J
+B) 304.00 J
+C) 314.00 J
+D) 284.00 J
+
+An object with a mass of 6.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 352.80 J
+B) 362.80 J
+C) 372.80 J
+D) 342.80 J
+
+An object with a mass of 6.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 411.60 J
+B) 421.60 J
+C) 431.60 J
+D) 401.60 J
+
+An object with a mass of 6.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 470.40 J
+B) 480.40 J
+C) 490.40 J
+D) 460.40 J
+
+An object with a mass of 6.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 529.20 J
+B) 539.20 J
+C) 549.20 J
+D) 519.20 J
+
+An object with a mass of 6.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 588.00 J
+B) 598.00 J
+C) 608.00 J
+D) 578.00 J
+
+An object with a mass of 6.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 646.80 J
+B) 656.80 J
+C) 666.80 J
+D) 636.80 J
+
+An object with a mass of 6.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 705.60 J
+B) 715.60 J
+C) 725.60 J
+D) 695.60 J
+
+An object with a mass of 6.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 764.40 J
+B) 774.40 J
+C) 784.40 J
+D) 754.40 J
+
+An object with a mass of 6.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 823.20 J
+B) 833.20 J
+C) 843.20 J
+D) 813.20 J
+
+An object with a mass of 6.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 882.00 J
+B) 892.00 J
+C) 902.00 J
+D) 872.00 J
+
+An object with a mass of 7.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 343.00 J
+B) 353.00 J
+C) 363.00 J
+D) 333.00 J
+
+An object with a mass of 7.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 411.60 J
+B) 421.60 J
+C) 431.60 J
+D) 401.60 J
+
+An object with a mass of 7.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 480.20 J
+B) 490.20 J
+C) 500.20 J
+D) 470.20 J
+
+An object with a mass of 7.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 548.80 J
+B) 558.80 J
+C) 568.80 J
+D) 538.80 J
+
+An object with a mass of 7.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 617.40 J
+B) 627.40 J
+C) 637.40 J
+D) 607.40 J
+
+An object with a mass of 7.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 686.00 J
+B) 696.00 J
+C) 706.00 J
+D) 676.00 J
+
+An object with a mass of 7.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 754.60 J
+B) 764.60 J
+C) 774.60 J
+D) 744.60 J
+
+An object with a mass of 7.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 823.20 J
+B) 833.20 J
+C) 843.20 J
+D) 813.20 J
+
+An object with a mass of 7.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 891.80 J
+B) 901.80 J
+C) 911.80 J
+D) 881.80 J
+
+An object with a mass of 7.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 960.40 J
+B) 970.40 J
+C) 980.40 J
+D) 950.40 J
+
+An object with a mass of 7.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 1029.00 J
+B) 1039.00 J
+C) 1049.00 J
+D) 1019.00 J
+
+An object with a mass of 8.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 392.00 J
+B) 402.00 J
+C) 412.00 J
+D) 382.00 J
+
+An object with a mass of 8.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 470.40 J
+B) 480.40 J
+C) 490.40 J
+D) 460.40 J
+
+An object with a mass of 8.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 548.80 J
+B) 558.80 J
+C) 568.80 J
+D) 538.80 J
+
+An object with a mass of 8.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 627.20 J
+B) 637.20 J
+C) 647.20 J
+D) 617.20 J
+
+An object with a mass of 8.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 705.60 J
+B) 715.60 J
+C) 725.60 J
+D) 695.60 J
+
+An object with a mass of 8.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 784.00 J
+B) 794.00 J
+C) 804.00 J
+D) 774.00 J
+
+An object with a mass of 8.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 862.40 J
+B) 872.40 J
+C) 882.40 J
+D) 852.40 J
+
+An object with a mass of 8.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 940.80 J
+B) 950.80 J
+C) 960.80 J
+D) 930.80 J
+
+An object with a mass of 8.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 1019.20 J
+B) 1029.20 J
+C) 1039.20 J
+D) 1009.20 J
+
+An object with a mass of 8.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 1097.60 J
+B) 1107.60 J
+C) 1117.60 J
+D) 1087.60 J
+
+An object with a mass of 8.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 1176.00 J
+B) 1186.00 J
+C) 1196.00 J
+D) 1166.00 J
+
+An object with a mass of 9.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 441.00 J
+B) 451.00 J
+C) 461.00 J
+D) 431.00 J
+
+An object with a mass of 9.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 529.20 J
+B) 539.20 J
+C) 549.20 J
+D) 519.20 J
+
+An object with a mass of 9.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 617.40 J
+B) 627.40 J
+C) 637.40 J
+D) 607.40 J
+
+An object with a mass of 9.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 705.60 J
+B) 715.60 J
+C) 725.60 J
+D) 695.60 J
+
+An object with a mass of 9.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 793.80 J
+B) 803.80 J
+C) 813.80 J
+D) 783.80 J
+
+An object with a mass of 9.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 882.00 J
+B) 892.00 J
+C) 902.00 J
+D) 872.00 J
+
+An object with a mass of 9.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 970.20 J
+B) 980.20 J
+C) 990.20 J
+D) 960.20 J
+
+An object with a mass of 9.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 1058.40 J
+B) 1068.40 J
+C) 1078.40 J
+D) 1048.40 J
+
+An object with a mass of 9.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 1146.60 J
+B) 1156.60 J
+C) 1166.60 J
+D) 1136.60 J
+
+An object with a mass of 9.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 1234.80 J
+B) 1244.80 J
+C) 1254.80 J
+D) 1224.80 J
+
+An object with a mass of 9.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 1323.00 J
+B) 1333.00 J
+C) 1343.00 J
+D) 1313.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 5.0 meters. What is its potential energy?
+A) 490.00 J
+B) 500.00 J
+C) 510.00 J
+D) 480.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 6.0 meters. What is its potential energy?
+A) 588.00 J
+B) 598.00 J
+C) 608.00 J
+D) 578.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 7.0 meters. What is its potential energy?
+A) 686.00 J
+B) 696.00 J
+C) 706.00 J
+D) 676.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 8.0 meters. What is its potential energy?
+A) 784.00 J
+B) 794.00 J
+C) 804.00 J
+D) 774.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 9.0 meters. What is its potential energy?
+A) 882.00 J
+B) 892.00 J
+C) 902.00 J
+D) 872.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 10.0 meters. What is its potential energy?
+A) 980.00 J
+B) 990.00 J
+C) 1000.00 J
+D) 970.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 11.0 meters. What is its potential energy?
+A) 1078.00 J
+B) 1088.00 J
+C) 1098.00 J
+D) 1068.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 12.0 meters. What is its potential energy?
+A) 1176.00 J
+B) 1186.00 J
+C) 1196.00 J
+D) 1166.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 13.0 meters. What is its potential energy?
+A) 1274.00 J
+B) 1284.00 J
+C) 1294.00 J
+D) 1264.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 14.0 meters. What is its potential energy?
+A) 1372.00 J
+B) 1382.00 J
+C) 1392.00 J
+D) 1362.00 J
+
+An object with a mass of 10.0 kg is raised to a height of 15.0 meters. What is its potential energy?
+A) 1470.00 J
+B) 1480.00 J
+C) 1490.00 J
+D) 1460.00 J
+

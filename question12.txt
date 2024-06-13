@@ -1,0 +1,5082 @@
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 100.00 J
+B) 110.00 J
+C) 120.00 J
+D) 90.00 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 96.59 J
+B) 106.59 J
+C) 116.59 J
+D) 86.59 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 86.60 J
+B) 96.60 J
+C) 106.60 J
+D) 76.60 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 70.71 J
+B) 80.71 J
+C) 90.71 J
+D) 60.71 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 50.00 J
+B) 60.00 J
+C) 70.00 J
+D) 40.00 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 25.88 J
+B) 35.88 J
+C) 45.88 J
+D) 15.88 J
+
+A force of 20.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 120.00 J
+B) 130.00 J
+C) 140.00 J
+D) 110.00 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 115.91 J
+B) 125.91 J
+C) 135.91 J
+D) 105.91 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 103.92 J
+B) 113.92 J
+C) 123.92 J
+D) 93.92 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 84.85 J
+B) 94.85 J
+C) 104.85 J
+D) 74.85 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 60.00 J
+B) 70.00 J
+C) 80.00 J
+D) 50.00 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 31.06 J
+B) 41.06 J
+C) 51.06 J
+D) 21.06 J
+
+A force of 20.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 140.00 J
+B) 150.00 J
+C) 160.00 J
+D) 130.00 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 135.23 J
+B) 145.23 J
+C) 155.23 J
+D) 125.23 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 121.24 J
+B) 131.24 J
+C) 141.24 J
+D) 111.24 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 98.99 J
+B) 108.99 J
+C) 118.99 J
+D) 88.99 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 70.00 J
+B) 80.00 J
+C) 90.00 J
+D) 60.00 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 36.23 J
+B) 46.23 J
+C) 56.23 J
+D) 26.23 J
+
+A force of 20.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 160.00 J
+B) 170.00 J
+C) 180.00 J
+D) 150.00 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 154.55 J
+B) 164.55 J
+C) 174.55 J
+D) 144.55 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 138.56 J
+B) 148.56 J
+C) 158.56 J
+D) 128.56 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 113.14 J
+B) 123.14 J
+C) 133.14 J
+D) 103.14 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 80.00 J
+B) 90.00 J
+C) 100.00 J
+D) 70.00 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 41.41 J
+B) 51.41 J
+C) 61.41 J
+D) 31.41 J
+
+A force of 20.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 180.00 J
+B) 190.00 J
+C) 200.00 J
+D) 170.00 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 173.87 J
+B) 183.87 J
+C) 193.87 J
+D) 163.87 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 155.88 J
+B) 165.88 J
+C) 175.88 J
+D) 145.88 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 127.28 J
+B) 137.28 J
+C) 147.28 J
+D) 117.28 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 90.00 J
+B) 100.00 J
+C) 110.00 J
+D) 80.00 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 46.59 J
+B) 56.59 J
+C) 66.59 J
+D) 36.59 J
+
+A force of 20.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 200.00 J
+B) 210.00 J
+C) 220.00 J
+D) 190.00 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 193.19 J
+B) 203.19 J
+C) 213.19 J
+D) 183.19 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 173.21 J
+B) 183.21 J
+C) 193.21 J
+D) 163.21 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 141.42 J
+B) 151.42 J
+C) 161.42 J
+D) 131.42 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 100.00 J
+B) 110.00 J
+C) 120.00 J
+D) 90.00 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 51.76 J
+B) 61.76 J
+C) 71.76 J
+D) 41.76 J
+
+A force of 20.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 220.00 J
+B) 230.00 J
+C) 240.00 J
+D) 210.00 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 212.50 J
+B) 222.50 J
+C) 232.50 J
+D) 202.50 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 190.53 J
+B) 200.53 J
+C) 210.53 J
+D) 180.53 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 155.56 J
+B) 165.56 J
+C) 175.56 J
+D) 145.56 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 110.00 J
+B) 120.00 J
+C) 130.00 J
+D) 100.00 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 56.94 J
+B) 66.94 J
+C) 76.94 J
+D) 46.94 J
+
+A force of 20.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 240.00 J
+B) 250.00 J
+C) 260.00 J
+D) 230.00 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 231.82 J
+B) 241.82 J
+C) 251.82 J
+D) 221.82 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 207.85 J
+B) 217.85 J
+C) 227.85 J
+D) 197.85 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 169.71 J
+B) 179.71 J
+C) 189.71 J
+D) 159.71 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 120.00 J
+B) 130.00 J
+C) 140.00 J
+D) 110.00 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 62.12 J
+B) 72.12 J
+C) 82.12 J
+D) 52.12 J
+
+A force of 20.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 260.00 J
+B) 270.00 J
+C) 280.00 J
+D) 250.00 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 251.14 J
+B) 261.14 J
+C) 271.14 J
+D) 241.14 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 225.17 J
+B) 235.17 J
+C) 245.17 J
+D) 215.17 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 183.85 J
+B) 193.85 J
+C) 203.85 J
+D) 173.85 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 130.00 J
+B) 140.00 J
+C) 150.00 J
+D) 120.00 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 67.29 J
+B) 77.29 J
+C) 87.29 J
+D) 57.29 J
+
+A force of 20.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 280.00 J
+B) 290.00 J
+C) 300.00 J
+D) 270.00 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 270.46 J
+B) 280.46 J
+C) 290.46 J
+D) 260.46 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 242.49 J
+B) 252.49 J
+C) 262.49 J
+D) 232.49 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 197.99 J
+B) 207.99 J
+C) 217.99 J
+D) 187.99 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 140.00 J
+B) 150.00 J
+C) 160.00 J
+D) 130.00 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 72.47 J
+B) 82.47 J
+C) 92.47 J
+D) 62.47 J
+
+A force of 20.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 300.00 J
+B) 310.00 J
+C) 320.00 J
+D) 290.00 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 289.78 J
+B) 299.78 J
+C) 309.78 J
+D) 279.78 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 259.81 J
+B) 269.81 J
+C) 279.81 J
+D) 249.81 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 212.13 J
+B) 222.13 J
+C) 232.13 J
+D) 202.13 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 77.65 J
+B) 87.65 J
+C) 97.65 J
+D) 67.65 J
+
+A force of 20.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 105.00 J
+B) 115.00 J
+C) 125.00 J
+D) 95.00 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 101.42 J
+B) 111.42 J
+C) 121.42 J
+D) 91.42 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 90.93 J
+B) 100.93 J
+C) 110.93 J
+D) 80.93 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 74.25 J
+B) 84.25 J
+C) 94.25 J
+D) 64.25 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 52.50 J
+B) 62.50 J
+C) 72.50 J
+D) 42.50 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 27.18 J
+B) 37.18 J
+C) 47.18 J
+D) 17.18 J
+
+A force of 21.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 126.00 J
+B) 136.00 J
+C) 146.00 J
+D) 116.00 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 121.71 J
+B) 131.71 J
+C) 141.71 J
+D) 111.71 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 109.12 J
+B) 119.12 J
+C) 129.12 J
+D) 99.12 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 89.10 J
+B) 99.10 J
+C) 109.10 J
+D) 79.10 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 63.00 J
+B) 73.00 J
+C) 83.00 J
+D) 53.00 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 32.61 J
+B) 42.61 J
+C) 52.61 J
+D) 22.61 J
+
+A force of 21.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 147.00 J
+B) 157.00 J
+C) 167.00 J
+D) 137.00 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 141.99 J
+B) 151.99 J
+C) 161.99 J
+D) 131.99 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 127.31 J
+B) 137.31 J
+C) 147.31 J
+D) 117.31 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 103.94 J
+B) 113.94 J
+C) 123.94 J
+D) 93.94 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 73.50 J
+B) 83.50 J
+C) 93.50 J
+D) 63.50 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 38.05 J
+B) 48.05 J
+C) 58.05 J
+D) 28.05 J
+
+A force of 21.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 168.00 J
+B) 178.00 J
+C) 188.00 J
+D) 158.00 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 162.28 J
+B) 172.28 J
+C) 182.28 J
+D) 152.28 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 145.49 J
+B) 155.49 J
+C) 165.49 J
+D) 135.49 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 118.79 J
+B) 128.79 J
+C) 138.79 J
+D) 108.79 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 84.00 J
+B) 94.00 J
+C) 104.00 J
+D) 74.00 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 43.48 J
+B) 53.48 J
+C) 63.48 J
+D) 33.48 J
+
+A force of 21.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 189.00 J
+B) 199.00 J
+C) 209.00 J
+D) 179.00 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 182.56 J
+B) 192.56 J
+C) 202.56 J
+D) 172.56 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 163.68 J
+B) 173.68 J
+C) 183.68 J
+D) 153.68 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 133.64 J
+B) 143.64 J
+C) 153.64 J
+D) 123.64 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 94.50 J
+B) 104.50 J
+C) 114.50 J
+D) 84.50 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 48.92 J
+B) 58.92 J
+C) 68.92 J
+D) 38.92 J
+
+A force of 21.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 210.00 J
+B) 220.00 J
+C) 230.00 J
+D) 200.00 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 202.84 J
+B) 212.84 J
+C) 222.84 J
+D) 192.84 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 181.87 J
+B) 191.87 J
+C) 201.87 J
+D) 171.87 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 148.49 J
+B) 158.49 J
+C) 168.49 J
+D) 138.49 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 105.00 J
+B) 115.00 J
+C) 125.00 J
+D) 95.00 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 54.35 J
+B) 64.35 J
+C) 74.35 J
+D) 44.35 J
+
+A force of 21.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 231.00 J
+B) 241.00 J
+C) 251.00 J
+D) 221.00 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 223.13 J
+B) 233.13 J
+C) 243.13 J
+D) 213.13 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 200.05 J
+B) 210.05 J
+C) 220.05 J
+D) 190.05 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 163.34 J
+B) 173.34 J
+C) 183.34 J
+D) 153.34 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 115.50 J
+B) 125.50 J
+C) 135.50 J
+D) 105.50 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 59.79 J
+B) 69.79 J
+C) 79.79 J
+D) 49.79 J
+
+A force of 21.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 252.00 J
+B) 262.00 J
+C) 272.00 J
+D) 242.00 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 243.41 J
+B) 253.41 J
+C) 263.41 J
+D) 233.41 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 218.24 J
+B) 228.24 J
+C) 238.24 J
+D) 208.24 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 178.19 J
+B) 188.19 J
+C) 198.19 J
+D) 168.19 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 126.00 J
+B) 136.00 J
+C) 146.00 J
+D) 116.00 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 65.22 J
+B) 75.22 J
+C) 85.22 J
+D) 55.22 J
+
+A force of 21.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 273.00 J
+B) 283.00 J
+C) 293.00 J
+D) 263.00 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 263.70 J
+B) 273.70 J
+C) 283.70 J
+D) 253.70 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 236.42 J
+B) 246.42 J
+C) 256.42 J
+D) 226.42 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 193.04 J
+B) 203.04 J
+C) 213.04 J
+D) 183.04 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 136.50 J
+B) 146.50 J
+C) 156.50 J
+D) 126.50 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 70.66 J
+B) 80.66 J
+C) 90.66 J
+D) 60.66 J
+
+A force of 21.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 294.00 J
+B) 304.00 J
+C) 314.00 J
+D) 284.00 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 283.98 J
+B) 293.98 J
+C) 303.98 J
+D) 273.98 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 254.61 J
+B) 264.61 J
+C) 274.61 J
+D) 244.61 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 207.89 J
+B) 217.89 J
+C) 227.89 J
+D) 197.89 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 147.00 J
+B) 157.00 J
+C) 167.00 J
+D) 137.00 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 76.09 J
+B) 86.09 J
+C) 96.09 J
+D) 66.09 J
+
+A force of 21.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 315.00 J
+B) 325.00 J
+C) 335.00 J
+D) 305.00 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 304.27 J
+B) 314.27 J
+C) 324.27 J
+D) 294.27 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 272.80 J
+B) 282.80 J
+C) 292.80 J
+D) 262.80 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 222.74 J
+B) 232.74 J
+C) 242.74 J
+D) 212.74 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 157.50 J
+B) 167.50 J
+C) 177.50 J
+D) 147.50 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 81.53 J
+B) 91.53 J
+C) 101.53 J
+D) 71.53 J
+
+A force of 21.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 110.00 J
+B) 120.00 J
+C) 130.00 J
+D) 100.00 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 106.25 J
+B) 116.25 J
+C) 126.25 J
+D) 96.25 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 95.26 J
+B) 105.26 J
+C) 115.26 J
+D) 85.26 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 77.78 J
+B) 87.78 J
+C) 97.78 J
+D) 67.78 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 55.00 J
+B) 65.00 J
+C) 75.00 J
+D) 45.00 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 28.47 J
+B) 38.47 J
+C) 48.47 J
+D) 18.47 J
+
+A force of 22.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 132.00 J
+B) 142.00 J
+C) 152.00 J
+D) 122.00 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 127.50 J
+B) 137.50 J
+C) 147.50 J
+D) 117.50 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 114.32 J
+B) 124.32 J
+C) 134.32 J
+D) 104.32 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 93.34 J
+B) 103.34 J
+C) 113.34 J
+D) 83.34 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 66.00 J
+B) 76.00 J
+C) 86.00 J
+D) 56.00 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 34.16 J
+B) 44.16 J
+C) 54.16 J
+D) 24.16 J
+
+A force of 22.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 154.00 J
+B) 164.00 J
+C) 174.00 J
+D) 144.00 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 148.75 J
+B) 158.75 J
+C) 168.75 J
+D) 138.75 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 133.37 J
+B) 143.37 J
+C) 153.37 J
+D) 123.37 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 108.89 J
+B) 118.89 J
+C) 128.89 J
+D) 98.89 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 77.00 J
+B) 87.00 J
+C) 97.00 J
+D) 67.00 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 39.86 J
+B) 49.86 J
+C) 59.86 J
+D) 29.86 J
+
+A force of 22.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 176.00 J
+B) 186.00 J
+C) 196.00 J
+D) 166.00 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 170.00 J
+B) 180.00 J
+C) 190.00 J
+D) 160.00 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 152.42 J
+B) 162.42 J
+C) 172.42 J
+D) 142.42 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 124.45 J
+B) 134.45 J
+C) 144.45 J
+D) 114.45 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 88.00 J
+B) 98.00 J
+C) 108.00 J
+D) 78.00 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 45.55 J
+B) 55.55 J
+C) 65.55 J
+D) 35.55 J
+
+A force of 22.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 198.00 J
+B) 208.00 J
+C) 218.00 J
+D) 188.00 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 191.25 J
+B) 201.25 J
+C) 211.25 J
+D) 181.25 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 171.47 J
+B) 181.47 J
+C) 191.47 J
+D) 161.47 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 140.01 J
+B) 150.01 J
+C) 160.01 J
+D) 130.01 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 99.00 J
+B) 109.00 J
+C) 119.00 J
+D) 89.00 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 51.25 J
+B) 61.25 J
+C) 71.25 J
+D) 41.25 J
+
+A force of 22.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 220.00 J
+B) 230.00 J
+C) 240.00 J
+D) 210.00 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 212.50 J
+B) 222.50 J
+C) 232.50 J
+D) 202.50 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 190.53 J
+B) 200.53 J
+C) 210.53 J
+D) 180.53 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 155.56 J
+B) 165.56 J
+C) 175.56 J
+D) 145.56 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 110.00 J
+B) 120.00 J
+C) 130.00 J
+D) 100.00 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 56.94 J
+B) 66.94 J
+C) 76.94 J
+D) 46.94 J
+
+A force of 22.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 242.00 J
+B) 252.00 J
+C) 262.00 J
+D) 232.00 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 233.75 J
+B) 243.75 J
+C) 253.75 J
+D) 223.75 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 209.58 J
+B) 219.58 J
+C) 229.58 J
+D) 199.58 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 171.12 J
+B) 181.12 J
+C) 191.12 J
+D) 161.12 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 121.00 J
+B) 131.00 J
+C) 141.00 J
+D) 111.00 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 62.63 J
+B) 72.63 J
+C) 82.63 J
+D) 52.63 J
+
+A force of 22.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 264.00 J
+B) 274.00 J
+C) 284.00 J
+D) 254.00 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 255.00 J
+B) 265.00 J
+C) 275.00 J
+D) 245.00 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 228.63 J
+B) 238.63 J
+C) 248.63 J
+D) 218.63 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 186.68 J
+B) 196.68 J
+C) 206.68 J
+D) 176.68 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 132.00 J
+B) 142.00 J
+C) 152.00 J
+D) 122.00 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 68.33 J
+B) 78.33 J
+C) 88.33 J
+D) 58.33 J
+
+A force of 22.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 286.00 J
+B) 296.00 J
+C) 306.00 J
+D) 276.00 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 276.25 J
+B) 286.25 J
+C) 296.25 J
+D) 266.25 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 247.68 J
+B) 257.68 J
+C) 267.68 J
+D) 237.68 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 202.23 J
+B) 212.23 J
+C) 222.23 J
+D) 192.23 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 143.00 J
+B) 153.00 J
+C) 163.00 J
+D) 133.00 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 74.02 J
+B) 84.02 J
+C) 94.02 J
+D) 64.02 J
+
+A force of 22.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 308.00 J
+B) 318.00 J
+C) 328.00 J
+D) 298.00 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 297.51 J
+B) 307.51 J
+C) 317.51 J
+D) 287.51 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 266.74 J
+B) 276.74 J
+C) 286.74 J
+D) 256.74 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 217.79 J
+B) 227.79 J
+C) 237.79 J
+D) 207.79 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 154.00 J
+B) 164.00 J
+C) 174.00 J
+D) 144.00 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 79.72 J
+B) 89.72 J
+C) 99.72 J
+D) 69.72 J
+
+A force of 22.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 330.00 J
+B) 340.00 J
+C) 350.00 J
+D) 320.00 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 318.76 J
+B) 328.76 J
+C) 338.76 J
+D) 308.76 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 285.79 J
+B) 295.79 J
+C) 305.79 J
+D) 275.79 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 233.35 J
+B) 243.35 J
+C) 253.35 J
+D) 223.35 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 165.00 J
+B) 175.00 J
+C) 185.00 J
+D) 155.00 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 85.41 J
+B) 95.41 J
+C) 105.41 J
+D) 75.41 J
+
+A force of 22.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 115.00 J
+B) 125.00 J
+C) 135.00 J
+D) 105.00 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 111.08 J
+B) 121.08 J
+C) 131.08 J
+D) 101.08 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 99.59 J
+B) 109.59 J
+C) 119.59 J
+D) 89.59 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 81.32 J
+B) 91.32 J
+C) 101.32 J
+D) 71.32 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 57.50 J
+B) 67.50 J
+C) 77.50 J
+D) 47.50 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 29.76 J
+B) 39.76 J
+C) 49.76 J
+D) 19.76 J
+
+A force of 23.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 138.00 J
+B) 148.00 J
+C) 158.00 J
+D) 128.00 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 133.30 J
+B) 143.30 J
+C) 153.30 J
+D) 123.30 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 119.51 J
+B) 129.51 J
+C) 139.51 J
+D) 109.51 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 97.58 J
+B) 107.58 J
+C) 117.58 J
+D) 87.58 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 69.00 J
+B) 79.00 J
+C) 89.00 J
+D) 59.00 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 35.72 J
+B) 45.72 J
+C) 55.72 J
+D) 25.72 J
+
+A force of 23.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 161.00 J
+B) 171.00 J
+C) 181.00 J
+D) 151.00 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 155.51 J
+B) 165.51 J
+C) 175.51 J
+D) 145.51 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 139.43 J
+B) 149.43 J
+C) 159.43 J
+D) 129.43 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 113.84 J
+B) 123.84 J
+C) 133.84 J
+D) 103.84 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 80.50 J
+B) 90.50 J
+C) 100.50 J
+D) 70.50 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 41.67 J
+B) 51.67 J
+C) 61.67 J
+D) 31.67 J
+
+A force of 23.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 184.00 J
+B) 194.00 J
+C) 204.00 J
+D) 174.00 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 177.73 J
+B) 187.73 J
+C) 197.73 J
+D) 167.73 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 159.35 J
+B) 169.35 J
+C) 179.35 J
+D) 149.35 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 130.11 J
+B) 140.11 J
+C) 150.11 J
+D) 120.11 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 92.00 J
+B) 102.00 J
+C) 112.00 J
+D) 82.00 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 47.62 J
+B) 57.62 J
+C) 67.62 J
+D) 37.62 J
+
+A force of 23.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 207.00 J
+B) 217.00 J
+C) 227.00 J
+D) 197.00 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 199.95 J
+B) 209.95 J
+C) 219.95 J
+D) 189.95 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 179.27 J
+B) 189.27 J
+C) 199.27 J
+D) 169.27 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 146.37 J
+B) 156.37 J
+C) 166.37 J
+D) 136.37 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 103.50 J
+B) 113.50 J
+C) 123.50 J
+D) 93.50 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 53.58 J
+B) 63.58 J
+C) 73.58 J
+D) 43.58 J
+
+A force of 23.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 230.00 J
+B) 240.00 J
+C) 250.00 J
+D) 220.00 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 222.16 J
+B) 232.16 J
+C) 242.16 J
+D) 212.16 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 199.19 J
+B) 209.19 J
+C) 219.19 J
+D) 189.19 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 162.63 J
+B) 172.63 J
+C) 182.63 J
+D) 152.63 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 115.00 J
+B) 125.00 J
+C) 135.00 J
+D) 105.00 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 59.53 J
+B) 69.53 J
+C) 79.53 J
+D) 49.53 J
+
+A force of 23.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 253.00 J
+B) 263.00 J
+C) 273.00 J
+D) 243.00 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 244.38 J
+B) 254.38 J
+C) 264.38 J
+D) 234.38 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 219.10 J
+B) 229.10 J
+C) 239.10 J
+D) 209.10 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 178.90 J
+B) 188.90 J
+C) 198.90 J
+D) 168.90 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 126.50 J
+B) 136.50 J
+C) 146.50 J
+D) 116.50 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 65.48 J
+B) 75.48 J
+C) 85.48 J
+D) 55.48 J
+
+A force of 23.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 276.00 J
+B) 286.00 J
+C) 296.00 J
+D) 266.00 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 266.60 J
+B) 276.60 J
+C) 286.60 J
+D) 256.60 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 239.02 J
+B) 249.02 J
+C) 259.02 J
+D) 229.02 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 195.16 J
+B) 205.16 J
+C) 215.16 J
+D) 185.16 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 138.00 J
+B) 148.00 J
+C) 158.00 J
+D) 128.00 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 71.43 J
+B) 81.43 J
+C) 91.43 J
+D) 61.43 J
+
+A force of 23.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 299.00 J
+B) 309.00 J
+C) 319.00 J
+D) 289.00 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 288.81 J
+B) 298.81 J
+C) 308.81 J
+D) 278.81 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 258.94 J
+B) 268.94 J
+C) 278.94 J
+D) 248.94 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 211.42 J
+B) 221.42 J
+C) 231.42 J
+D) 201.42 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 149.50 J
+B) 159.50 J
+C) 169.50 J
+D) 139.50 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 77.39 J
+B) 87.39 J
+C) 97.39 J
+D) 67.39 J
+
+A force of 23.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 322.00 J
+B) 332.00 J
+C) 342.00 J
+D) 312.00 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 311.03 J
+B) 321.03 J
+C) 331.03 J
+D) 301.03 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 278.86 J
+B) 288.86 J
+C) 298.86 J
+D) 268.86 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 227.69 J
+B) 237.69 J
+C) 247.69 J
+D) 217.69 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 161.00 J
+B) 171.00 J
+C) 181.00 J
+D) 151.00 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 83.34 J
+B) 93.34 J
+C) 103.34 J
+D) 73.34 J
+
+A force of 23.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 345.00 J
+B) 355.00 J
+C) 365.00 J
+D) 335.00 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 333.24 J
+B) 343.24 J
+C) 353.24 J
+D) 323.24 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 298.78 J
+B) 308.78 J
+C) 318.78 J
+D) 288.78 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 243.95 J
+B) 253.95 J
+C) 263.95 J
+D) 233.95 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 172.50 J
+B) 182.50 J
+C) 192.50 J
+D) 162.50 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 89.29 J
+B) 99.29 J
+C) 109.29 J
+D) 79.29 J
+
+A force of 23.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 120.00 J
+B) 130.00 J
+C) 140.00 J
+D) 110.00 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 115.91 J
+B) 125.91 J
+C) 135.91 J
+D) 105.91 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 103.92 J
+B) 113.92 J
+C) 123.92 J
+D) 93.92 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 84.85 J
+B) 94.85 J
+C) 104.85 J
+D) 74.85 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 60.00 J
+B) 70.00 J
+C) 80.00 J
+D) 50.00 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 31.06 J
+B) 41.06 J
+C) 51.06 J
+D) 21.06 J
+
+A force of 24.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 144.00 J
+B) 154.00 J
+C) 164.00 J
+D) 134.00 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 139.09 J
+B) 149.09 J
+C) 159.09 J
+D) 129.09 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 124.71 J
+B) 134.71 J
+C) 144.71 J
+D) 114.71 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 101.82 J
+B) 111.82 J
+C) 121.82 J
+D) 91.82 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 72.00 J
+B) 82.00 J
+C) 92.00 J
+D) 62.00 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 37.27 J
+B) 47.27 J
+C) 57.27 J
+D) 27.27 J
+
+A force of 24.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 168.00 J
+B) 178.00 J
+C) 188.00 J
+D) 158.00 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 162.28 J
+B) 172.28 J
+C) 182.28 J
+D) 152.28 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 145.49 J
+B) 155.49 J
+C) 165.49 J
+D) 135.49 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 118.79 J
+B) 128.79 J
+C) 138.79 J
+D) 108.79 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 84.00 J
+B) 94.00 J
+C) 104.00 J
+D) 74.00 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 43.48 J
+B) 53.48 J
+C) 63.48 J
+D) 33.48 J
+
+A force of 24.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 192.00 J
+B) 202.00 J
+C) 212.00 J
+D) 182.00 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 185.46 J
+B) 195.46 J
+C) 205.46 J
+D) 175.46 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 166.28 J
+B) 176.28 J
+C) 186.28 J
+D) 156.28 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 135.76 J
+B) 145.76 J
+C) 155.76 J
+D) 125.76 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 96.00 J
+B) 106.00 J
+C) 116.00 J
+D) 86.00 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 49.69 J
+B) 59.69 J
+C) 69.69 J
+D) 39.69 J
+
+A force of 24.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 216.00 J
+B) 226.00 J
+C) 236.00 J
+D) 206.00 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 208.64 J
+B) 218.64 J
+C) 228.64 J
+D) 198.64 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 187.06 J
+B) 197.06 J
+C) 207.06 J
+D) 177.06 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 152.74 J
+B) 162.74 J
+C) 172.74 J
+D) 142.74 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 108.00 J
+B) 118.00 J
+C) 128.00 J
+D) 98.00 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 55.90 J
+B) 65.90 J
+C) 75.90 J
+D) 45.90 J
+
+A force of 24.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 240.00 J
+B) 250.00 J
+C) 260.00 J
+D) 230.00 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 231.82 J
+B) 241.82 J
+C) 251.82 J
+D) 221.82 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 207.85 J
+B) 217.85 J
+C) 227.85 J
+D) 197.85 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 169.71 J
+B) 179.71 J
+C) 189.71 J
+D) 159.71 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 120.00 J
+B) 130.00 J
+C) 140.00 J
+D) 110.00 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 62.12 J
+B) 72.12 J
+C) 82.12 J
+D) 52.12 J
+
+A force of 24.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 264.00 J
+B) 274.00 J
+C) 284.00 J
+D) 254.00 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 255.00 J
+B) 265.00 J
+C) 275.00 J
+D) 245.00 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 228.63 J
+B) 238.63 J
+C) 248.63 J
+D) 218.63 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 186.68 J
+B) 196.68 J
+C) 206.68 J
+D) 176.68 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 132.00 J
+B) 142.00 J
+C) 152.00 J
+D) 122.00 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 68.33 J
+B) 78.33 J
+C) 88.33 J
+D) 58.33 J
+
+A force of 24.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 288.00 J
+B) 298.00 J
+C) 308.00 J
+D) 278.00 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 278.19 J
+B) 288.19 J
+C) 298.19 J
+D) 268.19 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 249.42 J
+B) 259.42 J
+C) 269.42 J
+D) 239.42 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 203.65 J
+B) 213.65 J
+C) 223.65 J
+D) 193.65 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 144.00 J
+B) 154.00 J
+C) 164.00 J
+D) 134.00 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 74.54 J
+B) 84.54 J
+C) 94.54 J
+D) 64.54 J
+
+A force of 24.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 312.00 J
+B) 322.00 J
+C) 332.00 J
+D) 302.00 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 301.37 J
+B) 311.37 J
+C) 321.37 J
+D) 291.37 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 270.20 J
+B) 280.20 J
+C) 290.20 J
+D) 260.20 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 220.62 J
+B) 230.62 J
+C) 240.62 J
+D) 210.62 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 156.00 J
+B) 166.00 J
+C) 176.00 J
+D) 146.00 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 80.75 J
+B) 90.75 J
+C) 100.75 J
+D) 70.75 J
+
+A force of 24.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 336.00 J
+B) 346.00 J
+C) 356.00 J
+D) 326.00 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 324.55 J
+B) 334.55 J
+C) 344.55 J
+D) 314.55 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 290.98 J
+B) 300.98 J
+C) 310.98 J
+D) 280.98 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 237.59 J
+B) 247.59 J
+C) 257.59 J
+D) 227.59 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 168.00 J
+B) 178.00 J
+C) 188.00 J
+D) 158.00 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 86.96 J
+B) 96.96 J
+C) 106.96 J
+D) 76.96 J
+
+A force of 24.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 360.00 J
+B) 370.00 J
+C) 380.00 J
+D) 350.00 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 347.73 J
+B) 357.73 J
+C) 367.73 J
+D) 337.73 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 311.77 J
+B) 321.77 J
+C) 331.77 J
+D) 301.77 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 254.56 J
+B) 264.56 J
+C) 274.56 J
+D) 244.56 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 180.00 J
+B) 190.00 J
+C) 200.00 J
+D) 170.00 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 93.17 J
+B) 103.17 J
+C) 113.17 J
+D) 83.17 J
+
+A force of 24.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 125.00 J
+B) 135.00 J
+C) 145.00 J
+D) 115.00 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 120.74 J
+B) 130.74 J
+C) 140.74 J
+D) 110.74 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 108.25 J
+B) 118.25 J
+C) 128.25 J
+D) 98.25 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 88.39 J
+B) 98.39 J
+C) 108.39 J
+D) 78.39 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 62.50 J
+B) 72.50 J
+C) 82.50 J
+D) 52.50 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 32.35 J
+B) 42.35 J
+C) 52.35 J
+D) 22.35 J
+
+A force of 25.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 144.89 J
+B) 154.89 J
+C) 164.89 J
+D) 134.89 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 129.90 J
+B) 139.90 J
+C) 149.90 J
+D) 119.90 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 106.07 J
+B) 116.07 J
+C) 126.07 J
+D) 96.07 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 75.00 J
+B) 85.00 J
+C) 95.00 J
+D) 65.00 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 38.82 J
+B) 48.82 J
+C) 58.82 J
+D) 28.82 J
+
+A force of 25.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 175.00 J
+B) 185.00 J
+C) 195.00 J
+D) 165.00 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 169.04 J
+B) 179.04 J
+C) 189.04 J
+D) 159.04 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 151.55 J
+B) 161.55 J
+C) 171.55 J
+D) 141.55 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 123.74 J
+B) 133.74 J
+C) 143.74 J
+D) 113.74 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 87.50 J
+B) 97.50 J
+C) 107.50 J
+D) 77.50 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 45.29 J
+B) 55.29 J
+C) 65.29 J
+D) 35.29 J
+
+A force of 25.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 200.00 J
+B) 210.00 J
+C) 220.00 J
+D) 190.00 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 193.19 J
+B) 203.19 J
+C) 213.19 J
+D) 183.19 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 173.21 J
+B) 183.21 J
+C) 193.21 J
+D) 163.21 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 141.42 J
+B) 151.42 J
+C) 161.42 J
+D) 131.42 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 100.00 J
+B) 110.00 J
+C) 120.00 J
+D) 90.00 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 51.76 J
+B) 61.76 J
+C) 71.76 J
+D) 41.76 J
+
+A force of 25.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 225.00 J
+B) 235.00 J
+C) 245.00 J
+D) 215.00 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 217.33 J
+B) 227.33 J
+C) 237.33 J
+D) 207.33 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 194.86 J
+B) 204.86 J
+C) 214.86 J
+D) 184.86 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 159.10 J
+B) 169.10 J
+C) 179.10 J
+D) 149.10 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 112.50 J
+B) 122.50 J
+C) 132.50 J
+D) 102.50 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 58.23 J
+B) 68.23 J
+C) 78.23 J
+D) 48.23 J
+
+A force of 25.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 250.00 J
+B) 260.00 J
+C) 270.00 J
+D) 240.00 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 241.48 J
+B) 251.48 J
+C) 261.48 J
+D) 231.48 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 216.51 J
+B) 226.51 J
+C) 236.51 J
+D) 206.51 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 176.78 J
+B) 186.78 J
+C) 196.78 J
+D) 166.78 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 125.00 J
+B) 135.00 J
+C) 145.00 J
+D) 115.00 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 64.70 J
+B) 74.70 J
+C) 84.70 J
+D) 54.70 J
+
+A force of 25.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 275.00 J
+B) 285.00 J
+C) 295.00 J
+D) 265.00 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 265.63 J
+B) 275.63 J
+C) 285.63 J
+D) 255.63 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 238.16 J
+B) 248.16 J
+C) 258.16 J
+D) 228.16 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 194.45 J
+B) 204.45 J
+C) 214.45 J
+D) 184.45 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 137.50 J
+B) 147.50 J
+C) 157.50 J
+D) 127.50 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 71.18 J
+B) 81.18 J
+C) 91.18 J
+D) 61.18 J
+
+A force of 25.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 300.00 J
+B) 310.00 J
+C) 320.00 J
+D) 290.00 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 289.78 J
+B) 299.78 J
+C) 309.78 J
+D) 279.78 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 259.81 J
+B) 269.81 J
+C) 279.81 J
+D) 249.81 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 212.13 J
+B) 222.13 J
+C) 232.13 J
+D) 202.13 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 77.65 J
+B) 87.65 J
+C) 97.65 J
+D) 67.65 J
+
+A force of 25.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 325.00 J
+B) 335.00 J
+C) 345.00 J
+D) 315.00 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 313.93 J
+B) 323.93 J
+C) 333.93 J
+D) 303.93 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 281.46 J
+B) 291.46 J
+C) 301.46 J
+D) 271.46 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 229.81 J
+B) 239.81 J
+C) 249.81 J
+D) 219.81 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 162.50 J
+B) 172.50 J
+C) 182.50 J
+D) 152.50 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 84.12 J
+B) 94.12 J
+C) 104.12 J
+D) 74.12 J
+
+A force of 25.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 350.00 J
+B) 360.00 J
+C) 370.00 J
+D) 340.00 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 338.07 J
+B) 348.07 J
+C) 358.07 J
+D) 328.07 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 303.11 J
+B) 313.11 J
+C) 323.11 J
+D) 293.11 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 247.49 J
+B) 257.49 J
+C) 267.49 J
+D) 237.49 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 175.00 J
+B) 185.00 J
+C) 195.00 J
+D) 165.00 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 90.59 J
+B) 100.59 J
+C) 110.59 J
+D) 80.59 J
+
+A force of 25.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 375.00 J
+B) 385.00 J
+C) 395.00 J
+D) 365.00 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 362.22 J
+B) 372.22 J
+C) 382.22 J
+D) 352.22 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 324.76 J
+B) 334.76 J
+C) 344.76 J
+D) 314.76 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 265.17 J
+B) 275.17 J
+C) 285.17 J
+D) 255.17 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 187.50 J
+B) 197.50 J
+C) 207.50 J
+D) 177.50 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 97.06 J
+B) 107.06 J
+C) 117.06 J
+D) 87.06 J
+
+A force of 25.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 130.00 J
+B) 140.00 J
+C) 150.00 J
+D) 120.00 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 125.57 J
+B) 135.57 J
+C) 145.57 J
+D) 115.57 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 112.58 J
+B) 122.58 J
+C) 132.58 J
+D) 102.58 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 91.92 J
+B) 101.92 J
+C) 111.92 J
+D) 81.92 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 65.00 J
+B) 75.00 J
+C) 85.00 J
+D) 55.00 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 33.65 J
+B) 43.65 J
+C) 53.65 J
+D) 23.65 J
+
+A force of 26.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 156.00 J
+B) 166.00 J
+C) 176.00 J
+D) 146.00 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 150.68 J
+B) 160.68 J
+C) 170.68 J
+D) 140.68 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 135.10 J
+B) 145.10 J
+C) 155.10 J
+D) 125.10 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 110.31 J
+B) 120.31 J
+C) 130.31 J
+D) 100.31 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 78.00 J
+B) 88.00 J
+C) 98.00 J
+D) 68.00 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 40.38 J
+B) 50.38 J
+C) 60.38 J
+D) 30.38 J
+
+A force of 26.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 182.00 J
+B) 192.00 J
+C) 202.00 J
+D) 172.00 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 175.80 J
+B) 185.80 J
+C) 195.80 J
+D) 165.80 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 157.62 J
+B) 167.62 J
+C) 177.62 J
+D) 147.62 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 128.69 J
+B) 138.69 J
+C) 148.69 J
+D) 118.69 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 91.00 J
+B) 101.00 J
+C) 111.00 J
+D) 81.00 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 47.11 J
+B) 57.11 J
+C) 67.11 J
+D) 37.11 J
+
+A force of 26.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 208.00 J
+B) 218.00 J
+C) 228.00 J
+D) 198.00 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 200.91 J
+B) 210.91 J
+C) 220.91 J
+D) 190.91 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 180.13 J
+B) 190.13 J
+C) 200.13 J
+D) 170.13 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 147.08 J
+B) 157.08 J
+C) 167.08 J
+D) 137.08 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 104.00 J
+B) 114.00 J
+C) 124.00 J
+D) 94.00 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 53.83 J
+B) 63.83 J
+C) 73.83 J
+D) 43.83 J
+
+A force of 26.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 234.00 J
+B) 244.00 J
+C) 254.00 J
+D) 224.00 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 226.03 J
+B) 236.03 J
+C) 246.03 J
+D) 216.03 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 202.65 J
+B) 212.65 J
+C) 222.65 J
+D) 192.65 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 165.46 J
+B) 175.46 J
+C) 185.46 J
+D) 155.46 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 117.00 J
+B) 127.00 J
+C) 137.00 J
+D) 107.00 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 60.56 J
+B) 70.56 J
+C) 80.56 J
+D) 50.56 J
+
+A force of 26.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 260.00 J
+B) 270.00 J
+C) 280.00 J
+D) 250.00 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 251.14 J
+B) 261.14 J
+C) 271.14 J
+D) 241.14 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 225.17 J
+B) 235.17 J
+C) 245.17 J
+D) 215.17 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 183.85 J
+B) 193.85 J
+C) 203.85 J
+D) 173.85 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 130.00 J
+B) 140.00 J
+C) 150.00 J
+D) 120.00 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 67.29 J
+B) 77.29 J
+C) 87.29 J
+D) 57.29 J
+
+A force of 26.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 286.00 J
+B) 296.00 J
+C) 306.00 J
+D) 276.00 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 276.25 J
+B) 286.25 J
+C) 296.25 J
+D) 266.25 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 247.68 J
+B) 257.68 J
+C) 267.68 J
+D) 237.68 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 202.23 J
+B) 212.23 J
+C) 222.23 J
+D) 192.23 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 143.00 J
+B) 153.00 J
+C) 163.00 J
+D) 133.00 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 74.02 J
+B) 84.02 J
+C) 94.02 J
+D) 64.02 J
+
+A force of 26.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 312.00 J
+B) 322.00 J
+C) 332.00 J
+D) 302.00 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 301.37 J
+B) 311.37 J
+C) 321.37 J
+D) 291.37 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 270.20 J
+B) 280.20 J
+C) 290.20 J
+D) 260.20 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 220.62 J
+B) 230.62 J
+C) 240.62 J
+D) 210.62 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 156.00 J
+B) 166.00 J
+C) 176.00 J
+D) 146.00 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 80.75 J
+B) 90.75 J
+C) 100.75 J
+D) 70.75 J
+
+A force of 26.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 338.00 J
+B) 348.00 J
+C) 358.00 J
+D) 328.00 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 326.48 J
+B) 336.48 J
+C) 346.48 J
+D) 316.48 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 292.72 J
+B) 302.72 J
+C) 312.72 J
+D) 282.72 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 239.00 J
+B) 249.00 J
+C) 259.00 J
+D) 229.00 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 169.00 J
+B) 179.00 J
+C) 189.00 J
+D) 159.00 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 87.48 J
+B) 97.48 J
+C) 107.48 J
+D) 77.48 J
+
+A force of 26.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 364.00 J
+B) 374.00 J
+C) 384.00 J
+D) 354.00 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 351.60 J
+B) 361.60 J
+C) 371.60 J
+D) 341.60 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 315.23 J
+B) 325.23 J
+C) 335.23 J
+D) 305.23 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 257.39 J
+B) 267.39 J
+C) 277.39 J
+D) 247.39 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 182.00 J
+B) 192.00 J
+C) 202.00 J
+D) 172.00 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 94.21 J
+B) 104.21 J
+C) 114.21 J
+D) 84.21 J
+
+A force of 26.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 390.00 J
+B) 400.00 J
+C) 410.00 J
+D) 380.00 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 376.71 J
+B) 386.71 J
+C) 396.71 J
+D) 366.71 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 337.75 J
+B) 347.75 J
+C) 357.75 J
+D) 327.75 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 275.77 J
+B) 285.77 J
+C) 295.77 J
+D) 265.77 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 195.00 J
+B) 205.00 J
+C) 215.00 J
+D) 185.00 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 100.94 J
+B) 110.94 J
+C) 120.94 J
+D) 90.94 J
+
+A force of 26.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 135.00 J
+B) 145.00 J
+C) 155.00 J
+D) 125.00 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 130.40 J
+B) 140.40 J
+C) 150.40 J
+D) 120.40 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 116.91 J
+B) 126.91 J
+C) 136.91 J
+D) 106.91 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 95.46 J
+B) 105.46 J
+C) 115.46 J
+D) 85.46 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 67.50 J
+B) 77.50 J
+C) 87.50 J
+D) 57.50 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 34.94 J
+B) 44.94 J
+C) 54.94 J
+D) 24.94 J
+
+A force of 27.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 162.00 J
+B) 172.00 J
+C) 182.00 J
+D) 152.00 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 156.48 J
+B) 166.48 J
+C) 176.48 J
+D) 146.48 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 140.30 J
+B) 150.30 J
+C) 160.30 J
+D) 130.30 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 114.55 J
+B) 124.55 J
+C) 134.55 J
+D) 104.55 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 81.00 J
+B) 91.00 J
+C) 101.00 J
+D) 71.00 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 41.93 J
+B) 51.93 J
+C) 61.93 J
+D) 31.93 J
+
+A force of 27.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 189.00 J
+B) 199.00 J
+C) 209.00 J
+D) 179.00 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 182.56 J
+B) 192.56 J
+C) 202.56 J
+D) 172.56 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 163.68 J
+B) 173.68 J
+C) 183.68 J
+D) 153.68 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 133.64 J
+B) 143.64 J
+C) 153.64 J
+D) 123.64 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 94.50 J
+B) 104.50 J
+C) 114.50 J
+D) 84.50 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 48.92 J
+B) 58.92 J
+C) 68.92 J
+D) 38.92 J
+
+A force of 27.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 216.00 J
+B) 226.00 J
+C) 236.00 J
+D) 206.00 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 208.64 J
+B) 218.64 J
+C) 228.64 J
+D) 198.64 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 187.06 J
+B) 197.06 J
+C) 207.06 J
+D) 177.06 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 152.74 J
+B) 162.74 J
+C) 172.74 J
+D) 142.74 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 108.00 J
+B) 118.00 J
+C) 128.00 J
+D) 98.00 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 55.90 J
+B) 65.90 J
+C) 75.90 J
+D) 45.90 J
+
+A force of 27.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 243.00 J
+B) 253.00 J
+C) 263.00 J
+D) 233.00 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 234.72 J
+B) 244.72 J
+C) 254.72 J
+D) 224.72 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 210.44 J
+B) 220.44 J
+C) 230.44 J
+D) 200.44 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 171.83 J
+B) 181.83 J
+C) 191.83 J
+D) 161.83 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 121.50 J
+B) 131.50 J
+C) 141.50 J
+D) 111.50 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 62.89 J
+B) 72.89 J
+C) 82.89 J
+D) 52.89 J
+
+A force of 27.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 270.00 J
+B) 280.00 J
+C) 290.00 J
+D) 260.00 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 260.80 J
+B) 270.80 J
+C) 280.80 J
+D) 250.80 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 233.83 J
+B) 243.83 J
+C) 253.83 J
+D) 223.83 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 190.92 J
+B) 200.92 J
+C) 210.92 J
+D) 180.92 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 135.00 J
+B) 145.00 J
+C) 155.00 J
+D) 125.00 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 69.88 J
+B) 79.88 J
+C) 89.88 J
+D) 59.88 J
+
+A force of 27.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 297.00 J
+B) 307.00 J
+C) 317.00 J
+D) 287.00 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 286.88 J
+B) 296.88 J
+C) 306.88 J
+D) 276.88 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 257.21 J
+B) 267.21 J
+C) 277.21 J
+D) 247.21 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 210.01 J
+B) 220.01 J
+C) 230.01 J
+D) 200.01 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 148.50 J
+B) 158.50 J
+C) 168.50 J
+D) 138.50 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 76.87 J
+B) 86.87 J
+C) 96.87 J
+D) 66.87 J
+
+A force of 27.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 324.00 J
+B) 334.00 J
+C) 344.00 J
+D) 314.00 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 312.96 J
+B) 322.96 J
+C) 332.96 J
+D) 302.96 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 280.59 J
+B) 290.59 J
+C) 300.59 J
+D) 270.59 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 229.10 J
+B) 239.10 J
+C) 249.10 J
+D) 219.10 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 162.00 J
+B) 172.00 J
+C) 182.00 J
+D) 152.00 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 83.86 J
+B) 93.86 J
+C) 103.86 J
+D) 73.86 J
+
+A force of 27.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 351.00 J
+B) 361.00 J
+C) 371.00 J
+D) 341.00 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 339.04 J
+B) 349.04 J
+C) 359.04 J
+D) 329.04 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 303.97 J
+B) 313.97 J
+C) 323.97 J
+D) 293.97 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 248.19 J
+B) 258.19 J
+C) 268.19 J
+D) 238.19 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 175.50 J
+B) 185.50 J
+C) 195.50 J
+D) 165.50 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 90.85 J
+B) 100.85 J
+C) 110.85 J
+D) 80.85 J
+
+A force of 27.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 378.00 J
+B) 388.00 J
+C) 398.00 J
+D) 368.00 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 365.12 J
+B) 375.12 J
+C) 385.12 J
+D) 355.12 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 327.36 J
+B) 337.36 J
+C) 347.36 J
+D) 317.36 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 267.29 J
+B) 277.29 J
+C) 287.29 J
+D) 257.29 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 189.00 J
+B) 199.00 J
+C) 209.00 J
+D) 179.00 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 97.83 J
+B) 107.83 J
+C) 117.83 J
+D) 87.83 J
+
+A force of 27.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 405.00 J
+B) 415.00 J
+C) 425.00 J
+D) 395.00 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 391.20 J
+B) 401.20 J
+C) 411.20 J
+D) 381.20 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 350.74 J
+B) 360.74 J
+C) 370.74 J
+D) 340.74 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 286.38 J
+B) 296.38 J
+C) 306.38 J
+D) 276.38 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 202.50 J
+B) 212.50 J
+C) 222.50 J
+D) 192.50 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 104.82 J
+B) 114.82 J
+C) 124.82 J
+D) 94.82 J
+
+A force of 27.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 140.00 J
+B) 150.00 J
+C) 160.00 J
+D) 130.00 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 135.23 J
+B) 145.23 J
+C) 155.23 J
+D) 125.23 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 121.24 J
+B) 131.24 J
+C) 141.24 J
+D) 111.24 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 98.99 J
+B) 108.99 J
+C) 118.99 J
+D) 88.99 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 70.00 J
+B) 80.00 J
+C) 90.00 J
+D) 60.00 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 36.23 J
+B) 46.23 J
+C) 56.23 J
+D) 26.23 J
+
+A force of 28.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 168.00 J
+B) 178.00 J
+C) 188.00 J
+D) 158.00 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 162.28 J
+B) 172.28 J
+C) 182.28 J
+D) 152.28 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 145.49 J
+B) 155.49 J
+C) 165.49 J
+D) 135.49 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 118.79 J
+B) 128.79 J
+C) 138.79 J
+D) 108.79 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 84.00 J
+B) 94.00 J
+C) 104.00 J
+D) 74.00 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 43.48 J
+B) 53.48 J
+C) 63.48 J
+D) 33.48 J
+
+A force of 28.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 196.00 J
+B) 206.00 J
+C) 216.00 J
+D) 186.00 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 189.32 J
+B) 199.32 J
+C) 209.32 J
+D) 179.32 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 169.74 J
+B) 179.74 J
+C) 189.74 J
+D) 159.74 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 138.59 J
+B) 148.59 J
+C) 158.59 J
+D) 128.59 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 98.00 J
+B) 108.00 J
+C) 118.00 J
+D) 88.00 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 50.73 J
+B) 60.73 J
+C) 70.73 J
+D) 40.73 J
+
+A force of 28.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 224.00 J
+B) 234.00 J
+C) 244.00 J
+D) 214.00 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 216.37 J
+B) 226.37 J
+C) 236.37 J
+D) 206.37 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 193.99 J
+B) 203.99 J
+C) 213.99 J
+D) 183.99 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 158.39 J
+B) 168.39 J
+C) 178.39 J
+D) 148.39 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 112.00 J
+B) 122.00 J
+C) 132.00 J
+D) 102.00 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 57.98 J
+B) 67.98 J
+C) 77.98 J
+D) 47.98 J
+
+A force of 28.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 252.00 J
+B) 262.00 J
+C) 272.00 J
+D) 242.00 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 243.41 J
+B) 253.41 J
+C) 263.41 J
+D) 233.41 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 218.24 J
+B) 228.24 J
+C) 238.24 J
+D) 208.24 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 178.19 J
+B) 188.19 J
+C) 198.19 J
+D) 168.19 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 126.00 J
+B) 136.00 J
+C) 146.00 J
+D) 116.00 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 65.22 J
+B) 75.22 J
+C) 85.22 J
+D) 55.22 J
+
+A force of 28.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 280.00 J
+B) 290.00 J
+C) 300.00 J
+D) 270.00 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 270.46 J
+B) 280.46 J
+C) 290.46 J
+D) 260.46 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 242.49 J
+B) 252.49 J
+C) 262.49 J
+D) 232.49 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 197.99 J
+B) 207.99 J
+C) 217.99 J
+D) 187.99 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 140.00 J
+B) 150.00 J
+C) 160.00 J
+D) 130.00 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 72.47 J
+B) 82.47 J
+C) 92.47 J
+D) 62.47 J
+
+A force of 28.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 308.00 J
+B) 318.00 J
+C) 328.00 J
+D) 298.00 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 297.51 J
+B) 307.51 J
+C) 317.51 J
+D) 287.51 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 266.74 J
+B) 276.74 J
+C) 286.74 J
+D) 256.74 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 217.79 J
+B) 227.79 J
+C) 237.79 J
+D) 207.79 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 154.00 J
+B) 164.00 J
+C) 174.00 J
+D) 144.00 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 79.72 J
+B) 89.72 J
+C) 99.72 J
+D) 69.72 J
+
+A force of 28.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 336.00 J
+B) 346.00 J
+C) 356.00 J
+D) 326.00 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 324.55 J
+B) 334.55 J
+C) 344.55 J
+D) 314.55 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 290.98 J
+B) 300.98 J
+C) 310.98 J
+D) 280.98 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 237.59 J
+B) 247.59 J
+C) 257.59 J
+D) 227.59 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 168.00 J
+B) 178.00 J
+C) 188.00 J
+D) 158.00 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 86.96 J
+B) 96.96 J
+C) 106.96 J
+D) 76.96 J
+
+A force of 28.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 364.00 J
+B) 374.00 J
+C) 384.00 J
+D) 354.00 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 351.60 J
+B) 361.60 J
+C) 371.60 J
+D) 341.60 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 315.23 J
+B) 325.23 J
+C) 335.23 J
+D) 305.23 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 257.39 J
+B) 267.39 J
+C) 277.39 J
+D) 247.39 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 182.00 J
+B) 192.00 J
+C) 202.00 J
+D) 172.00 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 94.21 J
+B) 104.21 J
+C) 114.21 J
+D) 84.21 J
+
+A force of 28.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 392.00 J
+B) 402.00 J
+C) 412.00 J
+D) 382.00 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 378.64 J
+B) 388.64 J
+C) 398.64 J
+D) 368.64 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 339.48 J
+B) 349.48 J
+C) 359.48 J
+D) 329.48 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 277.19 J
+B) 287.19 J
+C) 297.19 J
+D) 267.19 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 196.00 J
+B) 206.00 J
+C) 216.00 J
+D) 186.00 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 101.46 J
+B) 111.46 J
+C) 121.46 J
+D) 91.46 J
+
+A force of 28.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 420.00 J
+B) 430.00 J
+C) 440.00 J
+D) 410.00 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 405.69 J
+B) 415.69 J
+C) 425.69 J
+D) 395.69 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 363.73 J
+B) 373.73 J
+C) 383.73 J
+D) 353.73 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 296.98 J
+B) 306.98 J
+C) 316.98 J
+D) 286.98 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 210.00 J
+B) 220.00 J
+C) 230.00 J
+D) 200.00 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 108.70 J
+B) 118.70 J
+C) 128.70 J
+D) 98.70 J
+
+A force of 28.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 145.00 J
+B) 155.00 J
+C) 165.00 J
+D) 135.00 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 140.06 J
+B) 150.06 J
+C) 160.06 J
+D) 130.06 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 125.57 J
+B) 135.57 J
+C) 145.57 J
+D) 115.57 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 102.53 J
+B) 112.53 J
+C) 122.53 J
+D) 92.53 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 72.50 J
+B) 82.50 J
+C) 92.50 J
+D) 62.50 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 37.53 J
+B) 47.53 J
+C) 57.53 J
+D) 27.53 J
+
+A force of 29.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 174.00 J
+B) 184.00 J
+C) 194.00 J
+D) 164.00 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 168.07 J
+B) 178.07 J
+C) 188.07 J
+D) 158.07 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 150.69 J
+B) 160.69 J
+C) 170.69 J
+D) 140.69 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 123.04 J
+B) 133.04 J
+C) 143.04 J
+D) 113.04 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 87.00 J
+B) 97.00 J
+C) 107.00 J
+D) 77.00 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 45.03 J
+B) 55.03 J
+C) 65.03 J
+D) 35.03 J
+
+A force of 29.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 203.00 J
+B) 213.00 J
+C) 223.00 J
+D) 193.00 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 196.08 J
+B) 206.08 J
+C) 216.08 J
+D) 186.08 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 175.80 J
+B) 185.80 J
+C) 195.80 J
+D) 165.80 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 143.54 J
+B) 153.54 J
+C) 163.54 J
+D) 133.54 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 101.50 J
+B) 111.50 J
+C) 121.50 J
+D) 91.50 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 52.54 J
+B) 62.54 J
+C) 72.54 J
+D) 42.54 J
+
+A force of 29.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 232.00 J
+B) 242.00 J
+C) 252.00 J
+D) 222.00 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 224.09 J
+B) 234.09 J
+C) 244.09 J
+D) 214.09 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 200.92 J
+B) 210.92 J
+C) 220.92 J
+D) 190.92 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 164.05 J
+B) 174.05 J
+C) 184.05 J
+D) 154.05 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 116.00 J
+B) 126.00 J
+C) 136.00 J
+D) 106.00 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 60.05 J
+B) 70.05 J
+C) 80.05 J
+D) 50.05 J
+
+A force of 29.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 261.00 J
+B) 271.00 J
+C) 281.00 J
+D) 251.00 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 252.11 J
+B) 262.11 J
+C) 272.11 J
+D) 242.11 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 226.03 J
+B) 236.03 J
+C) 246.03 J
+D) 216.03 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 184.55 J
+B) 194.55 J
+C) 204.55 J
+D) 174.55 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 130.50 J
+B) 140.50 J
+C) 150.50 J
+D) 120.50 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 67.55 J
+B) 77.55 J
+C) 87.55 J
+D) 57.55 J
+
+A force of 29.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 290.00 J
+B) 300.00 J
+C) 310.00 J
+D) 280.00 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 280.12 J
+B) 290.12 J
+C) 300.12 J
+D) 270.12 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 251.15 J
+B) 261.15 J
+C) 271.15 J
+D) 241.15 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 205.06 J
+B) 215.06 J
+C) 225.06 J
+D) 195.06 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 145.00 J
+B) 155.00 J
+C) 165.00 J
+D) 135.00 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 75.06 J
+B) 85.06 J
+C) 95.06 J
+D) 65.06 J
+
+A force of 29.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 319.00 J
+B) 329.00 J
+C) 339.00 J
+D) 309.00 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 308.13 J
+B) 318.13 J
+C) 328.13 J
+D) 298.13 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 276.26 J
+B) 286.26 J
+C) 296.26 J
+D) 266.26 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 225.57 J
+B) 235.57 J
+C) 245.57 J
+D) 215.57 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 159.50 J
+B) 169.50 J
+C) 179.50 J
+D) 149.50 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 82.56 J
+B) 92.56 J
+C) 102.56 J
+D) 72.56 J
+
+A force of 29.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 348.00 J
+B) 358.00 J
+C) 368.00 J
+D) 338.00 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 336.14 J
+B) 346.14 J
+C) 356.14 J
+D) 326.14 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 301.38 J
+B) 311.38 J
+C) 321.38 J
+D) 291.38 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 246.07 J
+B) 256.07 J
+C) 266.07 J
+D) 236.07 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 174.00 J
+B) 184.00 J
+C) 194.00 J
+D) 164.00 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 90.07 J
+B) 100.07 J
+C) 110.07 J
+D) 80.07 J
+
+A force of 29.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 377.00 J
+B) 387.00 J
+C) 397.00 J
+D) 367.00 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 364.15 J
+B) 374.15 J
+C) 384.15 J
+D) 354.15 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 326.49 J
+B) 336.49 J
+C) 346.49 J
+D) 316.49 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 266.58 J
+B) 276.58 J
+C) 286.58 J
+D) 256.58 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 188.50 J
+B) 198.50 J
+C) 208.50 J
+D) 178.50 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 97.57 J
+B) 107.57 J
+C) 117.57 J
+D) 87.57 J
+
+A force of 29.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 406.00 J
+B) 416.00 J
+C) 426.00 J
+D) 396.00 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 392.17 J
+B) 402.17 J
+C) 412.17 J
+D) 382.17 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 351.61 J
+B) 361.61 J
+C) 371.61 J
+D) 341.61 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 287.09 J
+B) 297.09 J
+C) 307.09 J
+D) 277.09 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 203.00 J
+B) 213.00 J
+C) 223.00 J
+D) 193.00 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 105.08 J
+B) 115.08 J
+C) 125.08 J
+D) 95.08 J
+
+A force of 29.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 435.00 J
+B) 445.00 J
+C) 455.00 J
+D) 425.00 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 420.18 J
+B) 430.18 J
+C) 440.18 J
+D) 410.18 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 376.72 J
+B) 386.72 J
+C) 396.72 J
+D) 366.72 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 307.59 J
+B) 317.59 J
+C) 327.59 J
+D) 297.59 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 217.50 J
+B) 227.50 J
+C) 237.50 J
+D) 207.50 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 112.59 J
+B) 122.59 J
+C) 132.59 J
+D) 102.59 J
+
+A force of 29.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 0 degrees. What is the work done?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 15 degrees. What is the work done?
+A) 144.89 J
+B) 154.89 J
+C) 164.89 J
+D) 134.89 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 30 degrees. What is the work done?
+A) 129.90 J
+B) 139.90 J
+C) 149.90 J
+D) 119.90 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 45 degrees. What is the work done?
+A) 106.07 J
+B) 116.07 J
+C) 126.07 J
+D) 96.07 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 60 degrees. What is the work done?
+A) 75.00 J
+B) 85.00 J
+C) 95.00 J
+D) 65.00 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 75 degrees. What is the work done?
+A) 38.82 J
+B) 48.82 J
+C) 58.82 J
+D) 28.82 J
+
+A force of 30.0 N is applied to move an object a distance of 5.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 0 degrees. What is the work done?
+A) 180.00 J
+B) 190.00 J
+C) 200.00 J
+D) 170.00 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 15 degrees. What is the work done?
+A) 173.87 J
+B) 183.87 J
+C) 193.87 J
+D) 163.87 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 30 degrees. What is the work done?
+A) 155.88 J
+B) 165.88 J
+C) 175.88 J
+D) 145.88 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 45 degrees. What is the work done?
+A) 127.28 J
+B) 137.28 J
+C) 147.28 J
+D) 117.28 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 60 degrees. What is the work done?
+A) 90.00 J
+B) 100.00 J
+C) 110.00 J
+D) 80.00 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 75 degrees. What is the work done?
+A) 46.59 J
+B) 56.59 J
+C) 66.59 J
+D) 36.59 J
+
+A force of 30.0 N is applied to move an object a distance of 6.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 0 degrees. What is the work done?
+A) 210.00 J
+B) 220.00 J
+C) 230.00 J
+D) 200.00 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 15 degrees. What is the work done?
+A) 202.84 J
+B) 212.84 J
+C) 222.84 J
+D) 192.84 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 30 degrees. What is the work done?
+A) 181.87 J
+B) 191.87 J
+C) 201.87 J
+D) 171.87 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 45 degrees. What is the work done?
+A) 148.49 J
+B) 158.49 J
+C) 168.49 J
+D) 138.49 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 60 degrees. What is the work done?
+A) 105.00 J
+B) 115.00 J
+C) 125.00 J
+D) 95.00 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 75 degrees. What is the work done?
+A) 54.35 J
+B) 64.35 J
+C) 74.35 J
+D) 44.35 J
+
+A force of 30.0 N is applied to move an object a distance of 7.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 0 degrees. What is the work done?
+A) 240.00 J
+B) 250.00 J
+C) 260.00 J
+D) 230.00 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 15 degrees. What is the work done?
+A) 231.82 J
+B) 241.82 J
+C) 251.82 J
+D) 221.82 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 30 degrees. What is the work done?
+A) 207.85 J
+B) 217.85 J
+C) 227.85 J
+D) 197.85 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 45 degrees. What is the work done?
+A) 169.71 J
+B) 179.71 J
+C) 189.71 J
+D) 159.71 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 60 degrees. What is the work done?
+A) 120.00 J
+B) 130.00 J
+C) 140.00 J
+D) 110.00 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 75 degrees. What is the work done?
+A) 62.12 J
+B) 72.12 J
+C) 82.12 J
+D) 52.12 J
+
+A force of 30.0 N is applied to move an object a distance of 8.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 0 degrees. What is the work done?
+A) 270.00 J
+B) 280.00 J
+C) 290.00 J
+D) 260.00 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 15 degrees. What is the work done?
+A) 260.80 J
+B) 270.80 J
+C) 280.80 J
+D) 250.80 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 30 degrees. What is the work done?
+A) 233.83 J
+B) 243.83 J
+C) 253.83 J
+D) 223.83 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 45 degrees. What is the work done?
+A) 190.92 J
+B) 200.92 J
+C) 210.92 J
+D) 180.92 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 60 degrees. What is the work done?
+A) 135.00 J
+B) 145.00 J
+C) 155.00 J
+D) 125.00 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 75 degrees. What is the work done?
+A) 69.88 J
+B) 79.88 J
+C) 89.88 J
+D) 59.88 J
+
+A force of 30.0 N is applied to move an object a distance of 9.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 0 degrees. What is the work done?
+A) 300.00 J
+B) 310.00 J
+C) 320.00 J
+D) 290.00 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 15 degrees. What is the work done?
+A) 289.78 J
+B) 299.78 J
+C) 309.78 J
+D) 279.78 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 30 degrees. What is the work done?
+A) 259.81 J
+B) 269.81 J
+C) 279.81 J
+D) 249.81 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 45 degrees. What is the work done?
+A) 212.13 J
+B) 222.13 J
+C) 232.13 J
+D) 202.13 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 60 degrees. What is the work done?
+A) 150.00 J
+B) 160.00 J
+C) 170.00 J
+D) 140.00 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 75 degrees. What is the work done?
+A) 77.65 J
+B) 87.65 J
+C) 97.65 J
+D) 67.65 J
+
+A force of 30.0 N is applied to move an object a distance of 10.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 0 degrees. What is the work done?
+A) 330.00 J
+B) 340.00 J
+C) 350.00 J
+D) 320.00 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 15 degrees. What is the work done?
+A) 318.76 J
+B) 328.76 J
+C) 338.76 J
+D) 308.76 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 30 degrees. What is the work done?
+A) 285.79 J
+B) 295.79 J
+C) 305.79 J
+D) 275.79 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 45 degrees. What is the work done?
+A) 233.35 J
+B) 243.35 J
+C) 253.35 J
+D) 223.35 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 60 degrees. What is the work done?
+A) 165.00 J
+B) 175.00 J
+C) 185.00 J
+D) 155.00 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 75 degrees. What is the work done?
+A) 85.41 J
+B) 95.41 J
+C) 105.41 J
+D) 75.41 J
+
+A force of 30.0 N is applied to move an object a distance of 11.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 0 degrees. What is the work done?
+A) 360.00 J
+B) 370.00 J
+C) 380.00 J
+D) 350.00 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 15 degrees. What is the work done?
+A) 347.73 J
+B) 357.73 J
+C) 367.73 J
+D) 337.73 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 30 degrees. What is the work done?
+A) 311.77 J
+B) 321.77 J
+C) 331.77 J
+D) 301.77 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 45 degrees. What is the work done?
+A) 254.56 J
+B) 264.56 J
+C) 274.56 J
+D) 244.56 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 60 degrees. What is the work done?
+A) 180.00 J
+B) 190.00 J
+C) 200.00 J
+D) 170.00 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 75 degrees. What is the work done?
+A) 93.17 J
+B) 103.17 J
+C) 113.17 J
+D) 83.17 J
+
+A force of 30.0 N is applied to move an object a distance of 12.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 0 degrees. What is the work done?
+A) 390.00 J
+B) 400.00 J
+C) 410.00 J
+D) 380.00 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 15 degrees. What is the work done?
+A) 376.71 J
+B) 386.71 J
+C) 396.71 J
+D) 366.71 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 30 degrees. What is the work done?
+A) 337.75 J
+B) 347.75 J
+C) 357.75 J
+D) 327.75 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 45 degrees. What is the work done?
+A) 275.77 J
+B) 285.77 J
+C) 295.77 J
+D) 265.77 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 60 degrees. What is the work done?
+A) 195.00 J
+B) 205.00 J
+C) 215.00 J
+D) 185.00 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 75 degrees. What is the work done?
+A) 100.94 J
+B) 110.94 J
+C) 120.94 J
+D) 90.94 J
+
+A force of 30.0 N is applied to move an object a distance of 13.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 0 degrees. What is the work done?
+A) 420.00 J
+B) 430.00 J
+C) 440.00 J
+D) 410.00 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 15 degrees. What is the work done?
+A) 405.69 J
+B) 415.69 J
+C) 425.69 J
+D) 395.69 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 30 degrees. What is the work done?
+A) 363.73 J
+B) 373.73 J
+C) 383.73 J
+D) 353.73 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 45 degrees. What is the work done?
+A) 296.98 J
+B) 306.98 J
+C) 316.98 J
+D) 286.98 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 60 degrees. What is the work done?
+A) 210.00 J
+B) 220.00 J
+C) 230.00 J
+D) 200.00 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 75 degrees. What is the work done?
+A) 108.70 J
+B) 118.70 J
+C) 128.70 J
+D) 98.70 J
+
+A force of 30.0 N is applied to move an object a distance of 14.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 0 degrees. What is the work done?
+A) 450.00 J
+B) 460.00 J
+C) 470.00 J
+D) 440.00 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 15 degrees. What is the work done?
+A) 434.67 J
+B) 444.67 J
+C) 454.67 J
+D) 424.67 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 30 degrees. What is the work done?
+A) 389.71 J
+B) 399.71 J
+C) 409.71 J
+D) 379.71 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 45 degrees. What is the work done?
+A) 318.20 J
+B) 328.20 J
+C) 338.20 J
+D) 308.20 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 60 degrees. What is the work done?
+A) 225.00 J
+B) 235.00 J
+C) 245.00 J
+D) 215.00 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 75 degrees. What is the work done?
+A) 116.47 J
+B) 126.47 J
+C) 136.47 J
+D) 106.47 J
+
+A force of 30.0 N is applied to move an object a distance of 15.0 m at an angle of 90 degrees. What is the work done?
+A) -0.00 J
+B) 10.00 J
+C) 20.00 J
+D) -10.00 J
+

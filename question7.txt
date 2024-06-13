@@ -1,0 +1,528 @@
+A force of 20.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 6.67 m/s
+B) 7.67 m/s
+C) 8.67 m/s
+D) 5.67 m/s
+
+A force of 20.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 5.00 m/s
+B) 6.00 m/s
+C) 7.00 m/s
+D) 4.00 m/s
+
+A force of 20.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 4.00 m/s
+B) 5.00 m/s
+C) 6.00 m/s
+D) 3.00 m/s
+
+A force of 20.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 3.33 m/s
+B) 4.33 m/s
+C) 5.33 m/s
+D) 2.33 m/s
+
+A force of 20.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 2.86 m/s
+B) 3.86 m/s
+C) 4.86 m/s
+D) 1.86 m/s
+
+A force of 20.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 2.50 m/s
+B) 3.50 m/s
+C) 4.50 m/s
+D) 1.50 m/s
+
+A force of 20.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.22 m/s
+B) 3.22 m/s
+C) 4.22 m/s
+D) 1.22 m/s
+
+A force of 20.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.00 m/s
+B) 3.00 m/s
+C) 4.00 m/s
+D) 1.00 m/s
+
+A force of 21.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 7.00 m/s
+B) 8.00 m/s
+C) 9.00 m/s
+D) 6.00 m/s
+
+A force of 21.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 5.25 m/s
+B) 6.25 m/s
+C) 7.25 m/s
+D) 4.25 m/s
+
+A force of 21.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 4.20 m/s
+B) 5.20 m/s
+C) 6.20 m/s
+D) 3.20 m/s
+
+A force of 21.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 3.50 m/s
+B) 4.50 m/s
+C) 5.50 m/s
+D) 2.50 m/s
+
+A force of 21.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.00 m/s
+B) 4.00 m/s
+C) 5.00 m/s
+D) 2.00 m/s
+
+A force of 21.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 2.63 m/s
+B) 3.63 m/s
+C) 4.63 m/s
+D) 1.63 m/s
+
+A force of 21.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.33 m/s
+B) 3.33 m/s
+C) 4.33 m/s
+D) 1.33 m/s
+
+A force of 21.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.10 m/s
+B) 3.10 m/s
+C) 4.10 m/s
+D) 1.10 m/s
+
+A force of 22.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 7.33 m/s
+B) 8.33 m/s
+C) 9.33 m/s
+D) 6.33 m/s
+
+A force of 22.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 5.50 m/s
+B) 6.50 m/s
+C) 7.50 m/s
+D) 4.50 m/s
+
+A force of 22.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 4.40 m/s
+B) 5.40 m/s
+C) 6.40 m/s
+D) 3.40 m/s
+
+A force of 22.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 3.67 m/s
+B) 4.67 m/s
+C) 5.67 m/s
+D) 2.67 m/s
+
+A force of 22.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.14 m/s
+B) 4.14 m/s
+C) 5.14 m/s
+D) 2.14 m/s
+
+A force of 22.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 2.75 m/s
+B) 3.75 m/s
+C) 4.75 m/s
+D) 1.75 m/s
+
+A force of 22.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.44 m/s
+B) 3.44 m/s
+C) 4.44 m/s
+D) 1.44 m/s
+
+A force of 22.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.20 m/s
+B) 3.20 m/s
+C) 4.20 m/s
+D) 1.20 m/s
+
+A force of 23.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 7.67 m/s
+B) 8.67 m/s
+C) 9.67 m/s
+D) 6.67 m/s
+
+A force of 23.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 5.75 m/s
+B) 6.75 m/s
+C) 7.75 m/s
+D) 4.75 m/s
+
+A force of 23.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 4.60 m/s
+B) 5.60 m/s
+C) 6.60 m/s
+D) 3.60 m/s
+
+A force of 23.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 3.83 m/s
+B) 4.83 m/s
+C) 5.83 m/s
+D) 2.83 m/s
+
+A force of 23.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.29 m/s
+B) 4.29 m/s
+C) 5.29 m/s
+D) 2.29 m/s
+
+A force of 23.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 2.88 m/s
+B) 3.88 m/s
+C) 4.88 m/s
+D) 1.88 m/s
+
+A force of 23.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.56 m/s
+B) 3.56 m/s
+C) 4.56 m/s
+D) 1.56 m/s
+
+A force of 23.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.30 m/s
+B) 3.30 m/s
+C) 4.30 m/s
+D) 1.30 m/s
+
+A force of 24.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 8.00 m/s
+B) 9.00 m/s
+C) 10.00 m/s
+D) 7.00 m/s
+
+A force of 24.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 6.00 m/s
+B) 7.00 m/s
+C) 8.00 m/s
+D) 5.00 m/s
+
+A force of 24.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 4.80 m/s
+B) 5.80 m/s
+C) 6.80 m/s
+D) 3.80 m/s
+
+A force of 24.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.00 m/s
+B) 5.00 m/s
+C) 6.00 m/s
+D) 3.00 m/s
+
+A force of 24.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.43 m/s
+B) 4.43 m/s
+C) 5.43 m/s
+D) 2.43 m/s
+
+A force of 24.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.00 m/s
+B) 4.00 m/s
+C) 5.00 m/s
+D) 2.00 m/s
+
+A force of 24.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.67 m/s
+B) 3.67 m/s
+C) 4.67 m/s
+D) 1.67 m/s
+
+A force of 24.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.40 m/s
+B) 3.40 m/s
+C) 4.40 m/s
+D) 1.40 m/s
+
+A force of 25.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 8.33 m/s
+B) 9.33 m/s
+C) 10.33 m/s
+D) 7.33 m/s
+
+A force of 25.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 6.25 m/s
+B) 7.25 m/s
+C) 8.25 m/s
+D) 5.25 m/s
+
+A force of 25.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 5.00 m/s
+B) 6.00 m/s
+C) 7.00 m/s
+D) 4.00 m/s
+
+A force of 25.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.17 m/s
+B) 5.17 m/s
+C) 6.17 m/s
+D) 3.17 m/s
+
+A force of 25.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.57 m/s
+B) 4.57 m/s
+C) 5.57 m/s
+D) 2.57 m/s
+
+A force of 25.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.13 m/s
+B) 4.13 m/s
+C) 5.13 m/s
+D) 2.13 m/s
+
+A force of 25.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.78 m/s
+B) 3.78 m/s
+C) 4.78 m/s
+D) 1.78 m/s
+
+A force of 25.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.50 m/s
+B) 3.50 m/s
+C) 4.50 m/s
+D) 1.50 m/s
+
+A force of 26.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 8.67 m/s
+B) 9.67 m/s
+C) 10.67 m/s
+D) 7.67 m/s
+
+A force of 26.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 6.50 m/s
+B) 7.50 m/s
+C) 8.50 m/s
+D) 5.50 m/s
+
+A force of 26.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 5.20 m/s
+B) 6.20 m/s
+C) 7.20 m/s
+D) 4.20 m/s
+
+A force of 26.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.33 m/s
+B) 5.33 m/s
+C) 6.33 m/s
+D) 3.33 m/s
+
+A force of 26.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.71 m/s
+B) 4.71 m/s
+C) 5.71 m/s
+D) 2.71 m/s
+
+A force of 26.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.25 m/s
+B) 4.25 m/s
+C) 5.25 m/s
+D) 2.25 m/s
+
+A force of 26.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 2.89 m/s
+B) 3.89 m/s
+C) 4.89 m/s
+D) 1.89 m/s
+
+A force of 26.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.60 m/s
+B) 3.60 m/s
+C) 4.60 m/s
+D) 1.60 m/s
+
+A force of 27.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 9.00 m/s
+B) 10.00 m/s
+C) 11.00 m/s
+D) 8.00 m/s
+
+A force of 27.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 6.75 m/s
+B) 7.75 m/s
+C) 8.75 m/s
+D) 5.75 m/s
+
+A force of 27.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 5.40 m/s
+B) 6.40 m/s
+C) 7.40 m/s
+D) 4.40 m/s
+
+A force of 27.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.50 m/s
+B) 5.50 m/s
+C) 6.50 m/s
+D) 3.50 m/s
+
+A force of 27.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 3.86 m/s
+B) 4.86 m/s
+C) 5.86 m/s
+D) 2.86 m/s
+
+A force of 27.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.38 m/s
+B) 4.38 m/s
+C) 5.38 m/s
+D) 2.38 m/s
+
+A force of 27.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 3.00 m/s
+B) 4.00 m/s
+C) 5.00 m/s
+D) 2.00 m/s
+
+A force of 27.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.70 m/s
+B) 3.70 m/s
+C) 4.70 m/s
+D) 1.70 m/s
+
+A force of 28.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 9.33 m/s
+B) 10.33 m/s
+C) 11.33 m/s
+D) 8.33 m/s
+
+A force of 28.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 7.00 m/s
+B) 8.00 m/s
+C) 9.00 m/s
+D) 6.00 m/s
+
+A force of 28.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 5.60 m/s
+B) 6.60 m/s
+C) 7.60 m/s
+D) 4.60 m/s
+
+A force of 28.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.67 m/s
+B) 5.67 m/s
+C) 6.67 m/s
+D) 3.67 m/s
+
+A force of 28.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 4.00 m/s
+B) 5.00 m/s
+C) 6.00 m/s
+D) 3.00 m/s
+
+A force of 28.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.50 m/s
+B) 4.50 m/s
+C) 5.50 m/s
+D) 2.50 m/s
+
+A force of 28.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 3.11 m/s
+B) 4.11 m/s
+C) 5.11 m/s
+D) 2.11 m/s
+
+A force of 28.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.80 m/s
+B) 3.80 m/s
+C) 4.80 m/s
+D) 1.80 m/s
+
+A force of 29.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 9.67 m/s
+B) 10.67 m/s
+C) 11.67 m/s
+D) 8.67 m/s
+
+A force of 29.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 7.25 m/s
+B) 8.25 m/s
+C) 9.25 m/s
+D) 6.25 m/s
+
+A force of 29.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 5.80 m/s
+B) 6.80 m/s
+C) 7.80 m/s
+D) 4.80 m/s
+
+A force of 29.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 4.83 m/s
+B) 5.83 m/s
+C) 6.83 m/s
+D) 3.83 m/s
+
+A force of 29.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 4.14 m/s
+B) 5.14 m/s
+C) 6.14 m/s
+D) 3.14 m/s
+
+A force of 29.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.63 m/s
+B) 4.63 m/s
+C) 5.63 m/s
+D) 2.63 m/s
+
+A force of 29.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 3.22 m/s
+B) 4.22 m/s
+C) 5.22 m/s
+D) 2.22 m/s
+
+A force of 29.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 2.90 m/s
+B) 3.90 m/s
+C) 4.90 m/s
+D) 1.90 m/s
+
+A force of 30.0 N is applied to an object with a mass of 3.0 kg. What is its acceleration?
+A) 10.00 m/s
+B) 11.00 m/s
+C) 12.00 m/s
+D) 9.00 m/s
+
+A force of 30.0 N is applied to an object with a mass of 4.0 kg. What is its acceleration?
+A) 7.50 m/s
+B) 8.50 m/s
+C) 9.50 m/s
+D) 6.50 m/s
+
+A force of 30.0 N is applied to an object with a mass of 5.0 kg. What is its acceleration?
+A) 6.00 m/s
+B) 7.00 m/s
+C) 8.00 m/s
+D) 5.00 m/s
+
+A force of 30.0 N is applied to an object with a mass of 6.0 kg. What is its acceleration?
+A) 5.00 m/s
+B) 6.00 m/s
+C) 7.00 m/s
+D) 4.00 m/s
+
+A force of 30.0 N is applied to an object with a mass of 7.0 kg. What is its acceleration?
+A) 4.29 m/s
+B) 5.29 m/s
+C) 6.29 m/s
+D) 3.29 m/s
+
+A force of 30.0 N is applied to an object with a mass of 8.0 kg. What is its acceleration?
+A) 3.75 m/s
+B) 4.75 m/s
+C) 5.75 m/s
+D) 2.75 m/s
+
+A force of 30.0 N is applied to an object with a mass of 9.0 kg. What is its acceleration?
+A) 3.33 m/s
+B) 4.33 m/s
+C) 5.33 m/s
+D) 2.33 m/s
+
+A force of 30.0 N is applied to an object with a mass of 10.0 kg. What is its acceleration?
+A) 3.00 m/s
+B) 4.00 m/s
+C) 5.00 m/s
+D) 2.00 m/s
+
